@@ -1,0 +1,52 @@
+﻿Unidade,Endereco_completo,Municipio,Bloco,Categoria_PGRS,Tipo
+EEAT ENGENHEIRO PEDREIRA,"Cidade Jardim, Marajoara, Japeri – RJ",Japeri,B4,Regional,Estação Elevatória de Água Tratada
+EEAT JK,"Rua da Cascata, 60 – Presidente Juscelino, Mesquita – RJ",Mesquita,B4,Regional,Estação Elevatória de Água Tratada
+EEAT NILÓPOLIS,"Avenida Nazaré, 3076 - Olinda, Nilópolis – RJ, 21645-010",Nilópolis,B4,Regional,Estação Elevatória de Água Tratada
+ERES NILÓPOLIS,"Rua Antônio Pereira de Carvalho, 205 – Centro, Nilópolis - RJ",Nilópolis,B4,Regional,Estação de Reservação
+EEAT CABUÇU BAIXO,"Rua Ozório, 53 – Valverde, Nova Iguaçu, Nova Iguaçu, RJ, Brasil",Nova Iguaçu,B4,Regional,Estação Elevatória de Água Tratada
+EEAT ESPLANADA,"Estrada da Fazenda, 2264 – Jardim da Viga, Nova Iguaçu, Nova Iguaçu, RJ, Brasil",Nova Iguaçu,B4,Regional,Estação Elevatória de Água Tratada
+EEAT COORDENAÇÃO DE MANUTENÇÃO DA BAIXADA,"Rua Professor Venina Correa Torres, 23 – Centro, Nova Iguaçu, Nova Iguaçu, RJ, Brasil",Nova Iguaçu,B4,Regional,Estação Elevatória de Água Tratada
+ERES JK VELHO,"Rua Carolina Machado, 192 - Juscelino, Nova Iguaçu, Nova Iguaçu, RJ, Brasil",Nova Iguaçu,B4,Regional,Estação de Reservação
+ERES JK NOVO,"Rua Irmãos Maurício, 413 – Caonze, Nova Iguaçu, Nova Iguaçu, RJ, Brasil",Nova Iguaçu,B4,Regional,Estação de Reservação
+ERES POSSE,"Rua da Fonte, 77 – Posse, Nova Iguaçu, Nova Iguaçu, RJ, Brasil",Nova Iguaçu,B4,Regional,Estação de Reservação
+ERES TAÇA,"Rua Colorado, 146 - Vl Valverde - Nova Iguaçu, Nova Iguaçu, RJ, Brasil",Nova Iguaçu,B4,Regional,Estação de Reservação
+ERES AUSTIN,"Rua Tomás Gonzaga, 181 – Austin, Nova Iguaçu, Nova Iguaçu, RJ, Brasil",Nova Iguaçu,B4,Regional,Estação de Reservação
+EEAT AUSTIN,"Rua Araicas 37, Largo dos Peixes - Nova Iguaçu, Nova Iguaçu, RJ, Brasil",Nova Iguaçu,B4,Regional,Estação Elevatória de Água Tratada
+BASE OPERACIONAL VIDIGAL,"Rua Sobral Pinto, 4 (Largo do Santinho) - Rio de Janeiro - RJ",Rio de Janeiro,B1,Regional,Base Operacional
+LOJA DE ATENDIMENTO APERIBÉ,"Rua Augusto Gomes da Silva, 56, Centro, Aperibé - RJ, 28495-000",Aperibé,B1,Regional,Loja
+LOJA DE ATENDIMENTO CACHOEIRA DA MACACU,"Avenida Gov. Roberto Silveira, 303 - Centro, Cachoeiras de Macacu - RJ, 28680-000",Cachoeira de Macacu,B1,Regional,Loja
+ETA CAMBUCI,"Rodovia RJ-194, ao lado do Posto de Saúde, Centro - Floresta, Cambuci - RJ, 28430-000",Cambuci,B1,Regional,Estação de Tratamento de Água
+UT MONTE VERDE,"Rua Vargem Alegre, s/n, Centro - Monte Verde, Cambuci - RJ, 28430-000",Cambuci,B1,Regional,Unidade de Tratamento de Água
+UT SÃO JOÃO DO PARAÍSO,"R. Oliveira Pinto, próximo ao 226 - São João do Paraíso, Cambuci - RJ, 28430-000",Cambuci,B1,Regional,Unidade de Tratamento de Água
+ETA SANTA RITA DA FLORESTA,"Rua Cemitério, S/N - Santa Rita da Floresta -Cantagalo - RJ, 28500-000",Cantagalo,B1,Regional,Estação de Tratamento de Água
+ETA EUCLIDELÂNDIA,"Próximo a Rodovia RJ - 152, Km 53, S/N, Vila Saint Clair, Cantagalo - RJ, 28500-000",Cantagalo,B1,Regional,Estação de Tratamento de Água
+ETA SÃO SEBASTIÃO DO PARAÍBA,"Avenida Laper, S/N - São Sebastião do Paraíba, Cantagalo - RJ, 28500-000",Cantagalo,B1,Regional,Estação de Tratamento de Água
+LOJA DE ATENDIMENTO BARRA DE SÃO JOÃO,"Rua Major Samuel Barreira, 87, Barra de São João,Casimiro de Abreu - RJ, 28860-000",Casimiro de Abreu,B1,Regional,Loja
+SEDE ADMNISTRATIVA CORDEIRO,"Rua M. Humberto, 89 – Parque Raul Veiga, Cordeiro - RJ, 28495-000",Cordeiro,B1,Regional,Sede Administrativa
+ETA DUAS BARRAS,"Rua Maria de Oliveira Guimarães, 68-172, Caixa D'água -Duas Barras - RJ, 28650-000",Duas Barras,B1,Regional,Estação de Tratamento de Água
+LOJA DE ATENDIMENTO DUAS BARRAS,"Avenida Getúlio Vargas, 10, Duas Barras - RJ, 28650-000",Duas Barras,B1,Regional,Loja
+ETA PORTELA,"Rua Antônio Corrêa da Rocha - Portela, Itaocara - RJ, 28570-000",Itaocara,B1,Regional,Estação de Tratamento de Água
+ETA LARANJAIS,"Rua Nilo Peçanha, 385-355 -Laranjais, Itaocara - RJ, 28570-000",Itaocara,B1,Regional,Estação de Tratamento de Água
+SEDE ADMNISTRATIVA ITAOCARA,"Av. Mal. Floriano Peixoto, 508 - Jardim D Aldeia, Itaocara -RJ, 28570-000",Itaocara,B1,Regional,Sede Administrativa
+ETA PARAÍSO DO TOBIAS,"Rua Manoel da São Almeida, 34 - Paraíso do Tobias, Miracema - RJ, 28460-000",Miracema,B1,Regional,Estação de Tratamento de Água
+LOJA DE ATENDIMENTO MIRACEMA,"Avenida Dep. Luís Fernando Linhares, 103 - Miracema, RJ, 28460-000",Miracema,B1,Regional,Loja
+CAPTAÇÃO MIRACEMA,"Av. Samel S/N, Vila Ramos, Miracema - RJ, 28460-000",Miracema,B1,Regional,Estação Elevatória de Água Bruta
+UT LAVRAS,"Próximo a Estrada Velha de Lavras, Rio Bonito, RJ, 28800-000",Rio Bonito,B1,Regional,Unidade de Tratamento de Água
+UT BOA ESPERANÇA,"Estrada do Rio Mole, com acesso pela RJ-124, Rio Bonito - RJ, 28800-000",Rio Bonito,B1,Regional,Unidade de Tratamento de Água
+LOJA DE ATENDIMENTO SÃO SEBASTIÃO DO ALTO,"Rua Dr. Júlio Vieitas, 29 -Centro, São Sebastião do Alto - RJ, 21000-000",São Sebastião do Alto,B1,Agrupado/Municipal,Loja
+UT CHÁCARA DO PARAÍSO,"Rua Hermes Daumas, 300 -Centro, São Sebastião do Alto - RJ, 28550-000",São Sebastião do Alto,B1,Agrupado/Municipal,Unidade de Tratamento de Água
+UT HOSPITAL,"Rua Min. Franscico Dorneles, 74-174 - Santa Irene, São Sebastião do Alto - RJ, 28550-000",São Sebastião do Alto,B1,Agrupado/Municipal,Unidade de Tratamento de Água
+BASE OPERACIONAL ITABORAÍ,"Rua José Leandro, 38 - Centro, Itaboraí - RJ, 24800-149",Itaboraí,B1,Regional,Base Operacional
+EEE APOLO 1,"R. Azebi Coutinho da Veiga 350 -Monjolo, São Gonçalo - RJ, 24425-285",São Gonçalo,B1,Regional,Estação Elevatória de Esgoto
+ETA PONTA NEGRA,"RJ-118, 40 - Ponta Negra, Maricá- RJ, 24942-39",Maricá,B1,Agrupado/Municipal,Estação de Tratamento de Água
+ETA SAMPAIO CORREA,"Cachoeira do Roncador -Sampaio Corrêa, Saquarema - RJ",Saquarema,B1,Regional,Estação de Tratamento de Água
+EEAT INOÃ,"Av. Francisco Azeredo Coutinho, 2035-3091 - Ipiíba, São Gonçalo -RJ",São Gonçalo,B1,Regional,Estação Elevatória de Água Tratada
+LOJA COMERCIAL TANGUÁ,"Rua Vereador Manoel Macedo, loja 4, no Centro, Tanguá, RJ, Brasil",Tanguá,B1,Regional,Loja
+SEDE ADMINISTRATIVA MARICÁ,"R. Joana Chavier Mattos, 0 -Flamengo, Maricá - RJ, 24903-765",Maricá,B1,Agrupado/Municipal,Sede Administrativa
+SEDE ADMNISTRATIVA CENTRO I,"Rua Cel. Moreira César, 139 -Centro, São Gonçalo - RJ, 24440 -400",São Gonçalo,B1,Regional,Sede Administrativa
+LOJA DE ATENDIMENTO CENTRO RJ,"R. Afonso Cavalcanti,275 -Centro, Rio de Janeiro, RJ, Brasil",Rio de Janeiro,B1,Regional,Loja
+EEE BICA,"Estrada da Bica, nº 01 – Jardim Guanabara, Rio de Janeiro, RJ, Brasil",Rio de Janeiro,B4,Regional,Estação Elevatória de Esgoto
+EEE FUNDÃO,"Rua Lobo Carneiro – Próximo a Saída 3 da Linha Amarela, Rio de Janeiro, RJ, Brasil",Rio de Janeiro,B4,Regional,Estação Elevatória de Esgoto
+EEE ZUMBI I,"Rua Formosa do Zumbi, nº 44 –Pitangueiras, Rio de Janeiro, RJ, Brasil",Rio de Janeiro,B4,Regional,Estação Elevatória de Esgoto
+LOJA DE ATENDIMENTO MÉIER,"Rua José Bonifácio, 528 - Méier, Rio de Janeiro, RJ, Brasil",Rio de Janeiro,B4,Regional,Loja
+LOJA DE ATENDIMENTO CAMPINHO,"Estrada Intendente Magalhães, 504 - Campinho, Rio de Janeiro, RJ, Brasil",Rio de Janeiro,B4,Regional,Loja
