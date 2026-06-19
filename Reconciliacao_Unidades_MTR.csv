@@ -1,0 +1,180 @@
+﻿Unidade,Município,Bloco,Tipo,Funcionários,Passivo,Geração planilha (t),MTR 2024 (t),MTR 2025 (t),Ref. anual max (t),Geradora?,Fonte
+ETE SARAPUI,Belford Roxo,Bloco 4,Estação de Tratamento de Esgoto,8,Não,"22,4","326,0","22,4","326,0",Sim,planilha+MTR24+MTR25
+SEDE BELFORD ROXO,Belford Roxo,Bloco 4,Base Operacional,310,Não,"214,9","85,0","214,9","214,9",Sim,planilha+MTR24+MTR25
+SEDE JARDIM PRIMAVERA,Duque de Caxias,Bloco 4,Base Operacional,58,Não,"1,4","0,0","1,4","1,4",Sim,planilha+MTR25
+SEDE CAXIAS,Duque de Caxias,Bloco 4,Base Operacional,289,Não,"386,1","490,0","386,1","490,0",Sim,planilha+MTR24+MTR25
+CL DUQUE DE CAXIAS,Duque de Caxias,Bloco 4,Almoxarifado,,Não,"16,6","3,3","18,7","18,7",Sim,planilha+MTR24+MTR25
+BOOSTER BELFORD ROXO,Duque de Caxias,Bloco 4,N/D,,Não,"0,1","0,0","0,5","0,5",Sim,planilha+MTR25
+BASE VCG JARDIM AMÉRICA,Duque de Caxias,Bloco 4,Base Operacional,121,Não,"33,6","0,0","36,6","36,6",Sim,planilha+MTR25
+EEE JARDIM GRAMACHO,Duque de Caxias,Bloco 4,Estação Elevatória de Esgoto,,Não,"0,0","0,0","0,0","0,0",Não,-
+EEE TIÃO LANTE,Duque de Caxias,Bloco 4,Estação Elevatória de Esgoto,,Não,"0,0","0,0","0,0","0,0",Não,-
+RESERVATÓRIO 25 DE AGOSTO,Duque de Caxias,Bloco 4,Reservatório de Água,,Sim,"0,0","40,0","0,0","40,0",Sim,MTR24
+RESERVATÓRIO CENTENÁRIO,Duque de Caxias,Bloco 4,Reservatório de Água,,Não,"0,0","40,0","0,0","40,0",Sim,MTR24
+ETA Mage,Magé,Bloco 1,Estação de Tratamento de Água,2,Não,"48,5","6,8","48,5","48,5",Sim,planilha+MTR24+MTR25
+SEDE MAGE,Magé,Bloco 1,Base Operacional,103,Não,"15,1","30,1","15,0","30,1",Sim,planilha+MTR24+MTR25
+UT Santo Aleixo,Magé,Bloco 1,Unidade de Tratamento de Água,,Não,"0,1","0,0","0,1","0,1",Sim,planilha+MTR25
+SEDE SAO JOAO DE MERITI,São João de Meriti,Bloco 4,Base Operacional,79,Não,"41,0","0,0","41,0","41,0",Sim,planilha+MTR25
+RESERVATORIO VILAR DOS TELES,São João de Meriti,Bloco 4,Reservatório de Água,,Sim,"1080,0","40,0","1080,0","1080,0",Sim,planilha+MTR24+MTR25
+RESERVATÓRIO COELHO DA ROCHA,São João de Meriti,Bloco 4,Reservatório de Água,,Não,"0,0","40,0","0,0","40,0",Sim,MTR24
+EEAT ENGENHEIRO PEDREIRA,Japeri,Bloco 4,Estação Elevatória de Água Tratada,,Não,"0,0","0,0","0,0","0,0",Não,-
+ERES ENGENHEIRO PEDREIRA,Japeri,Bloco 4,Estação de Reservação,,Não,"0,0","0,0","0,0","0,0",Não,-
+EEE SANTO ELIAS,Mesquita,Bloco 4,Estação Elevatória de Esgoto,,Não,"0,2","10,0","0,2","10,0",Sim,planilha+MTR24+MTR25
+EEE CHATUBA,Mesquita,Bloco 4,Estação Elevatória de Esgoto,,Não,"0,3","0,0","0,3","0,3",Sim,planilha+MTR25
+EEE VILA NORMA,Mesquita,Bloco 4,Estação Elevatória de Esgoto,,Não,"1,5","0,0","1,5","1,5",Sim,planilha+MTR25
+EEAT JK,Mesquita,Bloco 4,Estação Elevatória de Água Tratada,,Não,"0,0","0,0","0,0","0,0",Não,-
+SEDE NILOPOLIS,Nilópolis,Bloco 4,Sede Administrativa,87,Não,"102,6","2104,4","102,6","2104,4",Sim,planilha+MTR24+MTR25
+EEAT NILÓPOLIS,Nilópolis,Bloco 4,Estação Elevatória de Água Tratada,,Não,"0,0","0,0","0,0","0,0",Não,-
+ERES CABRAL,Nilópolis,Bloco 4,Estação de Reservação,2,Não,"0,0","0,0","0,0","0,0",Não,-
+ERES NILÓPOLIS,Nilópolis,Bloco 4,Estação de Reservação,,Não,"0,0","0,0","0,0","0,0",Não,-
+ETE LAGOINHA,Nova Iguaçu,Bloco 4,Estação de Tratamento de Esgoto,,Não,"34,8","0,0","34,8","34,8",Sim,planilha+MTR25
+SEDE NOVA IGUAÇU,Nova Iguaçu,Bloco 4,Base Operacional,786,Não,"308,1","0,0","308,1","308,1",Sim,planilha+MTR25
+EEAT CABUÇU ALTO,Nova Iguaçu,Bloco 4,Estação Elevatória de Água Tratada,,Não,"0,0","0,0","0,0","0,0",Não,-
+EEAT CABUÇU BAIXO,Nova Iguaçu,Bloco 4,Estação Elevatória de Água Tratada,,Não,"0,0","0,0","0,0","0,0",Não,-
+EEAT ESPLANADA,Nova Iguaçu,Bloco 4,Estação Elevatória de Água Tratada,,Não,"0,0","0,0","0,0","0,0",Não,-
+EEAT FLORESA MIRANDA,Nova Iguaçu,Bloco 4,Estação Elevatória de Água Tratada,,Não,"0,0","0,0","0,0","0,0",Não,-
+EEAT COORDENAÇÃO DE MANUTENÇÃO DA BAIXADA,Nova Iguaçu,Bloco 4,Estação Elevatória de Água Tratada,,Não,"0,0","0,0","0,0","0,0",Não,-
+EEAT POSSE,Nova Iguaçu,Bloco 4,Estação Elevatória de Água Tratada,,Não,"0,0","0,0","0,0","0,0",Não,-
+EEE LAGOINHA II,Nova Iguaçu,Bloco 4,Estação Elevatória de Esgoto,,Não,"0,0","0,0","0,0","0,0",Não,-
+ERES JK VELHO,Nova Iguaçu,Bloco 4,Estação de Reservação,,Não,"0,0","0,0","0,0","0,0",Não,-
+ERES JK NOVO,Nova Iguaçu,Bloco 4,Estação de Reservação,,Não,"0,0","0,0","0,0","0,0",Não,-
+ERES ALVORADA,Nova Iguaçu,Bloco 4,Estação de Reservação,,Não,"0,0","0,0","0,0","0,0",Não,-
+ERES BRASÍLIA,Nova Iguaçu,Bloco 4,Estação de Reservação,,Não,"0,0","0,0","0,0","0,0",Não,-
+ERES POSSE,Nova Iguaçu,Bloco 4,Estação de Reservação,,Não,"0,0","0,0","0,0","0,0",Não,-
+ERES CABUÇU ALTO,Nova Iguaçu,Bloco 4,Estação de Reservação,,Não,"0,0","0,0","0,0","0,0",Não,-
+ERES TAÇA,Nova Iguaçu,Bloco 4,Estação de Reservação,,Não,"0,0","0,0","0,0","0,0",Não,-
+ERES AUSTIN,Nova Iguaçu,Bloco 4,Estação de Reservação,,Não,"0,0","0,0","0,0","0,0",Não,-
+EEAT AUSTIN,Nova Iguaçu,Bloco 4,Estação Elevatória de Água Tratada,,Não,"0,0","0,0","0,0","0,0",Não,-
+ETE SAO JORGE,Queimados,Bloco 4,Estação de Tratamento de Esgoto,4,Não,"0,0","0,0","0,0","0,0",Não,-
+SEDE QUEIMADOS,Queimados,Bloco 4,Sede Administrativa,72,Não,"0,0","305,0","0,0","305,0",Sim,MTR24
+ETE QUEIMADOS,Queimados,Bloco 4,Estação de Tratamento de Esgoto,,Não,"0,0","0,0","0,0","0,0",Não,-
+USINA DE ASFALTO,N/D,Bloco 4,N/D,,Não,"0,0","0,0","0,0","0,0",Não,-
+BASE VCG SÃO CRISTOVÃO,Rio de Janeiro,Bloco 4,Base Operacional,43,Não,"13,9","0,0","13,9","13,9",Sim,planilha+MTR25
+BASE EEAT ROCINHA,Rio de Janeiro,Bloco 1,Base Operacional,75,Não,"56,6","0,0","56,9","56,9",Sim,planilha+MTR25
+BASE ROCINHA/ LOJA DE ATENDIMENTO,Rio de Janeiro,Bloco 1,Base Operacional,7,Não,"20,0","0,0","20,0","20,0",Sim,planilha+MTR25
+BASE OPERACIONAL MARÉ,Rio de Janeiro,Bloco 4,Base Operacional,73,Não,"149,6","115,1","149,6","149,6",Sim,planilha+MTR24+MTR25
+BASE OPERACIONAL ENGENHO DE DENTRO,Rio de Janeiro,Bloco 4,Base Operacional,202,Não,"466,8","575,1","466,8","575,1",Sim,planilha+MTR24+MTR25
+BASE OPERACIONAL PENHA,Rio de Janeiro,Bloco 4,Base Operacional,81,Não,"757,4","5609,8","2251,2","5609,8",Sim,planilha+MTR24+MTR25
+BASE OPERACIONAL PPG,Rio de Janeiro,Bloco 1,Base Operacional,8,Não,"0,0","0,0","0,0","0,0",Não,-
+BASE OPERACIONAL VIDIGAL,Rio de Janeiro,Bloco 1,Base Operacional,32,Não,"0,0","0,0","0,0","0,0",Não,-
+EEAT ROCINHA INFERIOR,Rio de Janeiro,Bloco 1,Estação Elevatória de Água Tratada,32,Não,"0,0","0,0","0,0","0,0",Não,-
+UT PAINEIRAS,Rio de Janeiro,Bloco 1,Unidade de Tratamento de Água,0,Não,"0,0","0,0","0,0","0,0",Não,-
+ETA APERIBÉ,Aperibé,Bloco 1,Estação de Tratamento de Água,1,Não,"7,4","6,6","7,4","7,4",Sim,planilha+MTR24+MTR25
+ETE APERIBE,Aperibé,Bloco 1,Estação de Tratamento de Esgoto,1,Não,"420,9","236,8","420,9","420,9",Sim,planilha+MTR24+MTR25
+LOJA DE ATENDIMENTO APERIBÉ,Aperibé,Bloco 1,Loja,2,Não,"0,0","0,0","0,0","0,0",Não,-
+UT POSTO PENA,Cachoeira de Macacu,Bloco 1,Unidade de Tratamento de Água,1,Não,"0,0","0,0","0,0","0,0",Não,-
+UT RIO SOUZA,Cachoeira de Macacu,Bloco 1,Unidade de Tratamento de Água,1,Não,"0,0","0,0","0,0","0,0",Não,-
+LOJA DE ATENDIMENTO CACHOEIRA DA MACACU,Cachoeira de Macacu,Bloco 1,Loja,2,Não,"0,0","0,0","0,0","0,0",Não,-
+ETA CAMBUCI,Cambuci,Bloco 1,Estação de Tratamento de Água,1,Não,"0,0","0,0","0,0","0,0",Não,-
+UT MONTE VERDE,Cambuci,Bloco 1,Unidade de Tratamento de Água,0,Não,"0,0","0,0","0,0","0,0",Não,-
+UT SÃO JOÃO DO PARAÍSO,Cambuci,Bloco 1,Unidade de Tratamento de Água,0,Não,"0,0","0,0","0,0","0,0",Não,-
+LOJA COMERCIAL CAMBUCI,Cambuci,Bloco 1,Loja,2,Não,"0,0","0,0","0,0","0,0",Não,-
+ETA SANTA RITA DA FLORESTA,Cantagalo,Bloco 1,Estação de Tratamento de Água,1,Não,"0,0","0,0","0,0","0,0",Não,-
+ETA EUCLIDELÂNDIA,Cantagalo,Bloco 1,Estação de Tratamento de Água,1,Não,"0,0","0,0","0,0","0,0",Não,-
+ETA SÃO SEBASTIÃO DO PARAÍBA,Cantagalo,Bloco 1,Estação de Tratamento de Água,1,Não,"0,0","0,0","0,0","0,0",Não,-
+LOJA DE ATENDIMENTO CANTAGALO,Cantagalo,Bloco 1,Loja,3,Não,"0,0","0,0","0,0","0,0",Não,-
+BASE OPERACIONAL CASIMIRO,Casimiro de Abreu,Bloco 1,Base Operacional,16,Não,"0,0","0,0","0,0","0,0",Não,-
+LOJA DE ATENDIMENTO BARRA DE SÃO JOÃO,Casimiro de Abreu,Bloco 1,Loja,4,Não,"0,0","0,0","0,0","0,0",Não,-
+ETE CORDEIRO,Cordeiro,Bloco 1,Estação de Tratamento de Esgoto,1,Sim,"123,9","172,0","122,9","172,0",Sim,planilha+MTR24+MTR25
+ETA CORDEIRO,Cordeiro,Bloco 1,Estação de Tratamento de Água,2,Não,"37,5","79,8","37,5","79,8",Sim,planilha+MTR24+MTR25
+SEDE ADMNISTRATIVA CORDEIRO,Cordeiro,Bloco 1,Sede Administrativa,38,Não,"0,0","0,0","0,0","0,0",Não,-
+ETA MONNERAT,Duas Barras,Bloco 1,Estação de Tratamento de Água,1,Não,"61,0","35,7","61,0","61,0",Sim,planilha+MTR24+MTR25
+ETA DUAS BARRAS,Duas Barras,Bloco 1,Estação de Tratamento de Água,1,Não,"0,0","0,0","0,0","0,0",Não,-
+LOJA DE ATENDIMENTO DUAS BARRAS,Duas Barras,Bloco 1,Loja,3,Não,"0,0","0,0","0,0","0,0",Não,-
+ETA PORTELA,Itaocara,Bloco 1,Estação de Tratamento de Água,1,Não,"0,0","0,0","0,0","0,0",Não,-
+ETA LARANJAIS,Itaocara,Bloco 1,Estação de Tratamento de Água,1,Não,"0,0","0,0","0,0","0,0",Não,-
+ETA SEDE III,Itaocara,Bloco 1,Estação de Tratamento de Água,2,Não,"37,5","15,0","37,5","37,5",Sim,planilha+MTR24+MTR25
+ETA BATATAL/CORONEL TEIXEIRA,Itaocara,Bloco 1,Estação de Tratamento de Água,1,Não,"0,0","0,0","0,0","0,0",Não,-
+ETA JAGUAREMBÉ,Itaocara,Bloco 1,Estação de Tratamento de Água,1,Não,"0,0","0,0","0,0","0,0",Não,-
+SEDE ADMNISTRATIVA ITAOCARA,Itaocara,Bloco 1,Sede Administrativa,34,Não,"0,0","0,0","0,0","0,0",Não,-
+ETA MIRACEMA,Miracema,Bloco 1,Estação de Tratamento de Água,3,Não,"8,9","38,9","8,9","38,9",Sim,planilha+MTR24+MTR25
+ETA DISTRITO VENDA DAS FLORES,Miracema,Bloco 1,Estação de Tratamento de Água,1,Não,"0,0","0,0","0,0","0,0",Não,-
+ETA PARAÍSO DO TOBIAS,Miracema,Bloco 1,Estação de Tratamento de Água,1,Não,"0,0","0,0","0,0","0,0",Não,-
+ETE MIRACEMA,Miracema,Bloco 1,Estação de Tratamento de Esgoto,1,Não,"29,3","0,0","29,3","29,3",Sim,planilha+MTR25
+LOJA DE ATENDIMENTO MIRACEMA,Miracema,Bloco 1,Loja,24,Não,"0,0","0,0","0,0","0,0",Não,-
+CAPTAÇÃO MIRACEMA,Miracema,Bloco 1,Estação Elevatória de Água Bruta,1,Não,"0,0","0,0","0,0","0,0",Não,-
+ETA RIO BONITO,Rio Bonito,Bloco 1,Estação de Tratamento de Água,13,Não,"243,0","12,7","243,0","243,0",Sim,planilha+MTR24+MTR25
+UT LAVRAS,Rio Bonito,Bloco 1,Unidade de Tratamento de Água,,Não,"0,0","0,0","0,0","0,0",Não,-
+UT BOA ESPERANÇA,Rio Bonito,Bloco 1,Unidade de Tratamento de Água,,Não,"0,0","0,0","0,0","0,0",Não,-
+CAPTAÇÃO BACAXÁ,Rio Bonito,Bloco 1,Estação Elevtória de Água Bruta,1,Não,"0,0","0,0","0,0","0,0",Não,-
+LOJA DE ATENDIMENTO RIO BONITO,Rio Bonito,Bloco 1,Loja,33,Não,"0,0","0,0","0,0","0,0",Não,-
+EEAT/ERES SANTA CLARA,São Francisco de Itabapoana,Bloco 1,Estação Elevatória de Água Tratada,1,Não,"20,6","7,1","20,6","20,6",Sim,planilha+MTR24+MTR25
+ETA PRAÇA JOÃO PESSOA,São Francisco de Itabapoana,Bloco 1,Estação de Tratamento de Água,1,Não,"0,0","0,0","0,0","0,0",Não,-
+UT GARGAÚ,São Francisco de Itabapoana,Bloco 1,Unidade de Tratamento de Água,1,Não,"9,8","25,9","9,8","25,9",Sim,planilha+MTR24+MTR25
+SEDE ADMNISTRATIVA SÃO SEBASTIÃO DO ALTO,São Francisco de Itabapoana,Bloco 1,Base Operacional,7,Não,"0,0","0,0","0,0","0,0",Não,-
+LOJA DE ATENDIMENTO SÃO FRANCISCO DO ITABAPOANA,São Francisco de Itabapoana,Bloco 1,Loja,2,Não,"0,0","0,0","0,0","0,0",Não,-
+ETA SÃO SEBASTIÃO DO ALTO,São Sebastião do Alto,Bloco 1,Estação de Tratamento de Água,1,Não,"0,0","0,0","0,0","0,0",Não,-
+ETA VALÃO DO BARRO,São Sebastião do Alto,Bloco 1,Estação de Tratamento de Água,1,Não,"0,0","14,9","0,0","14,9",Sim,MTR24
+LOJA DE ATENDIMENTO SÃO SEBASTIÃO DO ALTO,São Sebastião do Alto,Bloco 1,Loja,2,Não,"0,0","0,0","0,0","0,0",Não,-
+UT CHÁCARA DO PARAÍSO,São Sebastião do Alto,Bloco 1,Unidade de Tratamento de Água,0,Não,"0,0","0,0","0,0","0,0",Não,-
+UT HOSPITAL,São Sebastião do Alto,Bloco 1,Unidade de Tratamento de Água,0,Não,"0,0","0,0","0,0","0,0",Não,-
+EEAB PARAOQUENA,N/D,Bloco 1,N/D,,Não,"0,0","0,0","0,0","0,0",Não,-
+BASE OPERACIONAL ITABORAÍ,Itaboraí,Bloco 1,Base Operacional,72,Não,"0,0","0,0","0,0","0,0",Não,-
+BASE OPERACIONAL SÃO GONÇALO,São Gonçalo,Bloco 1,Base Operacional,760,Sim,"1282,0","0,0","1364,2","1364,2",Sim,planilha+MTR25
+EEE APOLO 1,São Gonçalo,Bloco 1,Estação Elevatória de Esgoto,,Não,"0,0","0,0","0,0","0,0",Não,-
+EEE MÁRIO QUINTÃO,São Gonçalo,Bloco 1,Estação Elevatória de Esgoto,4,Não,"11,1","0,0","11,7","11,7",Sim,planilha+MTR25
+EEE Paquetá,Rio de Janeiro,Bloco 4,Estação Elevatória de Esgoto,,Não,"7,0","3,8","7,0","7,0",Sim,planilha+MTR24+MTR25
+EEE PAUL LEROUX,São Gonçalo,Bloco 1,Estação Elevatória de Esgoto,4,Não,"2,6","0,0","3,8","3,8",Sim,planilha+MTR25
+ETA JACONÉ,Saquarema,Bloco 1,Estação de Tratamento de Água,6,Não,"2,9","1,4","2,9","2,9",Sim,planilha+MTR24+MTR25
+ETA MANILHA,Itaboraí,Bloco 1,Estação de Tratamento de Água,8,Sim,"0,0","9,7","0,0","9,7",Sim,MTR24
+ETA MARAMBAIA,Itaboraí,Bloco 1,Estação de Tratamento de Água,6,Não,"0,7","0,0","0,7","0,7",Sim,planilha+MTR25
+ETA MARICA,Maricá,Bloco 1,Estação de Tratamento de Água,6,Não,"0,0","1,5","0,0","1,5",Sim,MTR24
+ETA PONTA NEGRA,Maricá,Bloco 1,Estação de Tratamento de Água,8,Não,"0,0","0,0","0,0","0,0",Não,-
+ETA PORTO DAS CAIXAS,Itaboraí,Bloco 1,Estação de Tratamento de Água,7,Não,"115,5","37,3","115,5","115,5",Sim,planilha+MTR24+MTR25
+ETA RIO CACERIBU,Tanguá,Bloco 1,Estação de Tratamento de Água,37,Não,"19,8","27,3","19,8","27,3",Sim,planilha+MTR24+MTR25
+ETA SAMPAIO CORREA,Saquarema,Bloco 1,Estação de Tratamento de Água,,Não,"0,0","0,0","0,0","0,0",Não,-
+ETE APOLO,São Gonçalo,Bloco 1,Estação de Tratamento de Esgoto,5,Não,"18,5","0,4","18,5","18,5",Sim,planilha+MTR24+MTR25
+ETE GRANDE RIO 1,Itaboraí,Bloco 1,Estação de Tratamento de Esgoto,5,Não,"13,4","40,1","13,4","40,1",Sim,planilha+MTR24+MTR25
+ETE JARDIM CATARINA,São Gonçalo,Bloco 1,Estação de Tratamento de Esgoto,5,Não,"17,9","25,2","17,9","25,2",Sim,planilha+MTR24+MTR25
+ETE PINHÃO,Tanguá,Bloco 1,Estação de Tratamento de Esgoto,6,Não,"30,0","36,0","30,0","36,0",Sim,planilha+MTR24+MTR25
+ETE SÃO GONÇALO II,São Gonçalo,Bloco 1,Estação de Tratamento de Esgoto,5,Não,"6754,4","5842,4","6782,4","6782,4",Sim,planilha+MTR24+MTR25
+BASE VCG SÃO GONÇALO,São Gonçalo,Bloco 1,Base Operacional,92,Não,"0,0","0,0","0,0","0,0",Não,-
+EEAB BARRAGEM UBATIBA,Maricá,Bloco 1,Estação Elevatória de Água Bruta,1,Não,"0,0","0,0","0,0","0,0",Não,-
+EEAB CAPTAÇÃO JACONÉ,Saquarema,Bloco 1,Estação Elevatória de Água Bruta,,Não,"0,0","0,0","0,0","0,0",Não,-
+EEAB CAPTAÇÃO PONTA NEGRA,Maricá,Bloco 1,Estação Elevatória de Água Bruta,0,Não,"0,0","0,0","0,0","0,0",Não,-
+EEAT INOÃ,São Gonçalo,Bloco 1,Estação Elevatória de Água Tratada,1,Não,"0,0","0,0","0,0","0,0",Não,-
+ESTAÇÃO ELEVATÓRIA DE ESGOTO PAQUETÁ 5,Rio de Janeiro,Bloco 4,Estação Elevatória de Esgoto,,Não,"5,8","0,0","5,8","5,8",Sim,planilha+MTR25
+LOJA COMERCIAL SÃO GONÇALO,São Gonçalo,Bloco 1,Loja,27,Não,"0,0","0,0","0,0","0,0",Não,-
+LOJA COMERCIAL SAQUAREMA,Saquarema,Bloco 1,Loja,8,Não,"0,0","0,0","0,0","0,0",Não,-
+LOJA COMERCIAL TANGUÁ,Tanguá,Bloco 1,Loja,8,Não,"0,0","0,0","0,0","0,0",Não,-
+SEDE ADMINISTRATIVA MARICÁ,Maricá,Bloco 1,Sede Administrativa,53,Não,"0,0","0,0","0,0","0,0",Não,-
+SEDE ADMNISTRATIVA CENTRO I,São Gonçalo,Bloco 1,Sede Administrativa,53,Não,"0,0","0,0","0,0","0,0",Não,-
+RESERVATÓRIO GUAICURUS,Rio de Janeiro,Bloco 4,Reservatório de Água,0,Não,"0,1","40,0","0,1","40,0",Sim,planilha+MTR24+MTR25
+SEDE ARMAZÉM 2,Rio de Janeiro,Bloco 1,Sede Administrativa,110,Não,"19,9","20,0","19,9","20,0",Sim,planilha+MTR24+MTR25
+EEE ANDRÉ AZEVEDO,Rio de Janeiro,Bloco 1,Estação Elevatória de Esgoto,50,Não,"573,9","695,1","580,3","695,1",Sim,planilha+MTR24+MTR25
+EEE SATURNINO BRITO,Rio de Janeiro,Bloco 1,Estação Elevatória de Esgoto,,Não,"61,3","103,5","68,9","103,5",Sim,planilha+MTR24+MTR25
+EEE CAIÇARAS,Rio de Janeiro,Bloco 1,Estação Elevatória de Esgoto,,Não,"0,0","5,0","0,0","5,0",Sim,MTR24
+EEE SÃO CONRADO,Rio de Janeiro,Bloco 1,Estação Elevatória de Esgoto,4,Não,"28,4","9,0","32,3","32,3",Sim,planilha+MTR24+MTR25
+BASE OPERACIONAL BOTAFOGO,Rio de Janeiro,Bloco 1,Base Operacional,106,Não,"2067,5","3087,4","2068,4","3087,4",Sim,planilha+MTR24+MTR25
+BASE OPERACIONAL GÁVEA,Rio de Janeiro,Bloco 1,Base Operacional,106,Não,"1322,8","2498,1","1345,2","2498,1",Sim,planilha+MTR24+MTR25
+LOJA DE ATENDIMENTO CENTRO RJ,Rio de Janeiro,Bloco 1,Loja,20,Não,"0,0","0,0","0,0","0,0",Não,-
+EEE LEBLON,Rio de Janeiro,Bloco 1,Estação Elevatória de Esgoto,4,Não,"52,0","125,8","52,7","125,8",Sim,planilha+MTR24+MTR25
+BASE OPERACIONAL AMOROSO LIMA,Rio de Janeiro,Bloco 1,Base Operacional,391,Não,"84,3","0,0","84,3","84,3",Sim,planilha+MTR25
+LOJA DE ATENDIMENTO COPACABANA,Rio de Janeiro,Bloco 1,Loja,18,Não,"0,0","0,0","0,0","0,0",Não,-
+EEAT MARACANÃ,Rio de Janeiro,Bloco 4,Estação Elevatória de Água Tratada,2,Não,"0,0","0,0","0,0","0,0",Não,-
+BASE OPERACIONAL TIJUCA,Rio de Janeiro,Bloco 4,Base Operacional,210,Não,"2250,8","3910,2","2250,8","3910,2",Sim,planilha+MTR24+MTR25
+LOJA DE ATENDIMENTO TIJUCA,Rio de Janeiro,Bloco 4,Loja,8,Não,"0,0","0,0","0,0","0,0",Não,-
+RESERVATÓRIO DO FRANÇA,Rio de Janeiro,Bloco 4,Reservatório de Água,0,Não,"12,0","40,0","12,0","40,0",Sim,planilha+MTR24+MTR25
+UT AFONSO VISEU,Rio de Janeiro,Bloco 4,Unidade de Tratamento de Água,6,Não,"21,6","0,0","21,6","21,6",Sim,planilha+MTR25
+RESERVATÓRIO FRANCISCO SÁ,Rio de Janeiro,Bloco 4,Reservatório de Água,,Não,"25,3","40,0","25,3","40,0",Sim,planilha+MTR24+MTR25
+ETE ALEGRIA,Rio de Janeiro,Bloco 4,Estação de Tratamento de Água,30,Não,"7658,4","9422,6","7729,2","9422,6",Sim,planilha+MTR24+MTR25
+RESERVATÓRIO PEDREGULHO,Rio de Janeiro,Bloco 4,Reservatório de Água,54,Não,"10,6","80,3","10,6","80,3",Sim,planilha+MTR24+MTR25
+ETE ILHA DO GOVERNADOR,Rio de Janeiro,Bloco 4,Estação de Tratamento de Esgoto,18,Não,"1630,2","2029,0","1661,1","2029,0",Sim,planilha+MTR24+MTR25
+LABORATÓRIO ETE PAVUNA,Rio de Janeiro,Bloco 4,Laboratório,6,Não,"0,0","2821,3","1851,4","2821,3",Sim,MTR24+MTR25
+BASE EEAT JURAMENTO,Rio de Janeiro,Bloco 4,Base Operacional,33,Não,"130,2","75,0","130,2","130,2",Sim,planilha+MTR24+MTR25
+ETE PENHA,Rio de Janeiro,Bloco 4,Estação de Tratamento de Esgoto,31,Sim,"389,6","939,5","389,6","939,5",Sim,planilha+MTR24+MTR25
+ETE PAVUNA,Rio de Janeiro,Bloco 4,Estação de Tratamento de Esgoto,31,Não,"1792,0","2829,3","1851,4","2829,3",Sim,planilha+MTR24+MTR25
+BASE OPERACIONAL PENHA,Rio de Janeiro,Bloco 4,Base Operacional,108,Não,"1474,7","5609,8","2251,2","5609,8",Sim,planilha+MTR24+MTR25
+BASE OPERACIONAL ILHA DO GOVERNADOR,Rio de Janeiro,Bloco 4,Base Operacional,90,Não,"59,3","283,3","59,3","283,3",Sim,planilha+MTR24+MTR25
+BASE OPERACIONAL MÉIER,Rio de Janeiro,Bloco 4,Base Operacional,65,Não,"96,7","1920,0","96,6","1920,0",Sim,planilha+MTR24+MTR25
+BASE OPERACIONAL CAMPINHO,Rio de Janeiro,Bloco 4,Base Operacional,140,Não,"26,0","1685,5","26,0","1685,5",Sim,planilha+MTR24+MTR25
+ETE PAVUNA VALO OXIDAÇÃO,Rio de Janeiro,Bloco 4,Estação de Tratamento de Esgoto,6,Não,"0,0","2829,3","1847,6","2829,3",Sim,MTR24+MTR25
+BASE VCG BONSUCESSO,Rio de Janeiro,Bloco 4,Base Operacional,900,Não,"37,8","0,0","37,8","37,8",Sim,planilha+MTR25
+EEE BICA,Rio de Janeiro,Bloco 4,Estação Elevatória de Esgoto,4,Não,"0,0","0,0","0,0","0,0",Não,-
+EEE FARIA TIMBÓ,Rio de Janeiro,Bloco 4,Estação Elevatória de Esgoto,2,Não,"0,0","0,0","0,0","0,0",Não,-
+EEE FUNDÃO,Rio de Janeiro,Bloco 4,Estação Elevatória de Esgoto,2,Não,"0,0","0,0","0,0","0,0",Não,-
+EEE PARANAPUÃ,Rio de Janeiro,Bloco 4,Estação Elevatória de Esgoto,2,Não,"0,0","0,0","0,0","0,0",Não,-
+EEE SÃO BENTO,Rio de Janeiro,Bloco 4,Estação Elevatória de Esgoto,2,Não,"0,0","0,0","0,0","0,0",Não,-
+EEE ZUMBI I,Rio de Janeiro,Bloco 4,Estação Elevatória de Esgoto,2,Não,"0,0","0,0","0,0","0,0",Não,-
+LOJA DE ATENDIMENTO MÉIER,Rio de Janeiro,Bloco 4,Loja,11,Não,"0,0","0,0","0,0","0,0",Não,-
+LOJA DE ATENDIMENTO CAMPINHO,Rio de Janeiro,Bloco 4,Loja,11,Não,"0,0","0,0","0,0","0,0",Não,-
+LOJA DE ATENDIMENTO ILHA DO GOVERNADOR,Rio de Janeiro,Bloco 4,Loja,11,Não,"0,0","0,0","0,0","0,0",Não,-
