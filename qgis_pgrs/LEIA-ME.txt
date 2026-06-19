@@ -7,7 +7,7 @@ COMO ABRIR
 2. Abra o arquivo "Mapa_PGRS.qgz" no QGIS (duplo clique ou Projeto > Abrir).
    As duas camadas já vêm carregadas e coloridas:
      - "Municípios por categoria de PGRS" (polígonos)
-     - "Pontos de geração (81)" (pontos)
+     - "Pontos de geração (83)" (pontos)
    Dica: adicione um mapa de fundo em Navegador > XYZ Tiles > OpenStreetMap.
 
 SE A COR NÃO APARECER (simbologia)
@@ -28,15 +28,12 @@ DADOS
 -----
   municipios_pgrs.geojson  - 92 municípios do RJ (malha IBGE); 27 da concessão
                              classificados pela categoria de PGRS predominante.
-  pontos_geracao.geojson   - 81 unidades geradoras geocodificadas (My Maps),
+  pontos_geracao.geojson   - 83 unidades geradoras geocodificadas (My Maps),
                              com unidade, município, bloco, geração (t) e categoria.
 
-PENDÊNCIA: 2 PONTOS NÃO GEOCODIFICADOS
---------------------------------------
-Não foram localizados pelo geocodificador (endereço genérico):
-  - ETE ALEGRIA (Caju, Rio de Janeiro) — maior geradora (~9.422 t)
-  - ETA JACONÉ (Jaconé, Saquarema)
-Para incluir: no Google My Maps, pesquise o nome/local, arraste o pino para o
-ponto correto, reexporte o KML e envie — ou informe a lat/long de cada um.
+OBSERVAÇÃO
+----------
+As 83 geradoras estão geocodificadas (ETE Alegria e ETA Jaconé incluídas
+manualmente por coordenada informada).
 
 Fonte de geração: Manifestos de Transporte de Resíduos (MTR — SINIR/INEA), 2024-2025.
