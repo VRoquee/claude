@@ -1,0 +1,42 @@
+MAPA DE COBERTURA PGRS — ÁGUAS DO RIO (QGIS)
+=============================================
+
+COMO ABRIR
+----------
+1. Descompacte TODO o conteúdo deste zip numa mesma pasta.
+2. Abra o arquivo "Mapa_PGRS.qgz" no QGIS (duplo clique ou Projeto > Abrir).
+   As duas camadas já vêm carregadas e coloridas:
+     - "Municípios por categoria de PGRS" (polígonos)
+     - "Pontos de geração (81)" (pontos)
+   Dica: adicione um mapa de fundo em Navegador > XYZ Tiles > OpenStreetMap.
+
+SE A COR NÃO APARECER (simbologia)
+----------------------------------
+Em alguma versão do QGIS o projeto pode abrir com cor padrão. Para aplicar o estilo:
+  - Clique direito na camada > Propriedades > Simbologia > Estilo (rodapé) >
+    Carregar Estilo > escolha o .qml correspondente (municipios_pgrs.qml ou
+    pontos_geracao.qml) > OK.
+
+CATEGORIAS (campo cat_pgrs)
+---------------------------
+  Individualizado     = verde      (município com unidade individualizada)
+  Agrupado/Municipal  = azul       (PGRS agrupado ou municipal)
+  Regional            = verde-água (coberto por PGRS regional)
+  Fora da concessão   = cinza      (município sem unidade da Águas do Rio)
+
+DADOS
+-----
+  municipios_pgrs.geojson  - 92 municípios do RJ (malha IBGE); 27 da concessão
+                             classificados pela categoria de PGRS predominante.
+  pontos_geracao.geojson   - 81 unidades geradoras geocodificadas (My Maps),
+                             com unidade, município, bloco, geração (t) e categoria.
+
+PENDÊNCIA: 2 PONTOS NÃO GEOCODIFICADOS
+--------------------------------------
+Não foram localizados pelo geocodificador (endereço genérico):
+  - ETE ALEGRIA (Caju, Rio de Janeiro) — maior geradora (~9.422 t)
+  - ETA JACONÉ (Jaconé, Saquarema)
+Para incluir: no Google My Maps, pesquise o nome/local, arraste o pino para o
+ponto correto, reexporte o KML e envie — ou informe a lat/long de cada um.
+
+Fonte de geração: Manifestos de Transporte de Resíduos (MTR — SINIR/INEA), 2024-2025.
