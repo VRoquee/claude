@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="pt-br"><head><meta charset="utf-8">
+<title>Geocodificador PGRS - 51 pontos</title>
+<style>
+body{font-family:Arial,Helvetica,sans-serif;margin:24px;color:#222}
+h1{font-size:20px} button{font-size:15px;padding:10px 18px;margin:6px 4px;cursor:pointer;border-radius:6px;border:1px solid #0288D1;background:#0288D1;color:#fff}
+button:disabled{opacity:.5;cursor:default} #dl{background:#2e7d32;border-color:#2e7d32}
+#prog{font-weight:bold;margin:12px 0}
+table{border-collapse:collapse;width:100%;font-size:13px;margin-top:10px}
+th,td{border:1px solid #ddd;padding:5px 7px;text-align:left}
+th{background:#f0f0f0} .ok{color:#2e7d32} .aprox{color:#e08600} .fail{color:#c62828;font-weight:bold}
+.bar{height:14px;background:#e0e0e0;border-radius:7px;overflow:hidden;max-width:500px}
+.bar > div{height:100%;background:#0288D1;width:0%}
+</style></head><body>
+<h1>Geocodificador PGRS — 51 unidades faltantes</h1>
+<p>Clica em <b>Iniciar</b>. Ele consulta o OpenStreetMap (~1 ponto por segundo, leva ~1 min).
+Quando terminar, clica em <b>Baixar CSV</b> e manda o arquivo pro Claude.</p>
+<button id="go" onclick="run()">▶ Iniciar geocodificação</button>
+<button id="dl" onclick="dl()" disabled>⬇ Baixar CSV</button>
+<div id="prog">Pronto pra começar.</div>
+<div class="bar"><div id="barf"></div></div>
+<table id="tb"><thead><tr><th>#</th><th>Unidade</th><th>Status</th><th>Lat</th><th>Lon</th></tr></thead><tbody></tbody></table>
+<script>
+const DATA=[
+{
+"Unidade": "EEAT ENGENHEIRO PEDREIRA",
+"Endereco": "Cidade Jardim, Marajoara, Japeri – RJ",
+"Municipio": "Japeri",
+"Bloco": "B4",
+"Categoria": "Regional",
+"Tipo": "Estação Elevatória de Água Tratada"
+},
+{
+"Unidade": "EEAT JK",
+"Endereco": "Rua da Cascata, 60 – Presidente Juscelino, Mesquita – RJ",
+"Municipio": "Mesquita",
+"Bloco": "B4",
+"Categoria": "Regional",
+"Tipo": "Estação Elevatória de Água Tratada"
+},
+{
+"Unidade": "EEAT NILÓPOLIS",
+"Endereco": "Avenida Nazaré, 3076 - Olinda, Nilópolis – RJ, 21645-010",
+"Municipio": "Nilópolis",
+"Bloco": "B4",
+"Categoria": "Regional",
+"Tipo": "Estação Elevatória de Água Tratada"
+},
+{
+"Unidade": "ERES NILÓPOLIS",
+"Endereco": "Rua Antônio Pereira de Carvalho, 205 – Centro, Nilópolis - RJ",
+"Municipio": "Nilópolis",
+"Bloco": "B4",
+"Categoria": "Regional",
+"Tipo": "Estação de Reservação"
+},
+{
+"Unidade": "EEAT CABUÇU BAIXO",
+"Endereco": "Rua Ozório, 53 – Valverde, Nova Iguaçu, Nova Iguaçu, RJ, Brasil",
+"Municipio": "Nova Iguaçu",
+"Bloco": "B4",
+"Categoria": "Regional",
+"Tipo": "Estação Elevatória de Água Tratada"
+},
+{
+"Unidade": "EEAT ESPLANADA",
+"Endereco": "Estrada da Fazenda, 2264 – Jardim da Viga, Nova Iguaçu, Nova Iguaçu, RJ, Brasil",
+"Municipio": "Nova Iguaçu",
+"Bloco": "B4",
+"Categoria": "Regional",
+"Tipo": "Estação Elevatória de Água Tratada"
+},
+{
+"Unidade": "EEAT COORDENAÇÃO DE MANUTENÇÃO DA BAIXADA",
+"Endereco": "Rua Professor Venina Correa Torres, 23 – Centro, Nova Iguaçu, Nova Iguaçu, RJ, Brasil",
+"Municipio": "Nova Iguaçu",
+"Bloco": "B4",
+"Categoria": "Regional",
+"Tipo": "Estação Elevatória de Água Tratada"
+},
+{
+"Unidade": "ERES JK VELHO",
+"Endereco": "Rua Carolina Machado, 192 - Juscelino, Nova Iguaçu, Nova Iguaçu, RJ, Brasil",
+"Municipio": "Nova Iguaçu",
+"Bloco": "B4",
+"Categoria": "Regional",
+"Tipo": "Estação de Reservação"
+},
+{
+"Unidade": "ERES JK NOVO",
+"Endereco": "Rua Irmãos Maurício, 413 – Caonze, Nova Iguaçu, Nova Iguaçu, RJ, Brasil",
+"Municipio": "Nova Iguaçu",
+"Bloco": "B4",
+"Categoria": "Regional",
+"Tipo": "Estação de Reservação"
+},
+{
+"Unidade": "ERES POSSE",
+"Endereco": "Rua da Fonte, 77 – Posse, Nova Iguaçu, Nova Iguaçu, RJ, Brasil",
+"Municipio": "Nova Iguaçu",
+"Bloco": "B4",
+"Categoria": "Regional",
+"Tipo": "Estação de Reservação"
+},
+{
+"Unidade": "ERES TAÇA",
+"Endereco": "Rua Colorado, 146 - Vl Valverde - Nova Iguaçu, Nova Iguaçu, RJ, Brasil",
+"Municipio": "Nova Iguaçu",
+"Bloco": "B4",
+"Categoria": "Regional",
+"Tipo": "Estação de Reservação"
+},
+{
+"Unidade": "ERES AUSTIN",
+"Endereco": "Rua Tomás Gonzaga, 181 – Austin, Nova Iguaçu, Nova Iguaçu, RJ, Brasil",
+"Municipio": "Nova Iguaçu",
+"Bloco": "B4",
+"Categoria": "Regional",
+"Tipo": "Estação de Reservação"
+},
+{
+"Unidade": "EEAT AUSTIN",
+"Endereco": "Rua Araicas 37, Largo dos Peixes - Nova Iguaçu, Nova Iguaçu, RJ, Brasil",
+"Municipio": "Nova Iguaçu",
+"Bloco": "B4",
+"Categoria": "Regional",
+"Tipo": "Estação Elevatória de Água Tratada"
+},
+{
+"Unidade": "BASE OPERACIONAL VIDIGAL",
+"Endereco": "Rua Sobral Pinto, 4 (Largo do Santinho) - Rio de Janeiro - RJ",
+"Municipio": "Rio de Janeiro",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Base Operacional"
+},
+{
+"Unidade": "LOJA DE ATENDIMENTO APERIBÉ",
+"Endereco": "Rua Augusto Gomes da Silva, 56, Centro, Aperibé - RJ, 28495-000",
+"Municipio": "Aperibé",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Loja"
+},
+{
+"Unidade": "LOJA DE ATENDIMENTO CACHOEIRA DA MACACU",
+"Endereco": "Avenida Gov. Roberto Silveira, 303 - Centro, Cachoeiras de Macacu - RJ, 28680-000",
+"Municipio": "Cachoeira de Macacu",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Loja"
+},
+{
+"Unidade": "ETA CAMBUCI",
+"Endereco": "Rodovia RJ-194, ao lado do Posto de Saúde, Centro - Floresta, Cambuci - RJ, 28430-000",
+"Municipio": "Cambuci",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Estação de Tratamento de Água"
+},
+{
+"Unidade": "UT MONTE VERDE",
+"Endereco": "Rua Vargem Alegre, s/n, Centro - Monte Verde, Cambuci - RJ, 28430-000",
+"Municipio": "Cambuci",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Unidade de Tratamento de Água"
+},
+{
+"Unidade": "UT SÃO JOÃO DO PARAÍSO",
+"Endereco": "R. Oliveira Pinto, próximo ao 226 - São João do Paraíso, Cambuci - RJ, 28430-000",
+"Municipio": "Cambuci",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Unidade de Tratamento de Água"
+},
+{
+"Unidade": "ETA SANTA RITA DA FLORESTA",
+"Endereco": "Rua Cemitério, S/N - Santa Rita da Floresta -Cantagalo - RJ, 28500-000",
+"Municipio": "Cantagalo",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Estação de Tratamento de Água"
+},
+{
+"Unidade": "ETA EUCLIDELÂNDIA",
+"Endereco": "Próximo a Rodovia RJ - 152, Km 53, S/N, Vila Saint Clair, Cantagalo - RJ, 28500-000",
+"Municipio": "Cantagalo",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Estação de Tratamento de Água"
+},
+{
+"Unidade": "ETA SÃO SEBASTIÃO DO PARAÍBA",
+"Endereco": "Avenida Laper, S/N - São Sebastião do Paraíba, Cantagalo - RJ, 28500-000",
+"Municipio": "Cantagalo",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Estação de Tratamento de Água"
+},
+{
+"Unidade": "LOJA DE ATENDIMENTO BARRA DE SÃO JOÃO",
+"Endereco": "Rua Major Samuel Barreira, 87, Barra de São João,Casimiro de Abreu - RJ, 28860-000",
+"Municipio": "Casimiro de Abreu",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Loja"
+},
+{
+"Unidade": "SEDE ADMNISTRATIVA CORDEIRO",
+"Endereco": "Rua M. Humberto, 89 – Parque Raul Veiga, Cordeiro - RJ, 28495-000",
+"Municipio": "Cordeiro",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Sede Administrativa"
+},
+{
+"Unidade": "ETA DUAS BARRAS",
+"Endereco": "Rua Maria de Oliveira Guimarães, 68-172, Caixa D'água -Duas Barras - RJ, 28650-000",
+"Municipio": "Duas Barras",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Estação de Tratamento de Água"
+},
+{
+"Unidade": "LOJA DE ATENDIMENTO DUAS BARRAS",
+"Endereco": "Avenida Getúlio Vargas, 10, Duas Barras - RJ, 28650-000",
+"Municipio": "Duas Barras",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Loja"
+},
+{
+"Unidade": "ETA PORTELA",
+"Endereco": "Rua Antônio Corrêa da Rocha - Portela, Itaocara - RJ, 28570-000",
+"Municipio": "Itaocara",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Estação de Tratamento de Água"
+},
+{
+"Unidade": "ETA LARANJAIS",
+"Endereco": "Rua Nilo Peçanha, 385-355 -Laranjais, Itaocara - RJ, 28570-000",
+"Municipio": "Itaocara",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Estação de Tratamento de Água"
+},
+{
+"Unidade": "SEDE ADMNISTRATIVA ITAOCARA",
+"Endereco": "Av. Mal. Floriano Peixoto, 508 - Jardim D Aldeia, Itaocara -RJ, 28570-000",
+"Municipio": "Itaocara",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Sede Administrativa"
+},
+{
+"Unidade": "ETA PARAÍSO DO TOBIAS",
+"Endereco": "Rua Manoel da São Almeida, 34 - Paraíso do Tobias, Miracema - RJ, 28460-000",
+"Municipio": "Miracema",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Estação de Tratamento de Água"
+},
+{
+"Unidade": "LOJA DE ATENDIMENTO MIRACEMA",
+"Endereco": "Avenida Dep. Luís Fernando Linhares, 103 - Miracema, RJ, 28460-000",
+"Municipio": "Miracema",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Loja"
+},
+{
+"Unidade": "CAPTAÇÃO MIRACEMA",
+"Endereco": "Av. Samel S/N, Vila Ramos, Miracema - RJ, 28460-000",
+"Municipio": "Miracema",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Estação Elevatória de Água Bruta"
+},
+{
+"Unidade": "UT LAVRAS",
+"Endereco": "Próximo a Estrada Velha de Lavras, Rio Bonito, RJ, 28800-000",
+"Municipio": "Rio Bonito",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Unidade de Tratamento de Água"
+},
+{
+"Unidade": "UT BOA ESPERANÇA",
+"Endereco": "Estrada do Rio Mole, com acesso pela RJ-124, Rio Bonito - RJ, 28800-000",
+"Municipio": "Rio Bonito",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Unidade de Tratamento de Água"
+},
+{
+"Unidade": "LOJA DE ATENDIMENTO SÃO SEBASTIÃO DO ALTO",
+"Endereco": "Rua Dr. Júlio Vieitas, 29 -Centro, São Sebastião do Alto - RJ, 21000-000",
+"Municipio": "São Sebastião do Alto",
+"Bloco": "B1",
+"Categoria": "Agrupado/Municipal",
+"Tipo": "Loja"
+},
+{
+"Unidade": "UT CHÁCARA DO PARAÍSO",
+"Endereco": "Rua Hermes Daumas, 300 -Centro, São Sebastião do Alto - RJ, 28550-000",
+"Municipio": "São Sebastião do Alto",
+"Bloco": "B1",
+"Categoria": "Agrupado/Municipal",
+"Tipo": "Unidade de Tratamento de Água"
+},
+{
+"Unidade": "UT HOSPITAL",
+"Endereco": "Rua Min. Franscico Dorneles, 74-174 - Santa Irene, São Sebastião do Alto - RJ, 28550-000",
+"Municipio": "São Sebastião do Alto",
+"Bloco": "B1",
+"Categoria": "Agrupado/Municipal",
+"Tipo": "Unidade de Tratamento de Água"
+},
+{
+"Unidade": "BASE OPERACIONAL ITABORAÍ",
+"Endereco": "Rua José Leandro, 38 - Centro, Itaboraí - RJ, 24800-149",
+"Municipio": "Itaboraí",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Base Operacional"
+},
+{
+"Unidade": "EEE APOLO 1",
+"Endereco": "R. Azebi Coutinho da Veiga 350 -Monjolo, São Gonçalo - RJ, 24425-285",
+"Municipio": "São Gonçalo",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Estação Elevatória de Esgoto"
+},
+{
+"Unidade": "ETA PONTA NEGRA",
+"Endereco": "RJ-118, 40 - Ponta Negra, Maricá- RJ, 24942-39",
+"Municipio": "Maricá",
+"Bloco": "B1",
+"Categoria": "Agrupado/Municipal",
+"Tipo": "Estação de Tratamento de Água"
+},
+{
+"Unidade": "ETA SAMPAIO CORREA",
+"Endereco": "Cachoeira do Roncador -Sampaio Corrêa, Saquarema - RJ",
+"Municipio": "Saquarema",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Estação de Tratamento de Água"
+},
+{
+"Unidade": "EEAT INOÃ",
+"Endereco": "Av. Francisco Azeredo Coutinho, 2035-3091 - Ipiíba, São Gonçalo -RJ",
+"Municipio": "São Gonçalo",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Estação Elevatória de Água Tratada"
+},
+{
+"Unidade": "LOJA COMERCIAL TANGUÁ",
+"Endereco": "Rua Vereador Manoel Macedo, loja 4, no Centro, Tanguá, RJ, Brasil",
+"Municipio": "Tanguá",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Loja"
+},
+{
+"Unidade": "SEDE ADMINISTRATIVA MARICÁ",
+"Endereco": "R. Joana Chavier Mattos, 0 -Flamengo, Maricá - RJ, 24903-765",
+"Municipio": "Maricá",
+"Bloco": "B1",
+"Categoria": "Agrupado/Municipal",
+"Tipo": "Sede Administrativa"
+},
+{
+"Unidade": "SEDE ADMNISTRATIVA CENTRO I",
+"Endereco": "Rua Cel. Moreira César, 139 -Centro, São Gonçalo - RJ, 24440 -400",
+"Municipio": "São Gonçalo",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Sede Administrativa"
+},
+{
+"Unidade": "LOJA DE ATENDIMENTO CENTRO RJ",
+"Endereco": "R. Afonso Cavalcanti,275 -Centro, Rio de Janeiro, RJ, Brasil",
+"Municipio": "Rio de Janeiro",
+"Bloco": "B1",
+"Categoria": "Regional",
+"Tipo": "Loja"
+},
+{
+"Unidade": "EEE BICA",
+"Endereco": "Estrada da Bica, nº 01 – Jardim Guanabara, Rio de Janeiro, RJ, Brasil",
+"Municipio": "Rio de Janeiro",
+"Bloco": "B4",
+"Categoria": "Regional",
+"Tipo": "Estação Elevatória de Esgoto"
+},
+{
+"Unidade": "EEE FUNDÃO",
+"Endereco": "Rua Lobo Carneiro – Próximo a Saída 3 da Linha Amarela, Rio de Janeiro, RJ, Brasil",
+"Municipio": "Rio de Janeiro",
+"Bloco": "B4",
+"Categoria": "Regional",
+"Tipo": "Estação Elevatória de Esgoto"
+},
+{
+"Unidade": "EEE ZUMBI I",
+"Endereco": "Rua Formosa do Zumbi, nº 44 –Pitangueiras, Rio de Janeiro, RJ, Brasil",
+"Municipio": "Rio de Janeiro",
+"Bloco": "B4",
+"Categoria": "Regional",
+"Tipo": "Estação Elevatória de Esgoto"
+},
+{
+"Unidade": "LOJA DE ATENDIMENTO MÉIER",
+"Endereco": "Rua José Bonifácio, 528 - Méier, Rio de Janeiro, RJ, Brasil",
+"Municipio": "Rio de Janeiro",
+"Bloco": "B4",
+"Categoria": "Regional",
+"Tipo": "Loja"
+},
+{
+"Unidade": "LOJA DE ATENDIMENTO CAMPINHO",
+"Endereco": "Estrada Intendente Magalhães, 504 - Campinho, Rio de Janeiro, RJ, Brasil",
+"Municipio": "Rio de Janeiro",
+"Bloco": "B4",
+"Categoria": "Regional",
+"Tipo": "Loja"
+}
+];
+let results=[];
+const tb=document.querySelector('#tb tbody');
+function sleep(ms){return new Promise(r=>setTimeout(r,ms));}
+async function geo(q){
+  const url='https://nominatim.openstreetmap.org/search?format=json&limit=1&countrycodes=br&q='+encodeURIComponent(q);
+  try{const r=await fetch(url,{headers:{'Accept-Language':'pt-BR'}});
+      if(!r.ok)return null;const j=await r.json();
+      if(j&&j.length)return{lat:parseFloat(j[0].lat),lon:parseFloat(j[0].lon)};return null;
+  }catch(e){return 'erro';}
+}
+async function run(){
+  document.getElementById('go').disabled=true;
+  results=[];tb.innerHTML='';
+  for(let i=0;i<DATA.length;i++){
+    const d=DATA[i];
+    document.getElementById('prog').textContent='Geocodificando '+(i+1)+' de '+DATA.length+': '+d.Unidade;
+    let prec='exata',hit=await geo(d.Endereco);
+    if(hit===null||hit==='erro'){await sleep(1100);
+       const h2=await geo(d.Municipio+', RJ, Brasil');
+       if(h2&&h2!=='erro'){hit=h2;prec='aproximada (cidade)';}else{hit=null;}}
+    const row={...d,lat:hit?hit.lat:'',lon:hit?hit.lon:'',precisao:hit?prec:'NAO ENCONTRADO'};
+    results.push(row);
+    const tr=document.createElement('tr');
+    const cls=!hit?'fail':(prec==='exata'?'ok':'aprox');
+    const stat=!hit?'❌ não achou':(prec==='exata'?'✅ exata':'⚠ cidade');
+    tr.innerHTML='<td>'+(i+1)+'</td><td>'+d.Unidade+'</td><td class="'+cls+'">'+stat+'</td><td>'+(hit?hit.lat.toFixed(6):'')+'</td><td>'+(hit?hit.lon.toFixed(6):'')+'</td>';
+    tb.appendChild(tr);
+    document.getElementById('barf').style.width=((i+1)/DATA.length*100)+'%';
+    await sleep(1100);
+  }
+  const okc=results.filter(r=>r.precisao==='exata').length;
+  const apc=results.filter(r=>r.precisao.startsWith('aprox')).length;
+  const nf=results.filter(r=>r.precisao==='NAO ENCONTRADO').length;
+  document.getElementById('prog').textContent='Concluído! '+okc+' exatas, '+apc+' aproximadas (cidade), '+nf+' não encontradas. Clica em Baixar CSV.';
+  document.getElementById('dl').disabled=false;
+}
+function dl(){
+  const cols=['Unidade','Endereco','Municipio','Bloco','Categoria','Tipo','lat','lon','precisao'];
+  let csv='\ufeff'+cols.join(',')+'\n';
+  for(const r of results){csv+=cols.map(c=>'"'+String(r[c]).replace(/"/g,'""')+'"').join(',')+'\n';}
+  const b=new Blob([csv],{type:'text/csv;charset=utf-8'});
+  const a=document.createElement('a');a.href=URL.createObjectURL(b);
+  a.download='coordenadas_51.csv';a.click();
+}
+</script></body></html>
