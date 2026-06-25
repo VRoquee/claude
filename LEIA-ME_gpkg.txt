@@ -1,0 +1,18 @@
+MAPA PGRS — ÁGUAS DO RIO  (versão GeoPackage, arquivo único)
+=============================================================
+
+JEITO MAIS FÁCIL (só o gpkg):
+  1. Abra o QGIS.
+  2. Arraste o arquivo "Mapa_PGRS.gpkg" para dentro da janela do QGIS
+     (ou Camada > Adicionar Camada > Vetorial > selecione o .gpkg).
+  3. Ele já traz as 2 camadas, JÁ COLORIDAS (o estilo está embutido no gpkg):
+        - pontos_geracao   (179 unidades)
+        - municipios_pgrs  (92 municípios)
+  4. Fundo de mapa: Navegador > XYZ Blocos > duplo clique em OpenStreetMap.
+
+OU pelo projeto salvo:
+  - Abra "Mapa_PGRS.qgz" (precisa estar na MESMA pasta do Mapa_PGRS.gpkg).
+
+Tudo num arquivo só — não precisa manter os .geojson junto.
+
+Campo "precisao" nos pontos: exata (149) / aproximada bairro (19) / aproximada cidade (11).
