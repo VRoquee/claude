@@ -1,21 +1,16 @@
-MAPA PGRS — ÁGUAS DO RIO  (versão GeoPackage, arquivo único)
-=============================================================
+MAPA PGRS — ÁGUAS DO RIO  (GeoPackage, arquivo único)
+=====================================================
+Arraste "Mapa_PGRS.gpkg" para o QGIS. Duas camadas:
 
-JEITO MAIS FÁCIL: arraste "Mapa_PGRS.gpkg" para dentro do QGIS.
-Traz 2 camadas já coloridas:
-  - pontos_geracao  (179 unidades) — AGORA COLORIDO POR SUP (Superintendência)
-  - municipios_pgrs (92 municípios) — colorido por categoria PGRS
+PONTOS (unidades) — mostram O PGRS de cada unidade (objetivo principal):
+  • COR = o plano agrupado (cada PGRS agrupado tem uma cor) -> unidades da mesma cor = mesmo plano
+  • ESTRELA dourada = PGRS individualizado ; CÍRCULO colorido = PGRS agrupado
+  • RÓTULO = código do plano (IND-01..18, AG-01..21)
+  • Campos: cod_pgrs, plano_pgrs, modalidade, sup, area, destino, geracao_t, precisao
 
-CAMPOS NOVOS nos pontos (clique numa unidade p/ ver):
-  sup          - Superintendência (Rio Centro Sul, Rio Norte, Leste, Baixada 1/2, Interior, Comunidades)
-  area         - Área de planejamento (Noroeste, Serrana, Lagos, Baixada–Nova Iguaçu, etc.)
-  destino      - Destinador dominante do resíduo (base MTR 2024-2025)
-  modalidade   - Individualizado / Agrupado
-  plano_pgrs   - Plano PGRS proposto ao qual a unidade pertence
-  precisao     - exata / aproximada (bairro/cidade)
+MUNICÍPIOS — contexto regional:
+  • COR = Superintendência (SUP). Rio capital = "multi-SUP" (abrange 4).
 
-REORGANIZAÇÃO DOS PLANOS (proposta)
-  De 53 -> 41 planos: 18 individualizados (geradores >= 500 t/ano) +
-  23 agrupados por SUP x Bloco x Área. Critério: nunca cruza SUP nem Bloco;
-  agrupa unidades próximas/do mesmo destino. Detalhe em Planos_PGRS_Resumo.csv
-  e PGRS_Reorganizado.csv (uma linha por unidade).
+ESTRUTURA: 39 PGRS = 18 individualizados (>=500 t/ano) + 21 agrupados
+(por SUP x Bloco x Área; nunca cruza SUP nem Bloco). Detalhe em PGRS_Reorganizado.csv
+e Planos_PGRS_Resumo.csv. Termo de Referência atualizado: TR_PGRS_AguasDoRio_Rev04.docx.
