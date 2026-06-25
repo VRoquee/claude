@@ -2327,12 +2327,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "N/D",
-        "precisao": "exata",
+        "precisao": "indefinida (confirmar local)",
         "sup": "Baixada 2",
-        "area": "(s/área)",
+        "area": "Baixada – Nova Iguaçu",
         "destino": "",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · REVISAR (sem município) (Baixada 2/B4)"
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -2748,23 +2748,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.5449653,
-          -22.8625894
+          -42.1011,
+          -21.6256
         ]
       },
       "properties": {
         "unidade": "EEAB PARAOQUENA",
-        "municipio": "N/D",
+        "municipio": "Aperibé",
         "bloco": "B1",
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "N/D",
-        "precisao": "exata",
-        "sup": "Baixada 2",
-        "area": "(s/área)",
+        "precisao": "aproximada (cidade)",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
         "destino": "",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · REVISAR (sem município) (Baixada 2/B1)"
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {

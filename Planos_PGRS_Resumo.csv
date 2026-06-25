@@ -1,6 +1,6 @@
 ﻿plano_pgrs,modalidade,sup,bloco,n_unidades,municipios,geracao_total_t,destino_dominante
-AGR · Noroeste Fluminense (Interior/B1),Agrupado,Interior,B1,24,Itaocara(6); Miracema(6); São Francisco de Itabapoana(5); Cambuci(4); Aperibé(3),580.5,PRO-AMBIENTAL TECNOLOGIA LTDA
-AGR · Baixada – Nova Iguaçu (Baixada 2/B4),Agrupado,Baixada 2,B4,18,Nova Iguaçu(18),342.9,Regenera Rio S.A.
+AGR · Noroeste Fluminense (Interior/B1),Agrupado,Interior,B1,25,Itaocara(6); Miracema(6); São Francisco de Itabapoana(5); Aperibé(4); Cambuci(4),580.5,PRO-AMBIENTAL TECNOLOGIA LTDA
+AGR · Baixada – Nova Iguaçu (Baixada 2/B4),Agrupado,Baixada 2,B4,19,Nova Iguaçu(18); N/D(1),342.9,Regenera Rio S.A.
 AGR · Leste Metropolitano (Leste/B1),Agrupado,Leste,B1,17,São Gonçalo(9); Itaboraí(5); Tanguá(3),288.5,Regenera Rio S.A.
 AGR · RJ Rio Centro Sul (Rio Centro Sul/B4),Agrupado,Rio Centro Sul,B4,16,Rio de Janeiro(16),221.9,Bravo Administração de Imovés Ltda
 AGR · RJ Rio Centro Sul (Rio Centro Sul/B1),Agrupado,Rio Centro Sul,B1,12,Rio de Janeiro(12),370.9,Regenera Rio S.A.
@@ -20,8 +20,6 @@ AGR · São João de Meriti (Baixada 1/B4),Agrupado,Baixada 1,B4,2,São João de
 AGR · RJ Comunidades (Comunidades/B4),Agrupado,Comunidades,B4,2,Rio de Janeiro(2),163.5,Regenera Rio S.A.
 AGR · RJ Comunidades (Comunidades/B1),Agrupado,Comunidades,B1,2,Rio de Janeiro(2),76.9,VALCIR TADEU PRIMO DA SILVA
 AGR · RJ Leste (Leste/B4),Agrupado,Leste,B4,2,Rio de Janeiro(2),12.8,Regenera Rio S.A.
-AGR · REVISAR (sem município) (Baixada 2/B4),Agrupado,Baixada 2,B4,1,N/D(1),0.0,
-AGR · REVISAR (sem município) (Baixada 2/B1),Agrupado,Baixada 2,B1,1,N/D(1),0.0,
 IND · BASE OPERACIONAL PENHA,Individualizado,Rio Norte,B4,2,Rio de Janeiro(2),11219.6,VALCIR TADEU PRIMO DA SILVA
 IND · RESERVATORIO VILAR DOS TELES,Individualizado,Baixada 1,B4,1,São João de Meriti(1),1080.0,ENDOMAQ SERVIÇOS E EMPREENDIMENTOS LTDA
 IND · SEDE NILOPOLIS,Individualizado,Baixada 2,B4,1,Nilópolis(1),2104.4,Empresa Gerencial de Projetos Navais - EMGEPRON

@@ -47,7 +47,7 @@ EEAT AUSTIN,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação Elevat�
 ETE SAO JORGE,Queimados,Baixada 2,Agrupado/Municipal,B4,Estação de Tratamento de Esgoto,0.0,Não,,Agrupado,AGR · Queimados (Baixada 2/B4),-22.6909415,-43.5596954
 SEDE QUEIMADOS,Queimados,Baixada 2,Agrupado/Municipal,B4,Sede Administrativa,305.0,Sim,TORRES E SILVA TERRAPLANAGEM EIRELI,Agrupado,AGR · Queimados (Baixada 2/B4),-22.7114503,-43.5540014
 ETE QUEIMADOS,Queimados,Baixada 2,Agrupado/Municipal,B4,Estação de Tratamento de Esgoto,0.0,Não,,Agrupado,AGR · Queimados (Baixada 2/B4),-22.7156978,-43.555754
-USINA DE ASFALTO,N/D,Baixada 2 (vizinho),(s/área),B4,N/D,0.0,Não,,Agrupado,AGR · REVISAR (sem município) (Baixada 2/B4),-22.8625894,-43.5449653
+USINA DE ASFALTO,N/D,Baixada 2,Baixada – Nova Iguaçu,B4,N/D,0.0,Não,,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.8625894,-43.5449653
 BASE VCG SÃO CRISTOVÃO,Rio de Janeiro,Comunidades,RJ – Capital,B4,Base Operacional,13.9,Sim,Regenera Rio S.A.,Agrupado,AGR · RJ Comunidades (Comunidades/B4),-22.8948275,-43.2201344
 BASE EEAT ROCINHA,Rio de Janeiro,Comunidades,RJ – Capital,B1,Base Operacional,56.9,Sim,VALCIR TADEU PRIMO DA SILVA,Agrupado,AGR · RJ Comunidades (Comunidades/B1),-22.9866846,-43.2463688
 BASE ROCINHA/ LOJA DE ATENDIMENTO,Rio de Janeiro,Comunidades,RJ – Capital,B1,Base Operacional,20.0,Sim,Perugia Empreendimentos Imobiliários S.A.,Agrupado,AGR · RJ Comunidades (Comunidades/B1),-22.9866846,-43.2463688
@@ -107,7 +107,7 @@ ETA VALÃO DO BARRO,São Sebastião do Alto,Interior,Agrupado/Municipal,B1,Esta�
 LOJA DE ATENDIMENTO SÃO SEBASTIÃO DO ALTO,São Sebastião do Alto,Interior,Agrupado/Municipal,B1,Loja,0.0,Não,,Agrupado,AGR · São Sebastião do Alto (Interior/B1),-21.954,-42.133
 UT CHÁCARA DO PARAÍSO,São Sebastião do Alto,Interior,Agrupado/Municipal,B1,Unidade de Tratamento de Água,0.0,Não,,Agrupado,AGR · São Sebastião do Alto (Interior/B1),-21.957925,-42.1358139
 UT HOSPITAL,São Sebastião do Alto,Interior,Agrupado/Municipal,B1,Unidade de Tratamento de Água,0.0,Não,,Agrupado,AGR · São Sebastião do Alto (Interior/B1),-21.8765871,-42.1115232
-EEAB PARAOQUENA,N/D,Baixada 2 (vizinho),(s/área),B1,N/D,0.0,Não,,Agrupado,AGR · REVISAR (sem município) (Baixada 2/B1),-22.8625894,-43.5449653
+EEAB PARAOQUENA,Aperibé,Interior,Noroeste Fluminense,B1,N/D,0.0,Não,,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.6256,-42.1011
 BASE OPERACIONAL ITABORAÍ,Itaboraí,Leste,Leste Metropolitano,B1,Base Operacional,0.0,Não,,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.7502701,-42.8957278
 BASE OPERACIONAL SÃO GONÇALO,São Gonçalo,Leste,Leste Metropolitano,B1,Base Operacional,1364.2,Sim,Central de Tratamento de Residuos Alcantara S/A,Individualizado,IND · BASE OPERACIONAL SÃO GONÇALO,-22.805495,-43.0625474
 EEE APOLO 1,São Gonçalo,Leste,Leste Metropolitano,B1,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.7774134,-42.9490692
