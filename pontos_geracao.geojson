@@ -23,7 +23,12 @@
         "geracao_t": "6782.4",
         "cat_pgrs": "Individualizado",
         "tipo": "Estação de Tratamento de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "Ciclus Ambiental Rio S.A.",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · ETE SÃO GONÇALO II"
       }
     },
     {
@@ -42,7 +47,12 @@
         "geracao_t": "5609.8",
         "cat_pgrs": "Individualizado",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Norte",
+        "area": "RJ – Capital",
+        "destino": "VALCIR TADEU PRIMO DA SILVA",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · BASE OPERACIONAL PENHA"
       }
     },
     {
@@ -61,7 +71,12 @@
         "geracao_t": "5609.8",
         "cat_pgrs": "Individualizado",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Norte",
+        "area": "RJ – Capital",
+        "destino": "VALCIR TADEU PRIMO DA SILVA",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · BASE OPERACIONAL PENHA"
       }
     },
     {
@@ -80,7 +95,12 @@
         "geracao_t": "3910.2",
         "cat_pgrs": "Individualizado",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "Associação carioca de catadores e ex catadores",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · BASE OPERACIONAL TIJUCA"
       }
     },
     {
@@ -99,7 +119,12 @@
         "geracao_t": "3087.4",
         "cat_pgrs": "Individualizado",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "Associação carioca de catadores e ex catadores",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · BASE OPERACIONAL BOTAFOGO"
       }
     },
     {
@@ -118,7 +143,12 @@
         "geracao_t": "2829.3",
         "cat_pgrs": "Individualizado",
         "tipo": "Estação de Tratamento de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Norte",
+        "area": "RJ – Capital",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · ETE PAVUNA"
       }
     },
     {
@@ -137,7 +167,12 @@
         "geracao_t": "2829.3",
         "cat_pgrs": "Individualizado",
         "tipo": "Estação de Tratamento de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Norte",
+        "area": "RJ – Capital",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · ETE PAVUNA VALO OXIDAÇÃO"
       }
     },
     {
@@ -156,7 +191,12 @@
         "geracao_t": "2821.3",
         "cat_pgrs": "Individualizado",
         "tipo": "Laboratório",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Norte",
+        "area": "RJ – Capital",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · LABORATÓRIO ETE PAVUNA"
       }
     },
     {
@@ -175,7 +215,12 @@
         "geracao_t": "2498.1",
         "cat_pgrs": "Individualizado",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "VALCIR TADEU PRIMO DA SILVA",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · BASE OPERACIONAL GÁVEA"
       }
     },
     {
@@ -194,7 +239,12 @@
         "geracao_t": "2104.4",
         "cat_pgrs": "Individualizado",
         "tipo": "Sede Administrativa",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – demais",
+        "destino": "Empresa Gerencial de Projetos Navais - EMGEPRON",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · SEDE NILOPOLIS"
       }
     },
     {
@@ -213,7 +263,12 @@
         "geracao_t": "2029.0",
         "cat_pgrs": "Individualizado",
         "tipo": "Estação de Tratamento de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Norte",
+        "area": "RJ – Capital",
+        "destino": "ETE ALEGRIA - AGUAS DO RIO 4 SPE S.A.",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · ETE ILHA DO GOVERNADOR"
       }
     },
     {
@@ -232,7 +287,12 @@
         "geracao_t": "1920.0",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Norte",
+        "area": "RJ – Capital",
+        "destino": "VALCIR TADEU PRIMO DA SILVA",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · BASE OPERACIONAL MÉIER"
       }
     },
     {
@@ -251,7 +311,12 @@
         "geracao_t": "1685.5",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Norte",
+        "area": "RJ – Capital",
+        "destino": "TORRES E SILVA TERRAPLANAGEM EIRELI",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · BASE OPERACIONAL CAMPINHO"
       }
     },
     {
@@ -270,7 +335,12 @@
         "geracao_t": "1364.2",
         "cat_pgrs": "Individualizado",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "Central de Tratamento de Residuos Alcantara S/A",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · BASE OPERACIONAL SÃO GONÇALO"
       }
     },
     {
@@ -289,7 +359,12 @@
         "geracao_t": "1080.0",
         "cat_pgrs": "Individualizado",
         "tipo": "Reservatório de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 1",
+        "area": "(somente individualizado)",
+        "destino": "ENDOMAQ SERVIÇOS E EMPREENDIMENTOS LTDA",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · RESERVATORIO VILAR DOS TELES"
       }
     },
     {
@@ -308,7 +383,12 @@
         "geracao_t": "939.5",
         "cat_pgrs": "Individualizado",
         "tipo": "Estação de Tratamento de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Norte",
+        "area": "RJ – Capital",
+        "destino": "Ciclus Ambiental Rio S.A.",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · ETE PENHA"
       }
     },
     {
@@ -327,7 +407,12 @@
         "geracao_t": "695.1",
         "cat_pgrs": "Individualizado",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · EEE ANDRÉ AZEVEDO"
       }
     },
     {
@@ -346,7 +431,12 @@
         "geracao_t": "575.1",
         "cat_pgrs": "Individualizado",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Comunidades",
+        "area": "RJ – Capital",
+        "destino": "VALCIR TADEU PRIMO DA SILVA",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · BASE OPERACIONAL ENGENHO DE DENTRO"
       }
     },
     {
@@ -365,7 +455,12 @@
         "geracao_t": "490.0",
         "cat_pgrs": "Individualizado",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 1",
+        "area": "Baixada – demais",
+        "destino": "MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – demais (Baixada 1/B4)"
       }
     },
     {
@@ -384,7 +479,12 @@
         "geracao_t": "420.9",
         "cat_pgrs": "Individualizado",
         "tipo": "Estação de Tratamento de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "[INTERIOR] - ETE APERIBE - AGUAS DO RIO 1 SPE S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -403,7 +503,12 @@
         "geracao_t": "326.0",
         "cat_pgrs": "Individualizado",
         "tipo": "Estação de Tratamento de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 1",
+        "area": "(somente individualizado)",
+        "destino": "Ciclus Ambiental Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Belford Roxo (Baixada 1/B4)"
       }
     },
     {
@@ -422,7 +527,12 @@
         "geracao_t": "308.1",
         "cat_pgrs": "Individualizado",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – Nova Iguaçu",
+        "destino": "INDUSTRIA EXTRATIVA E COMERICAL POP LTDA-EPP",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -441,7 +551,12 @@
         "geracao_t": "305.0",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Sede Administrativa",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Agrupado/Municipal",
+        "destino": "TORRES E SILVA TERRAPLANAGEM EIRELI",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Queimados (Baixada 2/B4)"
       }
     },
     {
@@ -460,7 +575,12 @@
         "geracao_t": "283.3",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Norte",
+        "area": "RJ – Capital",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Norte (Rio Norte/B4)"
       }
     },
     {
@@ -479,7 +599,12 @@
         "geracao_t": "243.0",
         "cat_pgrs": "Individualizado",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Lagos e Litoral",
+        "destino": "PRO-AMBIENTAL TECNOLOGIA LTDA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Lagos e Litoral (Interior/B1)"
       }
     },
     {
@@ -498,7 +623,12 @@
         "geracao_t": "214.9",
         "cat_pgrs": "Individualizado",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 1",
+        "area": "(somente individualizado)",
+        "destino": "MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Belford Roxo (Baixada 1/B4)"
       }
     },
     {
@@ -517,7 +647,12 @@
         "geracao_t": "172.0",
         "cat_pgrs": "Individualizado",
         "tipo": "Estação de Tratamento de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Serrana / Centro-Norte",
+        "destino": "[INTERIOR] - ETE APERIBE - AGUAS DO RIO 1 SPE S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)"
       }
     },
     {
@@ -536,7 +671,12 @@
         "geracao_t": "149.6",
         "cat_pgrs": "Individualizado",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Comunidades",
+        "area": "RJ – Capital",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Comunidades (Comunidades/B4)"
       }
     },
     {
@@ -555,7 +695,12 @@
         "geracao_t": "130.2",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Norte",
+        "area": "RJ – Capital",
+        "destino": "VALCIR TADEU PRIMO DA SILVA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Norte (Rio Norte/B4)"
       }
     },
     {
@@ -574,7 +719,12 @@
         "geracao_t": "125.8",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)"
       }
     },
     {
@@ -593,7 +743,12 @@
         "geracao_t": "115.5",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "ECO ITA GESTÃO DE RESÍDUOS LTDA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Leste Metropolitano (Leste/B1)"
       }
     },
     {
@@ -612,7 +767,12 @@
         "geracao_t": "103.5",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)"
       }
     },
     {
@@ -631,7 +791,12 @@
         "geracao_t": "84.3",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "VALCIR TADEU PRIMO DA SILVA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)"
       }
     },
     {
@@ -650,7 +815,12 @@
         "geracao_t": "80.3",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Reservatório de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "VALCIR TADEU PRIMO DA SILVA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)"
       }
     },
     {
@@ -669,7 +839,12 @@
         "geracao_t": "79.8",
         "cat_pgrs": "Individualizado",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Serrana / Centro-Norte",
+        "destino": "PRO-AMBIENTAL TECNOLOGIA LTDA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)"
       }
     },
     {
@@ -688,7 +863,12 @@
         "geracao_t": "61.0",
         "cat_pgrs": "Individualizado",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Serrana / Centro-Norte",
+        "destino": "[INTERIOR] - ETE APERIBE - AGUAS DO RIO 1 SPE S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)"
       }
     },
     {
@@ -707,7 +887,12 @@
         "geracao_t": "56.9",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Comunidades",
+        "area": "RJ – Capital",
+        "destino": "VALCIR TADEU PRIMO DA SILVA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Comunidades (Comunidades/B1)"
       }
     },
     {
@@ -726,7 +911,12 @@
         "geracao_t": "48.5",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 1",
+        "area": "Agrupado/Municipal",
+        "destino": "[BAIXADA 1] - ETE SARAPUI - AGUAS DO RIO 4 SPE S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Magé (Baixada 1/B1)"
       }
     },
     {
@@ -745,7 +935,12 @@
         "geracao_t": "41.0",
         "cat_pgrs": "Individualizado",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 1",
+        "area": "(somente individualizado)",
+        "destino": "MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · São João de Meriti (Baixada 1/B4)"
       }
     },
     {
@@ -764,7 +959,12 @@
         "geracao_t": "40.1",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação de Tratamento de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "Ciclus Ambiental Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Leste Metropolitano (Leste/B1)"
       }
     },
     {
@@ -783,7 +983,12 @@
         "geracao_t": "40.0",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Reservatório de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 1",
+        "area": "Baixada – demais",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – demais (Baixada 1/B4)"
       }
     },
     {
@@ -802,7 +1007,12 @@
         "geracao_t": "40.0",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Reservatório de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 1",
+        "area": "Baixada – demais",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – demais (Baixada 1/B4)"
       }
     },
     {
@@ -821,7 +1031,12 @@
         "geracao_t": "40.0",
         "cat_pgrs": "Individualizado",
         "tipo": "Reservatório de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 1",
+        "area": "(somente individualizado)",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · São João de Meriti (Baixada 1/B4)"
       }
     },
     {
@@ -840,7 +1055,12 @@
         "geracao_t": "40.0",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Reservatório de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "Bravo Administração de Imovés Ltda",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)"
       }
     },
     {
@@ -859,7 +1079,12 @@
         "geracao_t": "40.0",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Reservatório de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "Bravo Administração de Imovés Ltda",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)"
       }
     },
     {
@@ -878,7 +1103,12 @@
         "geracao_t": "40.0",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Reservatório de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "ENDOMAQ SERVIÇOS E EMPREENDIMENTOS LTDA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)"
       }
     },
     {
@@ -897,7 +1127,12 @@
         "geracao_t": "38.9",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "CTR SERVIÇOS AMBIENTAIS LTDA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -916,7 +1151,12 @@
         "geracao_t": "37.8",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Norte",
+        "area": "RJ – Capital",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Norte (Rio Norte/B4)"
       }
     },
     {
@@ -935,7 +1175,12 @@
         "geracao_t": "37.5",
         "cat_pgrs": "Individualizado",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "PRO-AMBIENTAL TECNOLOGIA LTDA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -954,7 +1199,12 @@
         "geracao_t": "36.6",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 1",
+        "area": "Baixada – demais",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – demais (Baixada 1/B4)"
       }
     },
     {
@@ -973,7 +1223,12 @@
         "geracao_t": "36.0",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação de Tratamento de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "ETE ALEGRIA - AGUAS DO RIO 4 SPE S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Leste Metropolitano (Leste/B1)"
       }
     },
     {
@@ -992,7 +1247,12 @@
         "geracao_t": "34.8",
         "cat_pgrs": "Individualizado",
         "tipo": "Estação de Tratamento de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – Nova Iguaçu",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -1011,7 +1271,12 @@
         "geracao_t": "32.3",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)"
       }
     },
     {
@@ -1030,7 +1295,12 @@
         "geracao_t": "30.1",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 1",
+        "area": "Agrupado/Municipal",
+        "destino": "MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Magé (Baixada 1/B1)"
       }
     },
     {
@@ -1049,7 +1319,12 @@
         "geracao_t": "29.3",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação de Tratamento de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "[INTERIOR] - ETE MIRACEMA - AGUAS DO RIO 1 SPE S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -1068,7 +1343,12 @@
         "geracao_t": "27.3",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Leste Metropolitano (Leste/B1)"
       }
     },
     {
@@ -1087,7 +1367,12 @@
         "geracao_t": "25.9",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Unidade de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "VITAL ENGENHARIA AMBIENTAL S/A (Aterro de Inertes - CODIN)",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -1106,7 +1391,12 @@
         "geracao_t": "25.2",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação de Tratamento de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "ETE ALEGRIA - AGUAS DO RIO 4 SPE S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Leste Metropolitano (Leste/B1)"
       }
     },
     {
@@ -1125,7 +1415,12 @@
         "geracao_t": "21.6",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Unidade de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "ETR JARDIM GRAMACHO",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)"
       }
     },
     {
@@ -1144,7 +1439,12 @@
         "geracao_t": "20.6",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Água Tratada",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "PRO-AMBIENTAL TECNOLOGIA LTDA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -1163,7 +1463,12 @@
         "geracao_t": "20.0",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Comunidades",
+        "area": "RJ – Capital",
+        "destino": "Perugia Empreendimentos Imobiliários S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Comunidades (Comunidades/B1)"
       }
     },
     {
@@ -1182,7 +1487,12 @@
         "geracao_t": "20.0",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Sede Administrativa",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "CICLUS AMBIENTAL RIO S/A",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)"
       }
     },
     {
@@ -1201,7 +1511,12 @@
         "geracao_t": "18.7",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Almoxarifado",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 1",
+        "area": "Baixada – demais",
+        "destino": "ETR JARDIM GRAMACHO",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – demais (Baixada 1/B4)"
       }
     },
     {
@@ -1220,7 +1535,12 @@
         "geracao_t": "18.5",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação de Tratamento de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Leste Metropolitano (Leste/B1)"
       }
     },
     {
@@ -1239,7 +1559,12 @@
         "geracao_t": "14.9",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Agrupado/Municipal",
+        "destino": "CTR SERVIÇOS AMBIENTAIS LTDA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · São Sebastião do Alto (Interior/B1)"
       }
     },
     {
@@ -1258,7 +1583,12 @@
         "geracao_t": "13.9",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Comunidades",
+        "area": "RJ – Capital",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Comunidades (Comunidades/B4)"
       }
     },
     {
@@ -1277,7 +1607,12 @@
         "geracao_t": "11.7",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Leste Metropolitano (Leste/B1)"
       }
     },
     {
@@ -1296,7 +1631,12 @@
         "geracao_t": "10.0",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – demais",
+        "destino": "INDUSTRIA EXTRATIVA E COMERICAL POP LTDA-EPP",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – demais (Baixada 2/B4)"
       }
     },
     {
@@ -1315,7 +1655,12 @@
         "geracao_t": "9.7",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "Ciclus Ambiental Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Leste Metropolitano (Leste/B1)"
       }
     },
     {
@@ -1334,7 +1679,12 @@
         "geracao_t": "7.4",
         "cat_pgrs": "Individualizado",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "PRO-AMBIENTAL TECNOLOGIA LTDA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -1353,7 +1703,12 @@
         "geracao_t": "7.0",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "RJ – Capital",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Leste (Leste/B4)"
       }
     },
     {
@@ -1372,7 +1727,12 @@
         "geracao_t": "5.8",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "RJ – Capital",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Leste (Leste/B4)"
       }
     },
     {
@@ -1391,7 +1751,12 @@
         "geracao_t": "5.0",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "VALCIR TADEU PRIMO DA SILVA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)"
       }
     },
     {
@@ -1410,7 +1775,12 @@
         "geracao_t": "3.8",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Leste Metropolitano (Leste/B1)"
       }
     },
     {
@@ -1429,7 +1799,12 @@
         "geracao_t": "1.5",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – demais",
+        "destino": "ETR JARDIM GRAMACHO",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – demais (Baixada 2/B4)"
       }
     },
     {
@@ -1448,7 +1823,12 @@
         "geracao_t": "1.5",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Agrupado/Municipal",
+        "destino": "Ciclus Ambiental Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Maricá (Leste/B1)"
       }
     },
     {
@@ -1467,7 +1847,12 @@
         "geracao_t": "1.4",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 1",
+        "area": "Baixada – demais",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – demais (Baixada 1/B4)"
       }
     },
     {
@@ -1486,7 +1871,12 @@
         "geracao_t": "0.7",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Leste Metropolitano (Leste/B1)"
       }
     },
     {
@@ -1505,7 +1895,12 @@
         "geracao_t": "0.5",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "N/D",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 1",
+        "area": "Baixada – demais",
+        "destino": "MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – demais (Baixada 1/B4)"
       }
     },
     {
@@ -1524,7 +1919,12 @@
         "geracao_t": "0.3",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – demais",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – demais (Baixada 2/B4)"
       }
     },
     {
@@ -1543,7 +1943,12 @@
         "geracao_t": "0.1",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Unidade de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 1",
+        "area": "Agrupado/Municipal",
+        "destino": "3R COMERCIO DE RESIDUOS RECICLAVEIS LTDA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Magé (Baixada 1/B1)"
       }
     },
     {
@@ -1562,7 +1967,12 @@
         "geracao_t": "9422,6",
         "cat_pgrs": "Individualizado",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · ETE ALEGRIA"
       }
     },
     {
@@ -1581,7 +1991,12 @@
         "geracao_t": "2,9",
         "cat_pgrs": "Individualizado",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Lagos e Litoral",
+        "destino": "Regenera Rio S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Lagos e Litoral (Leste/B1)"
       }
     },
     {
@@ -1600,7 +2015,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 1",
+        "area": "Baixada – demais",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – demais (Baixada 1/B4)"
       }
     },
     {
@@ -1619,7 +2039,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 1",
+        "area": "Baixada – demais",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – demais (Baixada 1/B4)"
       }
     },
     {
@@ -1638,7 +2063,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Reservação",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – demais",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – demais (Baixada 2/B4)"
       }
     },
     {
@@ -1657,7 +2087,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Reservação",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – demais",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – demais (Baixada 2/B4)"
       }
     },
     {
@@ -1676,7 +2111,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Água Tratada",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – Nova Iguaçu",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -1695,7 +2135,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Água Tratada",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – Nova Iguaçu",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -1714,7 +2159,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Água Tratada",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – Nova Iguaçu",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -1733,7 +2183,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – Nova Iguaçu",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -1752,7 +2207,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Reservação",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – Nova Iguaçu",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -1771,7 +2231,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Reservação",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – Nova Iguaçu",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -1790,7 +2255,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Reservação",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – Nova Iguaçu",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -1809,7 +2279,12 @@
         "geracao_t": "",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação de Tratamento de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Agrupado/Municipal",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Queimados (Baixada 2/B4)"
       }
     },
     {
@@ -1828,7 +2303,12 @@
         "geracao_t": "",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação de Tratamento de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Agrupado/Municipal",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Queimados (Baixada 2/B4)"
       }
     },
     {
@@ -1847,7 +2327,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "N/D",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "(s/área)",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · REVISAR (sem município) (Baixada 2/B4)"
       }
     },
     {
@@ -1866,7 +2351,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)"
       }
     },
     {
@@ -1885,7 +2375,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Água Tratada",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)"
       }
     },
     {
@@ -1904,7 +2399,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Unidade de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)"
       }
     },
     {
@@ -1923,7 +2423,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Unidade de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "(s/área)",
+        "destino": "PRO-AMBIENTAL TECNOLOGIA LTDA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Cachoeira de Macacu (Interior/B1)"
       }
     },
     {
@@ -1942,7 +2447,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Unidade de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "(s/área)",
+        "destino": "PRO-AMBIENTAL TECNOLOGIA LTDA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Cachoeira de Macacu (Interior/B1)"
       }
     },
     {
@@ -1961,7 +2471,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Loja",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -1980,7 +2495,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Loja",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Serrana / Centro-Norte",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)"
       }
     },
     {
@@ -1999,7 +2519,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Lagos e Litoral",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Lagos e Litoral (Interior/B1)"
       }
     },
     {
@@ -2018,7 +2543,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -2037,7 +2567,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "3R COMERCIO DE RESIDUOS RECICLAVEIS LTDA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -2056,7 +2591,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -2075,7 +2615,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevtória de Água Bruta",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Lagos e Litoral",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Lagos e Litoral (Interior/B1)"
       }
     },
     {
@@ -2094,7 +2639,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Loja",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Lagos e Litoral",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Lagos e Litoral (Interior/B1)"
       }
     },
     {
@@ -2113,7 +2663,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -2132,7 +2687,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -2151,7 +2711,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Loja",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -2170,7 +2735,12 @@
         "geracao_t": "",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Agrupado/Municipal",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · São Sebastião do Alto (Interior/B1)"
       }
     },
     {
@@ -2189,7 +2759,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "N/D",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "(s/área)",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · REVISAR (sem município) (Baixada 2/B1)"
       }
     },
     {
@@ -2208,7 +2783,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Leste Metropolitano (Leste/B1)"
       }
     },
     {
@@ -2227,7 +2807,12 @@
         "geracao_t": "",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Água Bruta",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Agrupado/Municipal",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Maricá (Leste/B1)"
       }
     },
     {
@@ -2246,7 +2831,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Água Bruta",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Lagos e Litoral",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Lagos e Litoral (Leste/B1)"
       }
     },
     {
@@ -2265,7 +2855,12 @@
         "geracao_t": "",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Água Bruta",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Agrupado/Municipal",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Maricá (Leste/B1)"
       }
     },
     {
@@ -2284,7 +2879,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Loja",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Leste Metropolitano (Leste/B1)"
       }
     },
     {
@@ -2303,7 +2903,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Loja",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Lagos e Litoral",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Lagos e Litoral (Leste/B1)"
       }
     },
     {
@@ -2322,7 +2927,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Loja",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)"
       }
     },
     {
@@ -2341,7 +2951,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Água Tratada",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)"
       }
     },
     {
@@ -2360,7 +2975,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Loja",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)"
       }
     },
     {
@@ -2379,7 +2999,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)"
       }
     },
     {
@@ -2398,7 +3023,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)"
       }
     },
     {
@@ -2417,7 +3047,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)"
       }
     },
     {
@@ -2436,7 +3071,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Loja",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)"
       }
     },
     {
@@ -2455,7 +3095,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Água Tratada",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Baixada 2",
+        "area": "Baixada – demais",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – demais (Baixada 2/B4)"
       }
     },
     {
@@ -2474,7 +3119,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Água Tratada",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Baixada 2",
+        "area": "Baixada – demais",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – demais (Baixada 2/B4)"
       }
     },
     {
@@ -2493,7 +3143,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Água Tratada",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Baixada 2",
+        "area": "Baixada – demais",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – demais (Baixada 2/B4)"
       }
     },
     {
@@ -2512,7 +3167,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Reservação",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – demais",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – demais (Baixada 2/B4)"
       }
     },
     {
@@ -2531,7 +3191,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Loja",
-        "precisao": "aproximada (cidade)"
+        "precisao": "aproximada (cidade)",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -2550,7 +3215,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Loja",
-        "precisao": "aproximada (cidade)"
+        "precisao": "aproximada (cidade)",
+        "sup": "Interior",
+        "area": "(s/área)",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Cachoeira de Macacu (Interior/B1)"
       }
     },
     {
@@ -2569,7 +3239,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -2588,7 +3263,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Unidade de Tratamento de Água",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -2607,7 +3287,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Unidade de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -2626,7 +3311,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Interior",
+        "area": "Serrana / Centro-Norte",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)"
       }
     },
     {
@@ -2645,7 +3335,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "aproximada (cidade)"
+        "precisao": "aproximada (cidade)",
+        "sup": "Interior",
+        "area": "Serrana / Centro-Norte",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)"
       }
     },
     {
@@ -2664,7 +3359,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Interior",
+        "area": "Serrana / Centro-Norte",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)"
       }
     },
     {
@@ -2683,7 +3383,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Loja",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Interior",
+        "area": "Lagos e Litoral",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Lagos e Litoral (Interior/B1)"
       }
     },
     {
@@ -2702,7 +3407,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Sede Administrativa",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Interior",
+        "area": "Serrana / Centro-Norte",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)"
       }
     },
     {
@@ -2721,7 +3431,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Serrana / Centro-Norte",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)"
       }
     },
     {
@@ -2740,7 +3455,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Loja",
-        "precisao": "aproximada (cidade)"
+        "precisao": "aproximada (cidade)",
+        "sup": "Interior",
+        "area": "Serrana / Centro-Norte",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)"
       }
     },
     {
@@ -2759,7 +3479,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -2778,7 +3503,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -2797,7 +3527,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Sede Administrativa",
-        "precisao": "aproximada (cidade)"
+        "precisao": "aproximada (cidade)",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -2816,7 +3551,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "3R COMERCIO DE RESIDUOS RECICLAVEIS LTDA",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -2835,7 +3575,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Loja",
-        "precisao": "aproximada (cidade)"
+        "precisao": "aproximada (cidade)",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -2854,7 +3599,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Água Bruta",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Interior",
+        "area": "Noroeste Fluminense",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Noroeste Fluminense (Interior/B1)"
       }
     },
     {
@@ -2873,7 +3623,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Unidade de Tratamento de Água",
-        "precisao": "aproximada (cidade)"
+        "precisao": "aproximada (cidade)",
+        "sup": "Interior",
+        "area": "Lagos e Litoral",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Lagos e Litoral (Interior/B1)"
       }
     },
     {
@@ -2892,7 +3647,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Unidade de Tratamento de Água",
-        "precisao": "aproximada (cidade)"
+        "precisao": "aproximada (cidade)",
+        "sup": "Interior",
+        "area": "Lagos e Litoral",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Lagos e Litoral (Interior/B1)"
       }
     },
     {
@@ -2911,7 +3671,12 @@
         "geracao_t": "",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Loja",
-        "precisao": "aproximada (cidade)"
+        "precisao": "aproximada (cidade)",
+        "sup": "Interior",
+        "area": "Agrupado/Municipal",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · São Sebastião do Alto (Interior/B1)"
       }
     },
     {
@@ -2930,7 +3695,12 @@
         "geracao_t": "",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Unidade de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Interior",
+        "area": "Agrupado/Municipal",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · São Sebastião do Alto (Interior/B1)"
       }
     },
     {
@@ -2949,7 +3719,12 @@
         "geracao_t": "",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Unidade de Tratamento de Água",
-        "precisao": "aproximada (cidade)"
+        "precisao": "aproximada (cidade)",
+        "sup": "Interior",
+        "area": "Agrupado/Municipal",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · São Sebastião do Alto (Interior/B1)"
       }
     },
     {
@@ -2968,7 +3743,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Base Operacional",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Leste Metropolitano (Leste/B1)"
       }
     },
     {
@@ -2987,7 +3767,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Leste Metropolitano (Leste/B1)"
       }
     },
     {
@@ -3006,7 +3791,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Água Tratada",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Leste Metropolitano (Leste/B1)"
       }
     },
     {
@@ -3025,7 +3815,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Sede Administrativa",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Leste Metropolitano (Leste/B1)"
       }
     },
     {
@@ -3044,7 +3839,12 @@
         "geracao_t": "",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Agrupado/Municipal",
+        "destino": "Cop Service Soluções Ambientais",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Maricá (Leste/B1)"
       }
     },
     {
@@ -3063,7 +3863,12 @@
         "geracao_t": "",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Sede Administrativa",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Leste",
+        "area": "Agrupado/Municipal",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Maricá (Leste/B1)"
       }
     },
     {
@@ -3082,7 +3887,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Tratamento de Água",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Leste",
+        "area": "Lagos e Litoral",
+        "destino": "Cop Service Soluções Ambientais",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Lagos e Litoral (Leste/B1)"
       }
     },
     {
@@ -3101,7 +3911,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Loja",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Leste",
+        "area": "Leste Metropolitano",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Leste Metropolitano (Leste/B1)"
       }
     },
     {
@@ -3120,7 +3935,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Água Tratada",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Baixada 2",
+        "area": "Baixada – Nova Iguaçu",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -3139,7 +3959,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Água Tratada",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Baixada 2",
+        "area": "Baixada – Nova Iguaçu",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -3158,7 +3983,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Água Tratada",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Baixada 2",
+        "area": "Baixada – Nova Iguaçu",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -3177,7 +4007,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Reservação",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Baixada 2",
+        "area": "Baixada – Nova Iguaçu",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -3196,7 +4031,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Reservação",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Baixada 2",
+        "area": "Baixada – Nova Iguaçu",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -3215,7 +4055,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Reservação",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – Nova Iguaçu",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -3234,7 +4079,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Reservação",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – Nova Iguaçu",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -3253,7 +4103,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação de Reservação",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Baixada 2",
+        "area": "Baixada – Nova Iguaçu",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -3272,7 +4127,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Água Tratada",
-        "precisao": "aproximada (cidade)"
+        "precisao": "aproximada (cidade)",
+        "sup": "Baixada 2",
+        "area": "Baixada – Nova Iguaçu",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)"
       }
     },
     {
@@ -3291,7 +4151,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Base Operacional",
-        "precisao": "aproximada (bairro)"
+        "precisao": "aproximada (bairro)",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)"
       }
     },
     {
@@ -3310,7 +4175,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Loja",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "SOLVÍ ESSENCIS AMBIENTAL S.A.",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)"
       }
     },
     {
@@ -3329,7 +4199,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)"
       }
     },
     {
@@ -3348,7 +4223,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)"
       }
     },
     {
@@ -3367,7 +4247,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)"
       }
     },
     {
@@ -3386,7 +4271,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Loja",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)"
       }
     },
     {
@@ -3405,7 +4295,12 @@
         "geracao_t": "",
         "cat_pgrs": "Regional",
         "tipo": "Loja",
-        "precisao": "exata"
+        "precisao": "exata",
+        "sup": "Rio Centro Sul",
+        "area": "RJ – Capital",
+        "destino": "",
+        "modalidade": "Agrupado",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)"
       }
     }
   ]

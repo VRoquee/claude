@@ -1,18 +1,21 @@
 MAPA PGRS — ÁGUAS DO RIO  (versão GeoPackage, arquivo único)
 =============================================================
 
-JEITO MAIS FÁCIL (só o gpkg):
-  1. Abra o QGIS.
-  2. Arraste o arquivo "Mapa_PGRS.gpkg" para dentro da janela do QGIS
-     (ou Camada > Adicionar Camada > Vetorial > selecione o .gpkg).
-  3. Ele já traz as 2 camadas, JÁ COLORIDAS (o estilo está embutido no gpkg):
-        - pontos_geracao   (179 unidades)
-        - municipios_pgrs  (92 municípios)
-  4. Fundo de mapa: Navegador > XYZ Blocos > duplo clique em OpenStreetMap.
+JEITO MAIS FÁCIL: arraste "Mapa_PGRS.gpkg" para dentro do QGIS.
+Traz 2 camadas já coloridas:
+  - pontos_geracao  (179 unidades) — AGORA COLORIDO POR SUP (Superintendência)
+  - municipios_pgrs (92 municípios) — colorido por categoria PGRS
 
-OU pelo projeto salvo:
-  - Abra "Mapa_PGRS.qgz" (precisa estar na MESMA pasta do Mapa_PGRS.gpkg).
+CAMPOS NOVOS nos pontos (clique numa unidade p/ ver):
+  sup          - Superintendência (Rio Centro Sul, Rio Norte, Leste, Baixada 1/2, Interior, Comunidades)
+  area         - Área de planejamento (Noroeste, Serrana, Lagos, Baixada–Nova Iguaçu, etc.)
+  destino      - Destinador dominante do resíduo (base MTR 2024-2025)
+  modalidade   - Individualizado / Agrupado
+  plano_pgrs   - Plano PGRS proposto ao qual a unidade pertence
+  precisao     - exata / aproximada (bairro/cidade)
 
-Tudo num arquivo só — não precisa manter os .geojson junto.
-
-Campo "precisao" nos pontos: exata (149) / aproximada bairro (19) / aproximada cidade (11).
+REORGANIZAÇÃO DOS PLANOS (proposta)
+  De 53 -> 41 planos: 18 individualizados (geradores >= 500 t/ano) +
+  23 agrupados por SUP x Bloco x Área. Critério: nunca cruza SUP nem Bloco;
+  agrupa unidades próximas/do mesmo destino. Detalhe em Planos_PGRS_Resumo.csv
+  e PGRS_Reorganizado.csv (uma linha por unidade).
