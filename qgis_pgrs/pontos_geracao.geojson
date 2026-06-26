@@ -1762,8 +1762,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.1728965,
-          -22.9068467
+          -43.1078,
+          -22.7616
         ]
       },
       "properties": {
@@ -1773,7 +1773,7 @@
         "geracao_t": "7.0",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata",
+        "precisao": "aproximada (bairro)",
         "sup": "Leste",
         "area": "RJ – Capital",
         "destino": "Regenera Rio S.A.",
@@ -1787,8 +1787,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.1728965,
-          -22.9068467
+          -43.1093,
+          -22.7632
         ]
       },
       "properties": {
@@ -1798,7 +1798,7 @@
         "geracao_t": "5.8",
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
-        "precisao": "exata",
+        "precisao": "aproximada (bairro)",
         "sup": "Leste",
         "area": "RJ – Capital",
         "destino": "Regenera Rio S.A.",
