@@ -54,7 +54,7 @@
         "destino": "VALCIR TADEU PRIMO DA SILVA",
         "modalidade": "Individualizado",
         "plano_pgrs": "IND · BASE OPERACIONAL PENHA",
-        "cod_pgrs": "IND-03"
+        "cod_pgrs": "IND-04"
       }
     },
     {
@@ -78,7 +78,7 @@
         "area": "RJ – Capital",
         "destino": "VALCIR TADEU PRIMO DA SILVA",
         "modalidade": "Individualizado",
-        "plano_pgrs": "IND · BASE OPERACIONAL PENHA",
+        "plano_pgrs": "IND · BASE OPERACIONAL PENHA II",
         "cod_pgrs": "IND-03"
       }
     },
@@ -99,12 +99,12 @@
         "cat_pgrs": "Individualizado",
         "tipo": "Base Operacional",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "Associação carioca de catadores e ex catadores",
         "modalidade": "Individualizado",
         "plano_pgrs": "IND · BASE OPERACIONAL TIJUCA",
-        "cod_pgrs": "IND-04"
+        "cod_pgrs": "IND-05"
       }
     },
     {
@@ -124,12 +124,12 @@
         "cat_pgrs": "Individualizado",
         "tipo": "Base Operacional",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "Associação carioca de catadores e ex catadores",
         "modalidade": "Individualizado",
         "plano_pgrs": "IND · BASE OPERACIONAL BOTAFOGO",
-        "cod_pgrs": "IND-05"
+        "cod_pgrs": "IND-06"
       }
     },
     {
@@ -154,7 +154,7 @@
         "destino": "Regenera Rio S.A.",
         "modalidade": "Individualizado",
         "plano_pgrs": "IND · ETE PAVUNA",
-        "cod_pgrs": "IND-06"
+        "cod_pgrs": "IND-07"
       }
     },
     {
@@ -179,7 +179,7 @@
         "destino": "Regenera Rio S.A.",
         "modalidade": "Individualizado",
         "plano_pgrs": "IND · ETE PAVUNA VALO OXIDAÇÃO",
-        "cod_pgrs": "IND-07"
+        "cod_pgrs": "IND-08"
       }
     },
     {
@@ -204,7 +204,7 @@
         "destino": "Regenera Rio S.A.",
         "modalidade": "Individualizado",
         "plano_pgrs": "IND · LABORATÓRIO ETE PAVUNA",
-        "cod_pgrs": "IND-08"
+        "cod_pgrs": "IND-09"
       }
     },
     {
@@ -224,12 +224,12 @@
         "cat_pgrs": "Individualizado",
         "tipo": "Base Operacional",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "VALCIR TADEU PRIMO DA SILVA",
         "modalidade": "Individualizado",
         "plano_pgrs": "IND · BASE OPERACIONAL GÁVEA",
-        "cod_pgrs": "IND-09"
+        "cod_pgrs": "IND-10"
       }
     },
     {
@@ -254,7 +254,7 @@
         "destino": "Empresa Gerencial de Projetos Navais - EMGEPRON",
         "modalidade": "Individualizado",
         "plano_pgrs": "IND · SEDE NILOPOLIS",
-        "cod_pgrs": "IND-10"
+        "cod_pgrs": "IND-11"
       }
     },
     {
@@ -279,7 +279,7 @@
         "destino": "ETE ALEGRIA - AGUAS DO RIO 4 SPE S.A.",
         "modalidade": "Individualizado",
         "plano_pgrs": "IND · ETE ILHA DO GOVERNADOR",
-        "cod_pgrs": "IND-11"
+        "cod_pgrs": "IND-12"
       }
     },
     {
@@ -304,7 +304,7 @@
         "destino": "VALCIR TADEU PRIMO DA SILVA",
         "modalidade": "Individualizado",
         "plano_pgrs": "IND · BASE OPERACIONAL MÉIER",
-        "cod_pgrs": "IND-12"
+        "cod_pgrs": "IND-13"
       }
     },
     {
@@ -329,7 +329,7 @@
         "destino": "TORRES E SILVA TERRAPLANAGEM EIRELI",
         "modalidade": "Individualizado",
         "plano_pgrs": "IND · BASE OPERACIONAL CAMPINHO",
-        "cod_pgrs": "IND-13"
+        "cod_pgrs": "IND-14"
       }
     },
     {
@@ -354,7 +354,7 @@
         "destino": "Central de Tratamento de Residuos Alcantara S/A",
         "modalidade": "Individualizado",
         "plano_pgrs": "IND · BASE OPERACIONAL SÃO GONÇALO",
-        "cod_pgrs": "IND-14"
+        "cod_pgrs": "IND-15"
       }
     },
     {
@@ -379,7 +379,7 @@
         "destino": "ENDOMAQ SERVIÇOS E EMPREENDIMENTOS LTDA",
         "modalidade": "Individualizado",
         "plano_pgrs": "IND · RESERVATORIO VILAR DOS TELES",
-        "cod_pgrs": "IND-15"
+        "cod_pgrs": "IND-16"
       }
     },
     {
@@ -404,7 +404,7 @@
         "destino": "Ciclus Ambiental Rio S.A.",
         "modalidade": "Individualizado",
         "plano_pgrs": "IND · ETE PENHA",
-        "cod_pgrs": "IND-16"
+        "cod_pgrs": "IND-17"
       }
     },
     {
@@ -424,12 +424,12 @@
         "cat_pgrs": "Individualizado",
         "tipo": "Estação Elevatória de Esgoto",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "Regenera Rio S.A.",
         "modalidade": "Individualizado",
         "plano_pgrs": "IND · EEE ANDRÉ AZEVEDO",
-        "cod_pgrs": "IND-17"
+        "cod_pgrs": "IND-18"
       }
     },
     {
@@ -449,12 +449,12 @@
         "cat_pgrs": "Individualizado",
         "tipo": "Base Operacional",
         "precisao": "exata",
-        "sup": "Comunidades",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "VALCIR TADEU PRIMO DA SILVA",
         "modalidade": "Individualizado",
         "plano_pgrs": "IND · BASE OPERACIONAL ENGENHO DE DENTRO",
-        "cod_pgrs": "IND-18"
+        "cod_pgrs": "IND-19"
       }
     },
     {
@@ -479,7 +479,7 @@
         "destino": "MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – demais (Baixada 1/B4)",
-        "cod_pgrs": "AG-12"
+        "cod_pgrs": "AG-10"
       }
     },
     {
@@ -529,7 +529,7 @@
         "destino": "Ciclus Ambiental Rio S.A.",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Belford Roxo (Baixada 1/B4)",
-        "cod_pgrs": "AG-11"
+        "cod_pgrs": "AG-08"
       }
     },
     {
@@ -554,7 +554,7 @@
         "destino": "INDUSTRIA EXTRATIVA E COMERICAL POP LTDA-EPP",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -579,7 +579,7 @@
         "destino": "TORRES E SILVA TERRAPLANAGEM EIRELI",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Queimados (Baixada 2/B4)",
-        "cod_pgrs": "AG-16"
+        "cod_pgrs": "AG-11"
       }
     },
     {
@@ -603,7 +603,7 @@
         "area": "RJ – Capital",
         "destino": "Regenera Rio S.A.",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Norte (Rio Norte/B4)",
+        "plano_pgrs": "AGR · RJ Rio Norte (B4)",
         "cod_pgrs": "AG-03"
       }
     },
@@ -629,7 +629,7 @@
         "destino": "PRO-AMBIENTAL TECNOLOGIA LTDA",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Lagos e Litoral (Interior/B1)",
-        "cod_pgrs": "AG-20"
+        "cod_pgrs": "AG-16"
       }
     },
     {
@@ -654,7 +654,7 @@
         "destino": "MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Belford Roxo (Baixada 1/B4)",
-        "cod_pgrs": "AG-11"
+        "cod_pgrs": "AG-08"
       }
     },
     {
@@ -679,7 +679,7 @@
         "destino": "[INTERIOR] - ETE APERIBE - AGUAS DO RIO 1 SPE S.A.",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)",
-        "cod_pgrs": "AG-19"
+        "cod_pgrs": "AG-18"
       }
     },
     {
@@ -699,12 +699,12 @@
         "cat_pgrs": "Individualizado",
         "tipo": "Base Operacional",
         "precisao": "exata",
-        "sup": "Comunidades",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "Regenera Rio S.A.",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Comunidades (Comunidades/B4)",
-        "cod_pgrs": "AG-05"
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
+        "cod_pgrs": "AG-02"
       }
     },
     {
@@ -728,7 +728,7 @@
         "area": "RJ – Capital",
         "destino": "VALCIR TADEU PRIMO DA SILVA",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Norte (Rio Norte/B4)",
+        "plano_pgrs": "AGR · RJ Rio Norte (B4)",
         "cod_pgrs": "AG-03"
       }
     },
@@ -749,11 +749,11 @@
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "Regenera Rio S.A.",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B1)",
         "cod_pgrs": "AG-01"
       }
     },
@@ -799,11 +799,11 @@
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "Regenera Rio S.A.",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B1)",
         "cod_pgrs": "AG-01"
       }
     },
@@ -824,11 +824,11 @@
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Base Operacional",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "VALCIR TADEU PRIMO DA SILVA",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B1)",
         "cod_pgrs": "AG-01"
       }
     },
@@ -849,11 +849,11 @@
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Reservatório de Água",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "VALCIR TADEU PRIMO DA SILVA",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
         "cod_pgrs": "AG-02"
       }
     },
@@ -879,7 +879,7 @@
         "destino": "PRO-AMBIENTAL TECNOLOGIA LTDA",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)",
-        "cod_pgrs": "AG-19"
+        "cod_pgrs": "AG-18"
       }
     },
     {
@@ -904,7 +904,7 @@
         "destino": "[INTERIOR] - ETE APERIBE - AGUAS DO RIO 1 SPE S.A.",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)",
-        "cod_pgrs": "AG-19"
+        "cod_pgrs": "AG-18"
       }
     },
     {
@@ -924,12 +924,12 @@
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Base Operacional",
         "precisao": "exata",
-        "sup": "Comunidades",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "VALCIR TADEU PRIMO DA SILVA",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Comunidades (Comunidades/B1)",
-        "cod_pgrs": "AG-04"
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B1)",
+        "cod_pgrs": "AG-01"
       }
     },
     {
@@ -954,7 +954,7 @@
         "destino": "[BAIXADA 1] - ETE SARAPUI - AGUAS DO RIO 4 SPE S.A.",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Magé (Baixada 1/B1)",
-        "cod_pgrs": "AG-10"
+        "cod_pgrs": "AG-07"
       }
     },
     {
@@ -979,7 +979,7 @@
         "destino": "MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · São João de Meriti (Baixada 1/B4)",
-        "cod_pgrs": "AG-13"
+        "cod_pgrs": "AG-09"
       }
     },
     {
@@ -1029,7 +1029,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – demais (Baixada 1/B4)",
-        "cod_pgrs": "AG-12"
+        "cod_pgrs": "AG-10"
       }
     },
     {
@@ -1054,7 +1054,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – demais (Baixada 1/B4)",
-        "cod_pgrs": "AG-12"
+        "cod_pgrs": "AG-10"
       }
     },
     {
@@ -1079,7 +1079,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · São João de Meriti (Baixada 1/B4)",
-        "cod_pgrs": "AG-13"
+        "cod_pgrs": "AG-09"
       }
     },
     {
@@ -1099,11 +1099,11 @@
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Reservatório de Água",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "Bravo Administração de Imovés Ltda",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
         "cod_pgrs": "AG-02"
       }
     },
@@ -1124,11 +1124,11 @@
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Reservatório de Água",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "Bravo Administração de Imovés Ltda",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
         "cod_pgrs": "AG-02"
       }
     },
@@ -1149,11 +1149,11 @@
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Reservatório de Água",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "ENDOMAQ SERVIÇOS E EMPREENDIMENTOS LTDA",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
         "cod_pgrs": "AG-02"
       }
     },
@@ -1203,7 +1203,7 @@
         "area": "RJ – Capital",
         "destino": "Regenera Rio S.A.",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Norte (Rio Norte/B4)",
+        "plano_pgrs": "AGR · RJ Rio Norte (B4)",
         "cod_pgrs": "AG-03"
       }
     },
@@ -1254,7 +1254,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – demais (Baixada 1/B4)",
-        "cod_pgrs": "AG-12"
+        "cod_pgrs": "AG-10"
       }
     },
     {
@@ -1304,7 +1304,7 @@
         "destino": "Regenera Rio S.A.",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -1324,11 +1324,11 @@
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "Regenera Rio S.A.",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B1)",
         "cod_pgrs": "AG-01"
       }
     },
@@ -1354,7 +1354,7 @@
         "destino": "MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Magé (Baixada 1/B1)",
-        "cod_pgrs": "AG-10"
+        "cod_pgrs": "AG-07"
       }
     },
     {
@@ -1474,11 +1474,11 @@
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Unidade de Tratamento de Água",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "ETR JARDIM GRAMACHO",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
         "cod_pgrs": "AG-02"
       }
     },
@@ -1524,12 +1524,12 @@
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Base Operacional",
         "precisao": "exata",
-        "sup": "Comunidades",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "Perugia Empreendimentos Imobiliários S.A.",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Comunidades (Comunidades/B1)",
-        "cod_pgrs": "AG-04"
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B1)",
+        "cod_pgrs": "AG-01"
       }
     },
     {
@@ -1549,11 +1549,11 @@
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Sede Administrativa",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "CICLUS AMBIENTAL RIO S/A",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B1)",
         "cod_pgrs": "AG-01"
       }
     },
@@ -1579,7 +1579,7 @@
         "destino": "ETR JARDIM GRAMACHO",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – demais (Baixada 1/B4)",
-        "cod_pgrs": "AG-12"
+        "cod_pgrs": "AG-10"
       }
     },
     {
@@ -1629,7 +1629,7 @@
         "destino": "CTR SERVIÇOS AMBIENTAIS LTDA",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · São Sebastião do Alto (Interior/B1)",
-        "cod_pgrs": "AG-21"
+        "cod_pgrs": "AG-15"
       }
     },
     {
@@ -1649,12 +1649,12 @@
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Base Operacional",
         "precisao": "exata",
-        "sup": "Comunidades",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "Regenera Rio S.A.",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Comunidades (Comunidades/B4)",
-        "cod_pgrs": "AG-05"
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
+        "cod_pgrs": "AG-02"
       }
     },
     {
@@ -1704,7 +1704,7 @@
         "destino": "INDUSTRIA EXTRATIVA E COMERICAL POP LTDA-EPP",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – demais (Baixada 2/B4)",
-        "cod_pgrs": "AG-14"
+        "cod_pgrs": "AG-13"
       }
     },
     {
@@ -1774,12 +1774,12 @@
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
         "precisao": "aproximada (bairro)",
-        "sup": "Leste",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "Regenera Rio S.A.",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Leste (Leste/B4)",
-        "cod_pgrs": "AG-09"
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
+        "cod_pgrs": "AG-02"
       }
     },
     {
@@ -1799,12 +1799,12 @@
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
         "precisao": "aproximada (bairro)",
-        "sup": "Leste",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "Regenera Rio S.A.",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Leste (Leste/B4)",
-        "cod_pgrs": "AG-09"
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
+        "cod_pgrs": "AG-02"
       }
     },
     {
@@ -1824,11 +1824,11 @@
         "cat_pgrs": "Agrupado/Municipal",
         "tipo": "Estação Elevatória de Esgoto",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "VALCIR TADEU PRIMO DA SILVA",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B1)",
         "cod_pgrs": "AG-01"
       }
     },
@@ -1879,7 +1879,7 @@
         "destino": "ETR JARDIM GRAMACHO",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – demais (Baixada 2/B4)",
-        "cod_pgrs": "AG-14"
+        "cod_pgrs": "AG-13"
       }
     },
     {
@@ -1904,7 +1904,7 @@
         "destino": "Ciclus Ambiental Rio S.A.",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Maricá (Leste/B1)",
-        "cod_pgrs": "AG-08"
+        "cod_pgrs": "AG-04"
       }
     },
     {
@@ -1929,7 +1929,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – demais (Baixada 1/B4)",
-        "cod_pgrs": "AG-12"
+        "cod_pgrs": "AG-10"
       }
     },
     {
@@ -1979,7 +1979,7 @@
         "destino": "MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – demais (Baixada 1/B4)",
-        "cod_pgrs": "AG-12"
+        "cod_pgrs": "AG-10"
       }
     },
     {
@@ -2004,7 +2004,7 @@
         "destino": "Regenera Rio S.A.",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – demais (Baixada 2/B4)",
-        "cod_pgrs": "AG-14"
+        "cod_pgrs": "AG-13"
       }
     },
     {
@@ -2029,7 +2029,7 @@
         "destino": "3R COMERCIO DE RESIDUOS RECICLAVEIS LTDA",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Magé (Baixada 1/B1)",
-        "cod_pgrs": "AG-10"
+        "cod_pgrs": "AG-07"
       }
     },
     {
@@ -2049,7 +2049,7 @@
         "cat_pgrs": "Individualizado",
         "tipo": "Estação de Tratamento de Água",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "Regenera Rio S.A.",
         "modalidade": "Individualizado",
@@ -2079,7 +2079,7 @@
         "destino": "Regenera Rio S.A.",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Lagos e Litoral (Leste/B1)",
-        "cod_pgrs": "AG-07"
+        "cod_pgrs": "AG-05"
       }
     },
     {
@@ -2104,7 +2104,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – demais (Baixada 1/B4)",
-        "cod_pgrs": "AG-12"
+        "cod_pgrs": "AG-10"
       }
     },
     {
@@ -2129,7 +2129,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – demais (Baixada 1/B4)",
-        "cod_pgrs": "AG-12"
+        "cod_pgrs": "AG-10"
       }
     },
     {
@@ -2154,7 +2154,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – demais (Baixada 2/B4)",
-        "cod_pgrs": "AG-14"
+        "cod_pgrs": "AG-13"
       }
     },
     {
@@ -2179,7 +2179,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – demais (Baixada 2/B4)",
-        "cod_pgrs": "AG-14"
+        "cod_pgrs": "AG-13"
       }
     },
     {
@@ -2204,7 +2204,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -2229,7 +2229,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -2254,7 +2254,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -2279,7 +2279,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -2304,7 +2304,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -2329,7 +2329,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -2354,7 +2354,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -2379,7 +2379,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Queimados (Baixada 2/B4)",
-        "cod_pgrs": "AG-16"
+        "cod_pgrs": "AG-11"
       }
     },
     {
@@ -2404,7 +2404,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Queimados (Baixada 2/B4)",
-        "cod_pgrs": "AG-16"
+        "cod_pgrs": "AG-11"
       }
     },
     {
@@ -2429,7 +2429,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -2449,11 +2449,11 @@
         "cat_pgrs": "Regional",
         "tipo": "Base Operacional",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B1)",
         "cod_pgrs": "AG-01"
       }
     },
@@ -2474,11 +2474,11 @@
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Água Tratada",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B1)",
         "cod_pgrs": "AG-01"
       }
     },
@@ -2499,11 +2499,11 @@
         "cat_pgrs": "Regional",
         "tipo": "Unidade de Tratamento de Água",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B1)",
         "cod_pgrs": "AG-01"
       }
     },
@@ -2529,7 +2529,7 @@
         "destino": "PRO-AMBIENTAL TECNOLOGIA LTDA",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Cachoeira de Macacu (Interior/B1)",
-        "cod_pgrs": "AG-18"
+        "cod_pgrs": "AG-14"
       }
     },
     {
@@ -2554,7 +2554,7 @@
         "destino": "PRO-AMBIENTAL TECNOLOGIA LTDA",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Cachoeira de Macacu (Interior/B1)",
-        "cod_pgrs": "AG-18"
+        "cod_pgrs": "AG-14"
       }
     },
     {
@@ -2604,7 +2604,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)",
-        "cod_pgrs": "AG-19"
+        "cod_pgrs": "AG-18"
       }
     },
     {
@@ -2629,7 +2629,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Lagos e Litoral (Interior/B1)",
-        "cod_pgrs": "AG-20"
+        "cod_pgrs": "AG-16"
       }
     },
     {
@@ -2729,7 +2729,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Lagos e Litoral (Interior/B1)",
-        "cod_pgrs": "AG-20"
+        "cod_pgrs": "AG-16"
       }
     },
     {
@@ -2754,7 +2754,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Lagos e Litoral (Interior/B1)",
-        "cod_pgrs": "AG-20"
+        "cod_pgrs": "AG-16"
       }
     },
     {
@@ -2854,7 +2854,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · São Sebastião do Alto (Interior/B1)",
-        "cod_pgrs": "AG-21"
+        "cod_pgrs": "AG-15"
       }
     },
     {
@@ -2929,7 +2929,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Maricá (Leste/B1)",
-        "cod_pgrs": "AG-08"
+        "cod_pgrs": "AG-04"
       }
     },
     {
@@ -2954,7 +2954,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Lagos e Litoral (Leste/B1)",
-        "cod_pgrs": "AG-07"
+        "cod_pgrs": "AG-05"
       }
     },
     {
@@ -2979,7 +2979,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Maricá (Leste/B1)",
-        "cod_pgrs": "AG-08"
+        "cod_pgrs": "AG-04"
       }
     },
     {
@@ -3029,7 +3029,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Lagos e Litoral (Leste/B1)",
-        "cod_pgrs": "AG-07"
+        "cod_pgrs": "AG-05"
       }
     },
     {
@@ -3049,11 +3049,11 @@
         "cat_pgrs": "Regional",
         "tipo": "Loja",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B1)",
         "cod_pgrs": "AG-01"
       }
     },
@@ -3074,11 +3074,11 @@
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Água Tratada",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
         "cod_pgrs": "AG-02"
       }
     },
@@ -3099,11 +3099,11 @@
         "cat_pgrs": "Regional",
         "tipo": "Loja",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
         "cod_pgrs": "AG-02"
       }
     },
@@ -3124,11 +3124,11 @@
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Esgoto",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
         "cod_pgrs": "AG-02"
       }
     },
@@ -3149,11 +3149,11 @@
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Esgoto",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
         "cod_pgrs": "AG-02"
       }
     },
@@ -3174,11 +3174,11 @@
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Esgoto",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
         "cod_pgrs": "AG-02"
       }
     },
@@ -3199,11 +3199,11 @@
         "cat_pgrs": "Regional",
         "tipo": "Loja",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
         "cod_pgrs": "AG-02"
       }
     },
@@ -3229,7 +3229,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – demais (Baixada 2/B4)",
-        "cod_pgrs": "AG-14"
+        "cod_pgrs": "AG-13"
       }
     },
     {
@@ -3254,7 +3254,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – demais (Baixada 2/B4)",
-        "cod_pgrs": "AG-14"
+        "cod_pgrs": "AG-13"
       }
     },
     {
@@ -3279,7 +3279,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – demais (Baixada 2/B4)",
-        "cod_pgrs": "AG-14"
+        "cod_pgrs": "AG-13"
       }
     },
     {
@@ -3304,7 +3304,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – demais (Baixada 2/B4)",
-        "cod_pgrs": "AG-14"
+        "cod_pgrs": "AG-13"
       }
     },
     {
@@ -3354,7 +3354,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Cachoeira de Macacu (Interior/B1)",
-        "cod_pgrs": "AG-18"
+        "cod_pgrs": "AG-14"
       }
     },
     {
@@ -3454,7 +3454,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)",
-        "cod_pgrs": "AG-19"
+        "cod_pgrs": "AG-18"
       }
     },
     {
@@ -3479,7 +3479,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)",
-        "cod_pgrs": "AG-19"
+        "cod_pgrs": "AG-18"
       }
     },
     {
@@ -3504,7 +3504,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)",
-        "cod_pgrs": "AG-19"
+        "cod_pgrs": "AG-18"
       }
     },
     {
@@ -3529,7 +3529,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Lagos e Litoral (Interior/B1)",
-        "cod_pgrs": "AG-20"
+        "cod_pgrs": "AG-16"
       }
     },
     {
@@ -3554,7 +3554,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)",
-        "cod_pgrs": "AG-19"
+        "cod_pgrs": "AG-18"
       }
     },
     {
@@ -3579,7 +3579,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)",
-        "cod_pgrs": "AG-19"
+        "cod_pgrs": "AG-18"
       }
     },
     {
@@ -3604,7 +3604,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Serrana / Centro-Norte (Interior/B1)",
-        "cod_pgrs": "AG-19"
+        "cod_pgrs": "AG-18"
       }
     },
     {
@@ -3779,7 +3779,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Lagos e Litoral (Interior/B1)",
-        "cod_pgrs": "AG-20"
+        "cod_pgrs": "AG-16"
       }
     },
     {
@@ -3804,7 +3804,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Lagos e Litoral (Interior/B1)",
-        "cod_pgrs": "AG-20"
+        "cod_pgrs": "AG-16"
       }
     },
     {
@@ -3829,7 +3829,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · São Sebastião do Alto (Interior/B1)",
-        "cod_pgrs": "AG-21"
+        "cod_pgrs": "AG-15"
       }
     },
     {
@@ -3854,7 +3854,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · São Sebastião do Alto (Interior/B1)",
-        "cod_pgrs": "AG-21"
+        "cod_pgrs": "AG-15"
       }
     },
     {
@@ -3879,7 +3879,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · São Sebastião do Alto (Interior/B1)",
-        "cod_pgrs": "AG-21"
+        "cod_pgrs": "AG-15"
       }
     },
     {
@@ -4004,7 +4004,7 @@
         "destino": "Cop Service Soluções Ambientais",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Maricá (Leste/B1)",
-        "cod_pgrs": "AG-08"
+        "cod_pgrs": "AG-04"
       }
     },
     {
@@ -4029,7 +4029,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Maricá (Leste/B1)",
-        "cod_pgrs": "AG-08"
+        "cod_pgrs": "AG-04"
       }
     },
     {
@@ -4054,7 +4054,7 @@
         "destino": "Cop Service Soluções Ambientais",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Lagos e Litoral (Leste/B1)",
-        "cod_pgrs": "AG-07"
+        "cod_pgrs": "AG-05"
       }
     },
     {
@@ -4104,7 +4104,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -4129,7 +4129,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -4154,7 +4154,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -4179,7 +4179,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -4204,7 +4204,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -4229,7 +4229,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -4254,7 +4254,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -4279,7 +4279,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -4304,7 +4304,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Baixada – Nova Iguaçu (Baixada 2/B4)",
-        "cod_pgrs": "AG-15"
+        "cod_pgrs": "AG-12"
       }
     },
     {
@@ -4324,11 +4324,11 @@
         "cat_pgrs": "Regional",
         "tipo": "Base Operacional",
         "precisao": "aproximada (bairro)",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B1)",
         "cod_pgrs": "AG-01"
       }
     },
@@ -4349,11 +4349,11 @@
         "cat_pgrs": "Regional",
         "tipo": "Loja",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "SOLVÍ ESSENCIS AMBIENTAL S.A.",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B1)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B1)",
         "cod_pgrs": "AG-01"
       }
     },
@@ -4374,11 +4374,11 @@
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Esgoto",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
         "cod_pgrs": "AG-02"
       }
     },
@@ -4399,11 +4399,11 @@
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Esgoto",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
         "cod_pgrs": "AG-02"
       }
     },
@@ -4424,11 +4424,11 @@
         "cat_pgrs": "Regional",
         "tipo": "Estação Elevatória de Esgoto",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
         "cod_pgrs": "AG-02"
       }
     },
@@ -4449,11 +4449,11 @@
         "cat_pgrs": "Regional",
         "tipo": "Loja",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
         "cod_pgrs": "AG-02"
       }
     },
@@ -4474,11 +4474,11 @@
         "cat_pgrs": "Regional",
         "tipo": "Loja",
         "precisao": "exata",
-        "sup": "Rio Centro Sul",
+        "sup": "Rio Centro Sul / Comunidades",
         "area": "RJ – Capital",
         "destino": "",
         "modalidade": "Agrupado",
-        "plano_pgrs": "AGR · RJ Rio Centro Sul (Rio Centro Sul/B4)",
+        "plano_pgrs": "AGR · RJ Rio Centro Sul / Comunidades (B4)",
         "cod_pgrs": "AG-02"
       }
     }

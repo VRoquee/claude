@@ -1,180 +1,180 @@
-﻿unidade,municipio,sup,area,bloco,tipo,geracao_t,geradora,destino,modalidade,plano_pgrs,lat,lon
-ETE SARAPUI,Belford Roxo,Baixada 1,(somente individualizado),B4,Estação de Tratamento de Esgoto,326.0,Sim,Ciclus Ambiental Rio S.A.,Agrupado,AGR · Belford Roxo (Baixada 1/B4),-22.7566592,-43.352209
-SEDE BELFORD ROXO,Belford Roxo,Baixada 1,(somente individualizado),B4,Base Operacional,214.9,Sim,MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP,Agrupado,AGR · Belford Roxo (Baixada 1/B4),-22.7597854,-43.4021213
-SEDE JARDIM PRIMAVERA,Duque de Caxias,Baixada 1,Baixada – demais,B4,Base Operacional,1.4,Sim,,Agrupado,AGR · Baixada – demais (Baixada 1/B4),-22.6837211,-43.2808873
-SEDE CAXIAS,Duque de Caxias,Baixada 1,Baixada – demais,B4,Base Operacional,490.0,Sim,MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP,Agrupado,AGR · Baixada – demais (Baixada 1/B4),-22.7904735,-43.312386
-CL DUQUE DE CAXIAS,Duque de Caxias,Baixada 1,Baixada – demais,B4,Almoxarifado,18.7,Sim,ETR JARDIM GRAMACHO,Agrupado,AGR · Baixada – demais (Baixada 1/B4),-22.7878377,-43.2856376
-BOOSTER BELFORD ROXO,Duque de Caxias,Baixada 1,Baixada – demais,B4,N/D,0.5,Sim,MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP,Agrupado,AGR · Baixada – demais (Baixada 1/B4),-22.7878377,-43.2856376
-BASE VCG JARDIM AMÉRICA,Duque de Caxias,Baixada 1,Baixada – demais,B4,Base Operacional,36.6,Sim,,Agrupado,AGR · Baixada – demais (Baixada 1/B4),-22.8155771,-43.3248712
-EEE JARDIM GRAMACHO,Duque de Caxias,Baixada 1,Baixada – demais,B4,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AGR · Baixada – demais (Baixada 1/B4),-22.7544292,-43.2973356
-EEE TIÃO LANTE,Duque de Caxias,Baixada 1,Baixada – demais,B4,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AGR · Baixada – demais (Baixada 1/B4),-22.7525909,-43.2912698
-RESERVATÓRIO 25 DE AGOSTO,Duque de Caxias,Baixada 1,Baixada – demais,B4,Reservatório de Água,40.0,Sim,,Agrupado,AGR · Baixada – demais (Baixada 1/B4),-22.7853495,-43.3028835
-RESERVATÓRIO CENTENÁRIO,Duque de Caxias,Baixada 1,Baixada – demais,B4,Reservatório de Água,40.0,Sim,,Agrupado,AGR · Baixada – demais (Baixada 1/B4),-22.7751273,-43.3106917
-ETA Mage,Magé,Baixada 1,Agrupado/Municipal,B1,Estação de Tratamento de Água,48.5,Sim,[BAIXADA 1] - ETE SARAPUI - AGUAS DO RIO 4 SPE S.A.,Agrupado,AGR · Magé (Baixada 1/B1),-22.659098,-43.0248625
-SEDE MAGE,Magé,Baixada 1,Agrupado/Municipal,B1,Base Operacional,30.1,Sim,MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP,Agrupado,AGR · Magé (Baixada 1/B1),-22.6578119,-43.0374481
-UT Santo Aleixo,Magé,Baixada 1,Agrupado/Municipal,B1,Unidade de Tratamento de Água,0.1,Sim,3R COMERCIO DE RESIDUOS RECICLAVEIS LTDA,Agrupado,AGR · Magé (Baixada 1/B1),-22.5560454,-43.0494511
-SEDE SAO JOAO DE MERITI,São João de Meriti,Baixada 1,(somente individualizado),B4,Base Operacional,41.0,Sim,MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP,Agrupado,AGR · São João de Meriti (Baixada 1/B4),-22.7666773,-43.3532653
-RESERVATORIO VILAR DOS TELES,São João de Meriti,Baixada 1,(somente individualizado),B4,Reservatório de Água,1080.0,Sim,ENDOMAQ SERVIÇOS E EMPREENDIMENTOS LTDA,Individualizado,IND · RESERVATORIO VILAR DOS TELES,-22.7755858,-43.360371
-RESERVATÓRIO COELHO DA ROCHA,São João de Meriti,Baixada 1,(somente individualizado),B4,Reservatório de Água,40.0,Sim,,Agrupado,AGR · São João de Meriti (Baixada 1/B4),-22.7684785,-43.3795601
-EEAT ENGENHEIRO PEDREIRA,Japeri,Baixada 2 (vizinho),Baixada – demais,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AGR · Baixada – demais (Baixada 2/B4),-22.7053346,-43.6275244
-ERES ENGENHEIRO PEDREIRA,Japeri,Baixada 2 (vizinho),Baixada – demais,B4,Estação de Reservação,0.0,Não,,Agrupado,AGR · Baixada – demais (Baixada 2/B4),-22.6797291,-43.6090782
-EEE SANTO ELIAS,Mesquita,Baixada 2,Baixada – demais,B4,Estação Elevatória de Esgoto,10.0,Sim,INDUSTRIA EXTRATIVA E COMERICAL POP LTDA-EPP,Agrupado,AGR · Baixada – demais (Baixada 2/B4),-22.7690168,-43.4167452
-EEE CHATUBA,Mesquita,Baixada 2,Baixada – demais,B4,Estação Elevatória de Esgoto,0.3,Sim,Regenera Rio S.A.,Agrupado,AGR · Baixada – demais (Baixada 2/B4),-22.8003742,-43.4272749
-EEE VILA NORMA,Mesquita,Baixada 2,Baixada – demais,B4,Estação Elevatória de Esgoto,1.5,Sim,ETR JARDIM GRAMACHO,Agrupado,AGR · Baixada – demais (Baixada 2/B4),-22.7889734,-43.4101029
-EEAT JK,Mesquita,Baixada 2,Baixada – demais,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AGR · Baixada – demais (Baixada 2/B4),-22.7697558,-43.4345326
-SEDE NILOPOLIS,Nilópolis,Baixada 2,Baixada – demais,B4,Sede Administrativa,2104.4,Sim,Empresa Gerencial de Projetos Navais - EMGEPRON,Individualizado,IND · SEDE NILOPOLIS,-22.8114366,-43.4099017
-EEAT NILÓPOLIS,Nilópolis,Baixada 2,Baixada – demais,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AGR · Baixada – demais (Baixada 2/B4),-22.8172839,-43.4116983
-ERES CABRAL,Nilópolis,Baixada 2,Baixada – demais,B4,Estação de Reservação,0.0,Não,,Agrupado,AGR · Baixada – demais (Baixada 2/B4),-22.8182831,-43.4145843
-ERES NILÓPOLIS,Nilópolis,Baixada 2,Baixada – demais,B4,Estação de Reservação,0.0,Não,,Agrupado,AGR · Baixada – demais (Baixada 2/B4),-22.8094695,-43.4063968
-ETE LAGOINHA,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação de Tratamento de Esgoto,34.8,Sim,Regenera Rio S.A.,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7988353,-43.589382
-SEDE NOVA IGUAÇU,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Base Operacional,308.1,Sim,INDUSTRIA EXTRATIVA E COMERICAL POP LTDA-EPP,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7595429,-43.4395846
-EEAT CABUÇU ALTO,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7623219,-43.5412369
-EEAT CABUÇU BAIXO,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7719105,-43.528715
-EEAT ESPLANADA,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7410643,-43.4423538
-EEAT FLORESA MIRANDA,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7637208,-43.4487209
-EEAT COORDENAÇÃO DE MANUTENÇÃO DA BAIXADA,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7593418,-43.4473818
-EEAT POSSE,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7055777,-43.430813
-EEE LAGOINHA II,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.8011777,-43.5886519
-ERES JK VELHO,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação de Reservação,0.0,Não,,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7700212,-43.4344219
-ERES JK NOVO,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação de Reservação,0.0,Não,,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.768669,-43.441066
-ERES ALVORADA,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação de Reservação,0.0,Não,,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7631542,-43.4794756
-ERES BRASÍLIA,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação de Reservação,0.0,Não,,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7630275,-43.4499916
-ERES POSSE,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação de Reservação,0.0,Não,,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7214877,-43.4662546
-ERES CABUÇU ALTO,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação de Reservação,0.0,Não,,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.6955964,-43.4654372
-ERES TAÇA,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação de Reservação,0.0,Não,,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7783377,-43.5294556
-ERES AUSTIN,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação de Reservação,0.0,Não,,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7220108,-43.5401184
-EEAT AUSTIN,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.6955964,-43.4654372
-ETE SAO JORGE,Queimados,Baixada 2,Agrupado/Municipal,B4,Estação de Tratamento de Esgoto,0.0,Não,,Agrupado,AGR · Queimados (Baixada 2/B4),-22.6909415,-43.5596954
-SEDE QUEIMADOS,Queimados,Baixada 2,Agrupado/Municipal,B4,Sede Administrativa,305.0,Sim,TORRES E SILVA TERRAPLANAGEM EIRELI,Agrupado,AGR · Queimados (Baixada 2/B4),-22.7114503,-43.5540014
-ETE QUEIMADOS,Queimados,Baixada 2,Agrupado/Municipal,B4,Estação de Tratamento de Esgoto,0.0,Não,,Agrupado,AGR · Queimados (Baixada 2/B4),-22.7156978,-43.555754
-USINA DE ASFALTO,N/D,Baixada 2,Baixada – Nova Iguaçu,B4,N/D,0.0,Não,,Agrupado,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.8625894,-43.5449653
-BASE VCG SÃO CRISTOVÃO,Rio de Janeiro,Comunidades,RJ – Capital,B4,Base Operacional,13.9,Sim,Regenera Rio S.A.,Agrupado,AGR · RJ Comunidades (Comunidades/B4),-22.8948275,-43.2201344
-BASE EEAT ROCINHA,Rio de Janeiro,Comunidades,RJ – Capital,B1,Base Operacional,56.9,Sim,VALCIR TADEU PRIMO DA SILVA,Agrupado,AGR · RJ Comunidades (Comunidades/B1),-22.9866846,-43.2463688
-BASE ROCINHA/ LOJA DE ATENDIMENTO,Rio de Janeiro,Comunidades,RJ – Capital,B1,Base Operacional,20.0,Sim,Perugia Empreendimentos Imobiliários S.A.,Agrupado,AGR · RJ Comunidades (Comunidades/B1),-22.9866846,-43.2463688
-BASE OPERACIONAL MARÉ,Rio de Janeiro,Comunidades,RJ – Capital,B4,Base Operacional,149.6,Sim,Regenera Rio S.A.,Agrupado,AGR · RJ Comunidades (Comunidades/B4),-22.8556274,-43.2433257
-BASE OPERACIONAL ENGENHO DE DENTRO,Rio de Janeiro,Comunidades,RJ – Capital,B4,Base Operacional,575.1,Sim,VALCIR TADEU PRIMO DA SILVA,Individualizado,IND · BASE OPERACIONAL ENGENHO DE DENTRO,-22.8980312,-43.2917235
-BASE OPERACIONAL PENHA,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Base Operacional,5609.8,Sim,VALCIR TADEU PRIMO DA SILVA,Individualizado,IND · BASE OPERACIONAL PENHA,-22.8316553,-43.2722961
-BASE OPERACIONAL PPG,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B1,Base Operacional,0.0,Não,,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B1),-22.9812057,-43.1951831
-BASE OPERACIONAL VIDIGAL,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B1,Base Operacional,0.0,Não,,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B1),-22.99417,-43.23347
-EEAT ROCINHA INFERIOR,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B1,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B1),-22.9829908,-43.2383306
-UT PAINEIRAS,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B1,Unidade de Tratamento de Água,0.0,Não,,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B1),-22.9459089,-43.2173429
-ETA APERIBÉ,Aperibé,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,7.4,Sim,PRO-AMBIENTAL TECNOLOGIA LTDA,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.6221344,-42.108912
-ETE APERIBE,Aperibé,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Esgoto,420.9,Sim,[INTERIOR] - ETE APERIBE - AGUAS DO RIO 1 SPE S.A.,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.6257585,-42.097547
-LOJA DE ATENDIMENTO APERIBÉ,Aperibé,Interior,Noroeste Fluminense,B1,Loja,0.0,Não,,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.653159,-42.1329659
-UT POSTO PENA,Cachoeira de Macacu,Interior,(s/área),B1,Unidade de Tratamento de Água,0.0,Não,PRO-AMBIENTAL TECNOLOGIA LTDA,Agrupado,AGR · Cachoeira de Macacu (Interior/B1),-22.4158701,-42.6183914
-UT RIO SOUZA,Cachoeira de Macacu,Interior,(s/área),B1,Unidade de Tratamento de Água,0.0,Não,PRO-AMBIENTAL TECNOLOGIA LTDA,Agrupado,AGR · Cachoeira de Macacu (Interior/B1),-22.4413868,-42.6353001
-LOJA DE ATENDIMENTO CACHOEIRA DA MACACU,Cachoeira de Macacu,Interior,(s/área),B1,Loja,0.0,Não,,Agrupado,AGR · Cachoeira de Macacu (Interior/B1),-22.5250392,-42.8317309
-ETA CAMBUCI,Cambuci,Interior (vizinho),Noroeste Fluminense,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.5824715,-41.921514
-UT MONTE VERDE,Cambuci,Interior (vizinho),Noroeste Fluminense,B1,Unidade de Tratamento de Água,0.0,Não,,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.4697,-41.9119
-UT SÃO JOÃO DO PARAÍSO,Cambuci,Interior (vizinho),Noroeste Fluminense,B1,Unidade de Tratamento de Água,0.0,Não,,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.4104773,-41.811052
-LOJA COMERCIAL CAMBUCI,Cambuci,Interior (vizinho),Noroeste Fluminense,B1,Loja,0.0,Não,,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.5824715,-41.921514
-ETA SANTA RITA DA FLORESTA,Cantagalo,Interior (vizinho),Serrana / Centro-Norte,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AGR · Serrana / Centro-Norte (Interior/B1),-21.8792,-42.4564
-ETA EUCLIDELÂNDIA,Cantagalo,Interior (vizinho),Serrana / Centro-Norte,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AGR · Serrana / Centro-Norte (Interior/B1),-21.8673976,-42.3062367
-ETA SÃO SEBASTIÃO DO PARAÍBA,Cantagalo,Interior (vizinho),Serrana / Centro-Norte,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AGR · Serrana / Centro-Norte (Interior/B1),-21.7553,-42.3789
-LOJA DE ATENDIMENTO CANTAGALO,Cantagalo,Interior (vizinho),Serrana / Centro-Norte,B1,Loja,0.0,Não,,Agrupado,AGR · Serrana / Centro-Norte (Interior/B1),-21.9837207,-42.3684288
-BASE OPERACIONAL CASIMIRO,Casimiro de Abreu,Interior (vizinho),Lagos e Litoral,B1,Base Operacional,0.0,Não,,Agrupado,AGR · Lagos e Litoral (Interior/B1),-22.563711953846155,-41.98429079230769
-LOJA DE ATENDIMENTO BARRA DE SÃO JOÃO,Casimiro de Abreu,Interior (vizinho),Lagos e Litoral,B1,Loja,0.0,Não,,Agrupado,AGR · Lagos e Litoral (Interior/B1),-22.5881,-41.9924
-ETE CORDEIRO,Cordeiro,Interior,Serrana / Centro-Norte,B1,Estação de Tratamento de Esgoto,172.0,Sim,[INTERIOR] - ETE APERIBE - AGUAS DO RIO 1 SPE S.A.,Agrupado,AGR · Serrana / Centro-Norte (Interior/B1),-22.0344108,-42.372124
-ETA CORDEIRO,Cordeiro,Interior,Serrana / Centro-Norte,B1,Estação de Tratamento de Água,79.8,Sim,PRO-AMBIENTAL TECNOLOGIA LTDA,Agrupado,AGR · Serrana / Centro-Norte (Interior/B1),-22.0327044,-42.3615574
-SEDE ADMNISTRATIVA CORDEIRO,Cordeiro,Interior,Serrana / Centro-Norte,B1,Sede Administrativa,0.0,Não,,Agrupado,AGR · Serrana / Centro-Norte (Interior/B1),-22.0233736,-42.3622405
-ETA MONNERAT,Duas Barras,Interior,Serrana / Centro-Norte,B1,Estação de Tratamento de Água,61.0,Sim,[INTERIOR] - ETE APERIBE - AGUAS DO RIO 1 SPE S.A.,Agrupado,AGR · Serrana / Centro-Norte (Interior/B1),-22.0643304,-42.4016101
-ETA DUAS BARRAS,Duas Barras,Interior,Serrana / Centro-Norte,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AGR · Serrana / Centro-Norte (Interior/B1),-22.0489291,-42.5227442
-LOJA DE ATENDIMENTO DUAS BARRAS,Duas Barras,Interior,Serrana / Centro-Norte,B1,Loja,0.0,Não,,Agrupado,AGR · Serrana / Centro-Norte (Interior/B1),-22.0522519,-42.5194705
-ETA PORTELA,Itaocara,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.6309858,-41.9858213
-ETA LARANJAIS,Itaocara,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.6699932,-42.0789927
-ETA SEDE III,Itaocara,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,37.5,Sim,PRO-AMBIENTAL TECNOLOGIA LTDA,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.6691303,-42.0839461
-ETA BATATAL/CORONEL TEIXEIRA,Itaocara,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.7120164,-42.1316304
-ETA JAGUAREMBÉ,Itaocara,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,0.0,Não,3R COMERCIO DE RESIDUOS RECICLAVEIS LTDA,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.7488717,-41.9943984
-SEDE ADMNISTRATIVA ITAOCARA,Itaocara,Interior,Noroeste Fluminense,B1,Sede Administrativa,0.0,Não,,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.7289291,-42.0897294
-ETA MIRACEMA,Miracema,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,38.9,Sim,CTR SERVIÇOS AMBIENTAIS LTDA,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.4126694,-42.1970166
-ETA DISTRITO VENDA DAS FLORES,Miracema,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.3144191,-42.120313
-ETA PARAÍSO DO TOBIAS,Miracema,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,0.0,Não,3R COMERCIO DE RESIDUOS RECICLAVEIS LTDA,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.4314,-42.1008
-ETE MIRACEMA,Miracema,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Esgoto,29.3,Sim,[INTERIOR] - ETE MIRACEMA - AGUAS DO RIO 1 SPE S.A.,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.4362117,-42.2083301
-LOJA DE ATENDIMENTO MIRACEMA,Miracema,Interior,Noroeste Fluminense,B1,Loja,0.0,Não,,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.3899863,-42.1404096
-CAPTAÇÃO MIRACEMA,Miracema,Interior,Noroeste Fluminense,B1,Estação Elevatória de Água Bruta,0.0,Não,,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.3932622,-42.1705696
-ETA RIO BONITO,Rio Bonito,Interior,Lagos e Litoral,B1,Estação de Tratamento de Água,243.0,Sim,PRO-AMBIENTAL TECNOLOGIA LTDA,Agrupado,AGR · Lagos e Litoral (Interior/B1),-22.7041861,-42.6281391
-UT LAVRAS,Rio Bonito,Interior,Lagos e Litoral,B1,Unidade de Tratamento de Água,0.0,Não,,Agrupado,AGR · Lagos e Litoral (Interior/B1),-22.7368566,-42.5702111
-UT BOA ESPERANÇA,Rio Bonito,Interior,Lagos e Litoral,B1,Unidade de Tratamento de Água,0.0,Não,,Agrupado,AGR · Lagos e Litoral (Interior/B1),-22.7368566,-42.5702111
-CAPTAÇÃO BACAXÁ,Rio Bonito,Interior,Lagos e Litoral,B1,Estação Elevtória de Água Bruta,0.0,Não,,Agrupado,AGR · Lagos e Litoral (Interior/B1),-22.7082284,-42.62602
-LOJA DE ATENDIMENTO RIO BONITO,Rio Bonito,Interior,Lagos e Litoral,B1,Loja,0.0,Não,,Agrupado,AGR · Lagos e Litoral (Interior/B1),-22.7082284,-42.62602
-EEAT/ERES SANTA CLARA,São Francisco de Itabapoana,Interior,Noroeste Fluminense,B1,Estação Elevatória de Água Tratada,20.6,Sim,PRO-AMBIENTAL TECNOLOGIA LTDA,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.5363582,-41.0802777
-ETA PRAÇA JOÃO PESSOA,São Francisco de Itabapoana,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.3069641,-41.1119168
-UT GARGAÚ,São Francisco de Itabapoana,Interior,Noroeste Fluminense,B1,Unidade de Tratamento de Água,25.9,Sim,VITAL ENGENHARIA AMBIENTAL S/A (Aterro de Inertes - CODIN),Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.5779158,-41.0668172
-SEDE ADMNISTRATIVA SÃO SEBASTIÃO DO ALTO,São Francisco de Itabapoana,Interior,Noroeste Fluminense,B1,Base Operacional,0.0,Não,,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.4731082,-41.1115668
-LOJA DE ATENDIMENTO SÃO FRANCISCO DO ITABAPOANA,São Francisco de Itabapoana,Interior,Noroeste Fluminense,B1,Loja,0.0,Não,,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.4531793,-41.0992305
-ETA SÃO SEBASTIÃO DO ALTO,São Sebastião do Alto,Interior,Agrupado/Municipal,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AGR · São Sebastião do Alto (Interior/B1),-21.8765871,-42.1115232
-ETA VALÃO DO BARRO,São Sebastião do Alto,Interior,Agrupado/Municipal,B1,Estação de Tratamento de Água,14.9,Sim,CTR SERVIÇOS AMBIENTAIS LTDA,Agrupado,AGR · São Sebastião do Alto (Interior/B1),-21.822461,-42.091499
-LOJA DE ATENDIMENTO SÃO SEBASTIÃO DO ALTO,São Sebastião do Alto,Interior,Agrupado/Municipal,B1,Loja,0.0,Não,,Agrupado,AGR · São Sebastião do Alto (Interior/B1),-21.954,-42.133
-UT CHÁCARA DO PARAÍSO,São Sebastião do Alto,Interior,Agrupado/Municipal,B1,Unidade de Tratamento de Água,0.0,Não,,Agrupado,AGR · São Sebastião do Alto (Interior/B1),-21.957925,-42.1358139
-UT HOSPITAL,São Sebastião do Alto,Interior,Agrupado/Municipal,B1,Unidade de Tratamento de Água,0.0,Não,,Agrupado,AGR · São Sebastião do Alto (Interior/B1),-21.8765871,-42.1115232
-EEAB PARAOQUENA,Aperibé,Interior,Noroeste Fluminense,B1,N/D,0.0,Não,,Agrupado,AGR · Noroeste Fluminense (Interior/B1),-21.6256,-42.1011
-BASE OPERACIONAL ITABORAÍ,Itaboraí,Leste,Leste Metropolitano,B1,Base Operacional,0.0,Não,,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.7502701,-42.8957278
-BASE OPERACIONAL SÃO GONÇALO,São Gonçalo,Leste,Leste Metropolitano,B1,Base Operacional,1364.2,Sim,Central de Tratamento de Residuos Alcantara S/A,Individualizado,IND · BASE OPERACIONAL SÃO GONÇALO,-22.805495,-43.0625474
-EEE APOLO 1,São Gonçalo,Leste,Leste Metropolitano,B1,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.7774134,-42.9490692
-EEE MÁRIO QUINTÃO,São Gonçalo,Leste,Leste Metropolitano,B1,Estação Elevatória de Esgoto,11.7,Sim,Regenera Rio S.A.,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.8214443,-43.0790279
-EEE Paquetá,Rio de Janeiro,Leste,RJ – Capital,B4,Estação Elevatória de Esgoto,7.0,Sim,Regenera Rio S.A.,Agrupado,AGR · RJ Leste (Leste/B4),-22.9068467,-43.1728965
-EEE PAUL LEROUX,São Gonçalo,Leste,Leste Metropolitano,B1,Estação Elevatória de Esgoto,3.8,Sim,Regenera Rio S.A.,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.830706,-43.0784762
-ETA JACONÉ,Saquarema,Leste,Lagos e Litoral,B1,Estação de Tratamento de Água,2.9,Sim,Regenera Rio S.A.,Agrupado,AGR · Lagos e Litoral (Leste/B1),-22.90237,-42.59933
-ETA MANILHA,Itaboraí,Leste,Leste Metropolitano,B1,Estação de Tratamento de Água,9.7,Sim,Ciclus Ambiental Rio S.A.,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.7604871,-42.948996
-ETA MARAMBAIA,Itaboraí,Leste,Leste Metropolitano,B1,Estação de Tratamento de Água,0.7,Sim,Regenera Rio S.A.,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.7733847,-42.9391906
-ETA MARICA,Maricá,Leste,Agrupado/Municipal,B1,Estação de Tratamento de Água,1.5,Sim,Ciclus Ambiental Rio S.A.,Agrupado,AGR · Maricá (Leste/B1),-22.90736,-42.800262
-ETA PONTA NEGRA,Maricá,Leste,Agrupado/Municipal,B1,Estação de Tratamento de Água,0.0,Não,Cop Service Soluções Ambientais,Agrupado,AGR · Maricá (Leste/B1),-22.9370826,-42.6750137
-ETA PORTO DAS CAIXAS,Itaboraí,Leste,Leste Metropolitano,B1,Estação de Tratamento de Água,115.5,Sim,ECO ITA GESTÃO DE RESÍDUOS LTDA,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.7024565,-42.8782179
-ETA RIO CACERIBU,Tanguá,Leste,Leste Metropolitano,B1,Estação de Tratamento de Água,27.3,Sim,,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.7272978,-42.7259454
-ETA SAMPAIO CORREA,Saquarema,Leste,Lagos e Litoral,B1,Estação de Tratamento de Água,0.0,Não,Cop Service Soluções Ambientais,Agrupado,AGR · Lagos e Litoral (Leste/B1),-22.8627,-42.5999
-ETE APOLO,São Gonçalo,Leste,Leste Metropolitano,B1,Estação de Tratamento de Esgoto,18.5,Sim,Regenera Rio S.A.,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.7810491,-42.942791
-ETE GRANDE RIO 1,Itaboraí,Leste,Leste Metropolitano,B1,Estação de Tratamento de Esgoto,40.1,Sim,Ciclus Ambiental Rio S.A.,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.7306441,-42.941919
-ETE JARDIM CATARINA,São Gonçalo,Leste,Leste Metropolitano,B1,Estação de Tratamento de Esgoto,25.2,Sim,ETE ALEGRIA - AGUAS DO RIO 4 SPE S.A.,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.8126055,-42.9994556
-ETE PINHÃO,Tanguá,Leste,Leste Metropolitano,B1,Estação de Tratamento de Esgoto,36.0,Sim,ETE ALEGRIA - AGUAS DO RIO 4 SPE S.A.,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.7375755,-42.7391858
-ETE SÃO GONÇALO II,São Gonçalo,Leste,Leste Metropolitano,B1,Estação de Tratamento de Esgoto,6782.4,Sim,Ciclus Ambiental Rio S.A.,Individualizado,IND · ETE SÃO GONÇALO II,-22.805495,-43.0625474
-BASE VCG SÃO GONÇALO,São Gonçalo,Leste,Leste Metropolitano,B1,Base Operacional,0.0,Não,,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.8155893,-43.0175567
-EEAB BARRAGEM UBATIBA,Maricá,Leste,Agrupado/Municipal,B1,Estação Elevatória de Água Bruta,0.0,Não,,Agrupado,AGR · Maricá (Leste/B1),-22.9088758,-42.8171914
-EEAB CAPTAÇÃO JACONÉ,Saquarema,Leste,Lagos e Litoral,B1,Estação Elevatória de Água Bruta,0.0,Não,,Agrupado,AGR · Lagos e Litoral (Leste/B1),-22.8910332,-42.6413296
-EEAB CAPTAÇÃO PONTA NEGRA,Maricá,Leste,Agrupado/Municipal,B1,Estação Elevatória de Água Bruta,0.0,Não,,Agrupado,AGR · Maricá (Leste/B1),-22.9535,-42.6953
-EEAT INOÃ,São Gonçalo,Leste,Leste Metropolitano,B1,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.8738652,-42.9800956
-ESTAÇÃO ELEVATÓRIA DE ESGOTO PAQUETÁ 5,Rio de Janeiro,Leste,RJ – Capital,B4,Estação Elevatória de Esgoto,5.8,Sim,Regenera Rio S.A.,Agrupado,AGR · RJ Leste (Leste/B4),-22.9068467,-43.1728965
-LOJA COMERCIAL SÃO GONÇALO,São Gonçalo,Leste,Leste Metropolitano,B1,Loja,0.0,Não,,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.8218453,-42.9998863
-LOJA COMERCIAL SAQUAREMA,Saquarema,Leste,Lagos e Litoral,B1,Loja,0.0,Não,,Agrupado,AGR · Lagos e Litoral (Leste/B1),-22.9157633,-42.6338568
-LOJA COMERCIAL TANGUÁ,Tanguá,Leste,Leste Metropolitano,B1,Loja,0.0,Não,,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.7354434,-42.7206234
-SEDE ADMINISTRATIVA MARICÁ,Maricá,Leste,Agrupado/Municipal,B1,Sede Administrativa,0.0,Não,,Agrupado,AGR · Maricá (Leste/B1),-22.9087976,-42.8044784
-SEDE ADMNISTRATIVA CENTRO I,São Gonçalo,Leste,Leste Metropolitano,B1,Sede Administrativa,0.0,Não,,Agrupado,AGR · Leste Metropolitano (Leste/B1),-22.8280755,-43.0541707
-RESERVATÓRIO GUAICURUS,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B4,Reservatório de Água,40.0,Sim,Bravo Administração de Imovés Ltda,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B4),-22.9098238,-43.2022455
-SEDE ARMAZÉM 2,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B1,Sede Administrativa,20.0,Sim,CICLUS AMBIENTAL RIO S/A,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B1),-22.8955966,-43.1817378
-EEE ANDRÉ AZEVEDO,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B1,Estação Elevatória de Esgoto,695.1,Sim,Regenera Rio S.A.,Individualizado,IND · EEE ANDRÉ AZEVEDO,-22.9832412,-43.1928154
-EEE SATURNINO BRITO,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B1,Estação Elevatória de Esgoto,103.5,Sim,Regenera Rio S.A.,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B1),-22.9761977,-43.2254557
-EEE CAIÇARAS,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B1,Estação Elevatória de Esgoto,5.0,Sim,VALCIR TADEU PRIMO DA SILVA,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B1),-22.9808365,-43.2062829
-EEE SÃO CONRADO,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B1,Estação Elevatória de Esgoto,32.3,Sim,Regenera Rio S.A.,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B1),-22.9959119,-43.2557555
-BASE OPERACIONAL BOTAFOGO,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B1,Base Operacional,3087.4,Sim,Associação carioca de catadores e ex catadores,Individualizado,IND · BASE OPERACIONAL BOTAFOGO,-22.9494654,-43.1788759
-BASE OPERACIONAL GÁVEA,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B1,Base Operacional,2498.1,Sim,VALCIR TADEU PRIMO DA SILVA,Individualizado,IND · BASE OPERACIONAL GÁVEA,-22.9755427,-43.2261457
-LOJA DE ATENDIMENTO CENTRO RJ,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B1,Loja,0.0,Não,SOLVÍ ESSENCIS AMBIENTAL S.A.,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B1),-22.9098352,-43.2012186
-EEE LEBLON,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B1,Estação Elevatória de Esgoto,125.8,Sim,Regenera Rio S.A.,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B1),-22.9889204,-43.2277363
-BASE OPERACIONAL AMOROSO LIMA,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B1,Base Operacional,84.3,Sim,VALCIR TADEU PRIMO DA SILVA,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B1),-22.9098238,-43.2022455
-LOJA DE ATENDIMENTO COPACABANA,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B1,Loja,0.0,Não,,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B1),-22.9835234,-43.1930589
-EEAT MARACANÃ,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B4),-22.9143087,-43.2382526
-BASE OPERACIONAL TIJUCA,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B4,Base Operacional,3910.2,Sim,Associação carioca de catadores e ex catadores,Individualizado,IND · BASE OPERACIONAL TIJUCA,-22.9054106,-43.2518743
-LOJA DE ATENDIMENTO TIJUCA,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B4,Loja,0.0,Não,,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B4),-22.9326856,-43.2422096
-RESERVATÓRIO DO FRANÇA,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B4,Reservatório de Água,40.0,Sim,Bravo Administração de Imovés Ltda,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B4),-22.9294843,-43.1935754
-UT AFONSO VISEU,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B4,Unidade de Tratamento de Água,21.6,Sim,ETR JARDIM GRAMACHO,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B4),-22.9588857,-43.2778518
-RESERVATÓRIO FRANCISCO SÁ,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B4,Reservatório de Água,40.0,Sim,ENDOMAQ SERVIÇOS E EMPREENDIMENTOS LTDA,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B4),-22.9299091,-43.2482875
-ETE ALEGRIA,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B4,Estação de Tratamento de Água,9422.6,Sim,Regenera Rio S.A.,Individualizado,IND · ETE ALEGRIA,-22.87321,-43.22726
-RESERVATÓRIO PEDREGULHO,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B4,Reservatório de Água,80.3,Sim,VALCIR TADEU PRIMO DA SILVA,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B4),-22.8955679,-43.2326827
-ETE ILHA DO GOVERNADOR,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Estação de Tratamento de Esgoto,2029.0,Sim,ETE ALEGRIA - AGUAS DO RIO 4 SPE S.A.,Individualizado,IND · ETE ILHA DO GOVERNADOR,-22.7951971,-43.1865692
-LABORATÓRIO ETE PAVUNA,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Laboratório,2821.3,Sim,Regenera Rio S.A.,Individualizado,IND · LABORATÓRIO ETE PAVUNA,-22.8055273,-43.3055317
-BASE EEAT JURAMENTO,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Base Operacional,130.2,Sim,VALCIR TADEU PRIMO DA SILVA,Agrupado,AGR · RJ Rio Norte (Rio Norte/B4),-22.858292,-43.3068173
-ETE PENHA,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Estação de Tratamento de Esgoto,939.5,Sim,Ciclus Ambiental Rio S.A.,Individualizado,IND · ETE PENHA,-22.8335042,-43.2694305
-ETE PAVUNA,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Estação de Tratamento de Esgoto,2829.3,Sim,Regenera Rio S.A.,Individualizado,IND · ETE PAVUNA,-22.8081825,-43.3036695
-BASE OPERACIONAL PENHA,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Base Operacional,5609.8,Sim,VALCIR TADEU PRIMO DA SILVA,Individualizado,IND · BASE OPERACIONAL PENHA,-22.8316553,-43.2722961
-BASE OPERACIONAL ILHA DO GOVERNADOR,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Base Operacional,283.3,Sim,Regenera Rio S.A.,Agrupado,AGR · RJ Rio Norte (Rio Norte/B4),-22.8059404,-43.2000505
-BASE OPERACIONAL MÉIER,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Base Operacional,1920.0,Sim,VALCIR TADEU PRIMO DA SILVA,Individualizado,IND · BASE OPERACIONAL MÉIER,-22.89264,-43.2826211
-BASE OPERACIONAL CAMPINHO,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Base Operacional,1685.5,Sim,TORRES E SILVA TERRAPLANAGEM EIRELI,Individualizado,IND · BASE OPERACIONAL CAMPINHO,-22.8824803,-43.3556969
-ETE PAVUNA VALO OXIDAÇÃO,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Estação de Tratamento de Esgoto,2829.3,Sim,Regenera Rio S.A.,Individualizado,IND · ETE PAVUNA VALO OXIDAÇÃO,-22.8133638,-43.3773124
-BASE VCG BONSUCESSO,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Base Operacional,37.8,Sim,Regenera Rio S.A.,Agrupado,AGR · RJ Rio Norte (Rio Norte/B4),-22.8686024,-43.2627471
-EEE BICA,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B4,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B4),-22.8183392,-43.1880432
-EEE FARIA TIMBÓ,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B4,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B4),-22.8820918,-43.2877723
-EEE FUNDÃO,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B4,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B4),-22.8579044,-43.2340271
-EEE PARANAPUÃ,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B4,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B4),-22.802330146260587,-43.18193031896954
-EEE SÃO BENTO,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B4,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B4),-22.8174213,-43.217533
-EEE ZUMBI I,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B4,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B4),-22.8196759,-43.1770802
-LOJA DE ATENDIMENTO MÉIER,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B4,Loja,0.0,Não,,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B4),-22.8909102,-43.2830415
-LOJA DE ATENDIMENTO CAMPINHO,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B4,Loja,0.0,Não,,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B4),-22.8827168,-43.3474801
-LOJA DE ATENDIMENTO ILHA DO GOVERNADOR,Rio de Janeiro,Rio Centro Sul,RJ – Capital,B4,Loja,0.0,Não,,Agrupado,AGR · RJ Rio Centro Sul (Rio Centro Sul/B4),-22.8099118,-43.1954027
+﻿unidade,municipio,sup,area,bloco,tipo,geracao_t,geradora,destino,modalidade,cod_pgrs,plano_pgrs,lat,lon
+ETE SARAPUI,Belford Roxo,Baixada 1,(somente individualizado),B4,Estação de Tratamento de Esgoto,326.0,Sim,Ciclus Ambiental Rio S.A.,Agrupado,AG-08,AGR · Belford Roxo (Baixada 1/B4),-22.7566592,-43.352209
+SEDE BELFORD ROXO,Belford Roxo,Baixada 1,(somente individualizado),B4,Base Operacional,214.9,Sim,MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP,Agrupado,AG-08,AGR · Belford Roxo (Baixada 1/B4),-22.7597854,-43.4021213
+SEDE JARDIM PRIMAVERA,Duque de Caxias,Baixada 1,Baixada – demais,B4,Base Operacional,1.4,Sim,,Agrupado,AG-10,AGR · Baixada – demais (Baixada 1/B4),-22.6837211,-43.2808873
+SEDE CAXIAS,Duque de Caxias,Baixada 1,Baixada – demais,B4,Base Operacional,490.0,Sim,MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP,Agrupado,AG-10,AGR · Baixada – demais (Baixada 1/B4),-22.7904735,-43.312386
+CL DUQUE DE CAXIAS,Duque de Caxias,Baixada 1,Baixada – demais,B4,Almoxarifado,18.7,Sim,ETR JARDIM GRAMACHO,Agrupado,AG-10,AGR · Baixada – demais (Baixada 1/B4),-22.7878377,-43.2856376
+BOOSTER BELFORD ROXO,Duque de Caxias,Baixada 1,Baixada – demais,B4,N/D,0.5,Sim,MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP,Agrupado,AG-10,AGR · Baixada – demais (Baixada 1/B4),-22.7878377,-43.2856376
+BASE VCG JARDIM AMÉRICA,Duque de Caxias,Baixada 1,Baixada – demais,B4,Base Operacional,36.6,Sim,,Agrupado,AG-10,AGR · Baixada – demais (Baixada 1/B4),-22.8155771,-43.3248712
+EEE JARDIM GRAMACHO,Duque de Caxias,Baixada 1,Baixada – demais,B4,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AG-10,AGR · Baixada – demais (Baixada 1/B4),-22.7544292,-43.2973356
+EEE TIÃO LANTE,Duque de Caxias,Baixada 1,Baixada – demais,B4,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AG-10,AGR · Baixada – demais (Baixada 1/B4),-22.7525909,-43.2912698
+RESERVATÓRIO 25 DE AGOSTO,Duque de Caxias,Baixada 1,Baixada – demais,B4,Reservatório de Água,40.0,Sim,,Agrupado,AG-10,AGR · Baixada – demais (Baixada 1/B4),-22.7853495,-43.3028835
+RESERVATÓRIO CENTENÁRIO,Duque de Caxias,Baixada 1,Baixada – demais,B4,Reservatório de Água,40.0,Sim,,Agrupado,AG-10,AGR · Baixada – demais (Baixada 1/B4),-22.7751273,-43.3106917
+ETA Mage,Magé,Baixada 1,Agrupado/Municipal,B1,Estação de Tratamento de Água,48.5,Sim,[BAIXADA 1] - ETE SARAPUI - AGUAS DO RIO 4 SPE S.A.,Agrupado,AG-07,AGR · Magé (Baixada 1/B1),-22.659098,-43.0248625
+SEDE MAGE,Magé,Baixada 1,Agrupado/Municipal,B1,Base Operacional,30.1,Sim,MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP,Agrupado,AG-07,AGR · Magé (Baixada 1/B1),-22.6578119,-43.0374481
+UT Santo Aleixo,Magé,Baixada 1,Agrupado/Municipal,B1,Unidade de Tratamento de Água,0.1,Sim,3R COMERCIO DE RESIDUOS RECICLAVEIS LTDA,Agrupado,AG-07,AGR · Magé (Baixada 1/B1),-22.5560454,-43.0494511
+SEDE SAO JOAO DE MERITI,São João de Meriti,Baixada 1,(somente individualizado),B4,Base Operacional,41.0,Sim,MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP,Agrupado,AG-09,AGR · São João de Meriti (Baixada 1/B4),-22.7666773,-43.3532653
+RESERVATORIO VILAR DOS TELES,São João de Meriti,Baixada 1,(somente individualizado),B4,Reservatório de Água,1080.0,Sim,ENDOMAQ SERVIÇOS E EMPREENDIMENTOS LTDA,Individualizado,IND-16,IND · RESERVATORIO VILAR DOS TELES,-22.7755858,-43.360371
+RESERVATÓRIO COELHO DA ROCHA,São João de Meriti,Baixada 1,(somente individualizado),B4,Reservatório de Água,40.0,Sim,,Agrupado,AG-09,AGR · São João de Meriti (Baixada 1/B4),-22.7684785,-43.3795601
+EEAT ENGENHEIRO PEDREIRA,Japeri,Baixada 2,Baixada – demais,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AG-13,AGR · Baixada – demais (Baixada 2/B4),-22.7053346,-43.6275244
+ERES ENGENHEIRO PEDREIRA,Japeri,Baixada 2,Baixada – demais,B4,Estação de Reservação,0.0,Não,,Agrupado,AG-13,AGR · Baixada – demais (Baixada 2/B4),-22.6797291,-43.6090782
+EEE SANTO ELIAS,Mesquita,Baixada 2,Baixada – demais,B4,Estação Elevatória de Esgoto,10.0,Sim,INDUSTRIA EXTRATIVA E COMERICAL POP LTDA-EPP,Agrupado,AG-13,AGR · Baixada – demais (Baixada 2/B4),-22.7690168,-43.4167452
+EEE CHATUBA,Mesquita,Baixada 2,Baixada – demais,B4,Estação Elevatória de Esgoto,0.3,Sim,Regenera Rio S.A.,Agrupado,AG-13,AGR · Baixada – demais (Baixada 2/B4),-22.8003742,-43.4272749
+EEE VILA NORMA,Mesquita,Baixada 2,Baixada – demais,B4,Estação Elevatória de Esgoto,1.5,Sim,ETR JARDIM GRAMACHO,Agrupado,AG-13,AGR · Baixada – demais (Baixada 2/B4),-22.7889734,-43.4101029
+EEAT JK,Mesquita,Baixada 2,Baixada – demais,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AG-13,AGR · Baixada – demais (Baixada 2/B4),-22.7697558,-43.4345326
+SEDE NILOPOLIS,Nilópolis,Baixada 2,Baixada – demais,B4,Sede Administrativa,2104.4,Sim,Empresa Gerencial de Projetos Navais - EMGEPRON,Individualizado,IND-11,IND · SEDE NILOPOLIS,-22.8114366,-43.4099017
+EEAT NILÓPOLIS,Nilópolis,Baixada 2,Baixada – demais,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AG-13,AGR · Baixada – demais (Baixada 2/B4),-22.8172839,-43.4116983
+ERES CABRAL,Nilópolis,Baixada 2,Baixada – demais,B4,Estação de Reservação,0.0,Não,,Agrupado,AG-13,AGR · Baixada – demais (Baixada 2/B4),-22.8182831,-43.4145843
+ERES NILÓPOLIS,Nilópolis,Baixada 2,Baixada – demais,B4,Estação de Reservação,0.0,Não,,Agrupado,AG-13,AGR · Baixada – demais (Baixada 2/B4),-22.8094695,-43.4063968
+ETE LAGOINHA,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação de Tratamento de Esgoto,34.8,Sim,Regenera Rio S.A.,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7988353,-43.589382
+SEDE NOVA IGUAÇU,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Base Operacional,308.1,Sim,INDUSTRIA EXTRATIVA E COMERICAL POP LTDA-EPP,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7595429,-43.4395846
+EEAT CABUÇU ALTO,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7623219,-43.5412369
+EEAT CABUÇU BAIXO,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7719105,-43.528715
+EEAT ESPLANADA,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7410643,-43.4423538
+EEAT FLORESA MIRANDA,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7637208,-43.4487209
+EEAT COORDENAÇÃO DE MANUTENÇÃO DA BAIXADA,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7593418,-43.4473818
+EEAT POSSE,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7055777,-43.430813
+EEE LAGOINHA II,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.8011777,-43.5886519
+ERES JK VELHO,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação de Reservação,0.0,Não,,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7700212,-43.4344219
+ERES JK NOVO,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação de Reservação,0.0,Não,,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.768669,-43.441066
+ERES ALVORADA,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação de Reservação,0.0,Não,,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7631542,-43.4794756
+ERES BRASÍLIA,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação de Reservação,0.0,Não,,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7630275,-43.4499916
+ERES POSSE,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação de Reservação,0.0,Não,,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7214877,-43.4662546
+ERES CABUÇU ALTO,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação de Reservação,0.0,Não,,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.6955964,-43.4654372
+ERES TAÇA,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação de Reservação,0.0,Não,,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7783377,-43.5294556
+ERES AUSTIN,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação de Reservação,0.0,Não,,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.7220108,-43.5401184
+EEAT AUSTIN,Nova Iguaçu,Baixada 2,Baixada – Nova Iguaçu,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.6955964,-43.4654372
+ETE SAO JORGE,Queimados,Baixada 2,Agrupado/Municipal,B4,Estação de Tratamento de Esgoto,0.0,Não,,Agrupado,AG-11,AGR · Queimados (Baixada 2/B4),-22.6909415,-43.5596954
+SEDE QUEIMADOS,Queimados,Baixada 2,Agrupado/Municipal,B4,Sede Administrativa,305.0,Sim,TORRES E SILVA TERRAPLANAGEM EIRELI,Agrupado,AG-11,AGR · Queimados (Baixada 2/B4),-22.7114503,-43.5540014
+ETE QUEIMADOS,Queimados,Baixada 2,Agrupado/Municipal,B4,Estação de Tratamento de Esgoto,0.0,Não,,Agrupado,AG-11,AGR · Queimados (Baixada 2/B4),-22.7156978,-43.555754
+USINA DE ASFALTO,N/D,Baixada 2,Baixada – Nova Iguaçu,B4,N/D,0.0,Não,,Agrupado,AG-12,AGR · Baixada – Nova Iguaçu (Baixada 2/B4),-22.8625894,-43.5449653
+BASE VCG SÃO CRISTOVÃO,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Base Operacional,13.9,Sim,Regenera Rio S.A.,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.8948275,-43.2201344
+BASE EEAT ROCINHA,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B1,Base Operacional,56.9,Sim,VALCIR TADEU PRIMO DA SILVA,Agrupado,AG-01,AGR · RJ Rio Centro Sul / Comunidades (B1),-22.9866846,-43.2463688
+BASE ROCINHA/ LOJA DE ATENDIMENTO,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B1,Base Operacional,20.0,Sim,Perugia Empreendimentos Imobiliários S.A.,Agrupado,AG-01,AGR · RJ Rio Centro Sul / Comunidades (B1),-22.9866846,-43.2463688
+BASE OPERACIONAL MARÉ,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Base Operacional,149.6,Sim,Regenera Rio S.A.,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.8556274,-43.2433257
+BASE OPERACIONAL ENGENHO DE DENTRO,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Base Operacional,575.1,Sim,VALCIR TADEU PRIMO DA SILVA,Individualizado,IND-19,IND · BASE OPERACIONAL ENGENHO DE DENTRO,-22.8980312,-43.2917235
+BASE OPERACIONAL PENHA,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Base Operacional,5609.8,Sim,VALCIR TADEU PRIMO DA SILVA,Individualizado,IND-04,IND · BASE OPERACIONAL PENHA,-22.8316553,-43.2722961
+BASE OPERACIONAL PPG,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B1,Base Operacional,0.0,Não,,Agrupado,AG-01,AGR · RJ Rio Centro Sul / Comunidades (B1),-22.9812057,-43.1951831
+BASE OPERACIONAL VIDIGAL,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B1,Base Operacional,0.0,Não,,Agrupado,AG-01,AGR · RJ Rio Centro Sul / Comunidades (B1),-22.99417,-43.23347
+EEAT ROCINHA INFERIOR,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B1,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AG-01,AGR · RJ Rio Centro Sul / Comunidades (B1),-22.9829908,-43.2383306
+UT PAINEIRAS,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B1,Unidade de Tratamento de Água,0.0,Não,,Agrupado,AG-01,AGR · RJ Rio Centro Sul / Comunidades (B1),-22.9459089,-43.2173429
+ETA APERIBÉ,Aperibé,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,7.4,Sim,PRO-AMBIENTAL TECNOLOGIA LTDA,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.6221344,-42.108912
+ETE APERIBE,Aperibé,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Esgoto,420.9,Sim,[INTERIOR] - ETE APERIBE - AGUAS DO RIO 1 SPE S.A.,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.6257585,-42.097547
+LOJA DE ATENDIMENTO APERIBÉ,Aperibé,Interior,Noroeste Fluminense,B1,Loja,0.0,Não,,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.653159,-42.1329659
+UT POSTO PENA,Cachoeira de Macacu,Interior,(s/área),B1,Unidade de Tratamento de Água,0.0,Não,PRO-AMBIENTAL TECNOLOGIA LTDA,Agrupado,AG-14,AGR · Cachoeira de Macacu (Interior/B1),-22.4158701,-42.6183914
+UT RIO SOUZA,Cachoeira de Macacu,Interior,(s/área),B1,Unidade de Tratamento de Água,0.0,Não,PRO-AMBIENTAL TECNOLOGIA LTDA,Agrupado,AG-14,AGR · Cachoeira de Macacu (Interior/B1),-22.4413868,-42.6353001
+LOJA DE ATENDIMENTO CACHOEIRA DA MACACU,Cachoeira de Macacu,Interior,(s/área),B1,Loja,0.0,Não,,Agrupado,AG-14,AGR · Cachoeira de Macacu (Interior/B1),-22.5250392,-42.8317309
+ETA CAMBUCI,Cambuci,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.5824715,-41.921514
+UT MONTE VERDE,Cambuci,Interior,Noroeste Fluminense,B1,Unidade de Tratamento de Água,0.0,Não,,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.4697,-41.9119
+UT SÃO JOÃO DO PARAÍSO,Cambuci,Interior,Noroeste Fluminense,B1,Unidade de Tratamento de Água,0.0,Não,,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.4104773,-41.811052
+LOJA COMERCIAL CAMBUCI,Cambuci,Interior,Noroeste Fluminense,B1,Loja,0.0,Não,,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.5824715,-41.921514
+ETA SANTA RITA DA FLORESTA,Cantagalo,Interior,Serrana / Centro-Norte,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AG-18,AGR · Serrana / Centro-Norte (Interior/B1),-21.8792,-42.4564
+ETA EUCLIDELÂNDIA,Cantagalo,Interior,Serrana / Centro-Norte,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AG-18,AGR · Serrana / Centro-Norte (Interior/B1),-21.8673976,-42.3062367
+ETA SÃO SEBASTIÃO DO PARAÍBA,Cantagalo,Interior,Serrana / Centro-Norte,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AG-18,AGR · Serrana / Centro-Norte (Interior/B1),-21.7553,-42.3789
+LOJA DE ATENDIMENTO CANTAGALO,Cantagalo,Interior,Serrana / Centro-Norte,B1,Loja,0.0,Não,,Agrupado,AG-18,AGR · Serrana / Centro-Norte (Interior/B1),-21.9837207,-42.3684288
+BASE OPERACIONAL CASIMIRO,Casimiro de Abreu,Interior,Lagos e Litoral,B1,Base Operacional,0.0,Não,,Agrupado,AG-16,AGR · Lagos e Litoral (Interior/B1),-22.563711953846155,-41.98429079230769
+LOJA DE ATENDIMENTO BARRA DE SÃO JOÃO,Casimiro de Abreu,Interior,Lagos e Litoral,B1,Loja,0.0,Não,,Agrupado,AG-16,AGR · Lagos e Litoral (Interior/B1),-22.5881,-41.9924
+ETE CORDEIRO,Cordeiro,Interior,Serrana / Centro-Norte,B1,Estação de Tratamento de Esgoto,172.0,Sim,[INTERIOR] - ETE APERIBE - AGUAS DO RIO 1 SPE S.A.,Agrupado,AG-18,AGR · Serrana / Centro-Norte (Interior/B1),-22.0344108,-42.372124
+ETA CORDEIRO,Cordeiro,Interior,Serrana / Centro-Norte,B1,Estação de Tratamento de Água,79.8,Sim,PRO-AMBIENTAL TECNOLOGIA LTDA,Agrupado,AG-18,AGR · Serrana / Centro-Norte (Interior/B1),-22.0327044,-42.3615574
+SEDE ADMNISTRATIVA CORDEIRO,Cordeiro,Interior,Serrana / Centro-Norte,B1,Sede Administrativa,0.0,Não,,Agrupado,AG-18,AGR · Serrana / Centro-Norte (Interior/B1),-22.0233736,-42.3622405
+ETA MONNERAT,Duas Barras,Interior,Serrana / Centro-Norte,B1,Estação de Tratamento de Água,61.0,Sim,[INTERIOR] - ETE APERIBE - AGUAS DO RIO 1 SPE S.A.,Agrupado,AG-18,AGR · Serrana / Centro-Norte (Interior/B1),-22.0643304,-42.4016101
+ETA DUAS BARRAS,Duas Barras,Interior,Serrana / Centro-Norte,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AG-18,AGR · Serrana / Centro-Norte (Interior/B1),-22.0489291,-42.5227442
+LOJA DE ATENDIMENTO DUAS BARRAS,Duas Barras,Interior,Serrana / Centro-Norte,B1,Loja,0.0,Não,,Agrupado,AG-18,AGR · Serrana / Centro-Norte (Interior/B1),-22.0522519,-42.5194705
+ETA PORTELA,Itaocara,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.6309858,-41.9858213
+ETA LARANJAIS,Itaocara,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.6699932,-42.0789927
+ETA SEDE III,Itaocara,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,37.5,Sim,PRO-AMBIENTAL TECNOLOGIA LTDA,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.6691303,-42.0839461
+ETA BATATAL/CORONEL TEIXEIRA,Itaocara,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.7120164,-42.1316304
+ETA JAGUAREMBÉ,Itaocara,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,0.0,Não,3R COMERCIO DE RESIDUOS RECICLAVEIS LTDA,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.7488717,-41.9943984
+SEDE ADMNISTRATIVA ITAOCARA,Itaocara,Interior,Noroeste Fluminense,B1,Sede Administrativa,0.0,Não,,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.7289291,-42.0897294
+ETA MIRACEMA,Miracema,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,38.9,Sim,CTR SERVIÇOS AMBIENTAIS LTDA,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.4126694,-42.1970166
+ETA DISTRITO VENDA DAS FLORES,Miracema,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.3144191,-42.120313
+ETA PARAÍSO DO TOBIAS,Miracema,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,0.0,Não,3R COMERCIO DE RESIDUOS RECICLAVEIS LTDA,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.4314,-42.1008
+ETE MIRACEMA,Miracema,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Esgoto,29.3,Sim,[INTERIOR] - ETE MIRACEMA - AGUAS DO RIO 1 SPE S.A.,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.4362117,-42.2083301
+LOJA DE ATENDIMENTO MIRACEMA,Miracema,Interior,Noroeste Fluminense,B1,Loja,0.0,Não,,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.3899863,-42.1404096
+CAPTAÇÃO MIRACEMA,Miracema,Interior,Noroeste Fluminense,B1,Estação Elevatória de Água Bruta,0.0,Não,,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.3932622,-42.1705696
+ETA RIO BONITO,Rio Bonito,Interior,Lagos e Litoral,B1,Estação de Tratamento de Água,243.0,Sim,PRO-AMBIENTAL TECNOLOGIA LTDA,Agrupado,AG-16,AGR · Lagos e Litoral (Interior/B1),-22.7041861,-42.6281391
+UT LAVRAS,Rio Bonito,Interior,Lagos e Litoral,B1,Unidade de Tratamento de Água,0.0,Não,,Agrupado,AG-16,AGR · Lagos e Litoral (Interior/B1),-22.7368566,-42.5702111
+UT BOA ESPERANÇA,Rio Bonito,Interior,Lagos e Litoral,B1,Unidade de Tratamento de Água,0.0,Não,,Agrupado,AG-16,AGR · Lagos e Litoral (Interior/B1),-22.7368566,-42.5702111
+CAPTAÇÃO BACAXÁ,Rio Bonito,Interior,Lagos e Litoral,B1,Estação Elevtória de Água Bruta,0.0,Não,,Agrupado,AG-16,AGR · Lagos e Litoral (Interior/B1),-22.7082284,-42.62602
+LOJA DE ATENDIMENTO RIO BONITO,Rio Bonito,Interior,Lagos e Litoral,B1,Loja,0.0,Não,,Agrupado,AG-16,AGR · Lagos e Litoral (Interior/B1),-22.7082284,-42.62602
+EEAT/ERES SANTA CLARA,São Francisco de Itabapoana,Interior,Noroeste Fluminense,B1,Estação Elevatória de Água Tratada,20.6,Sim,PRO-AMBIENTAL TECNOLOGIA LTDA,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.5363582,-41.0802777
+ETA PRAÇA JOÃO PESSOA,São Francisco de Itabapoana,Interior,Noroeste Fluminense,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.3069641,-41.1119168
+UT GARGAÚ,São Francisco de Itabapoana,Interior,Noroeste Fluminense,B1,Unidade de Tratamento de Água,25.9,Sim,VITAL ENGENHARIA AMBIENTAL S/A (Aterro de Inertes - CODIN),Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.5779158,-41.0668172
+SEDE ADMNISTRATIVA SÃO SEBASTIÃO DO ALTO,São Francisco de Itabapoana,Interior,Noroeste Fluminense,B1,Base Operacional,0.0,Não,,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.4731082,-41.1115668
+LOJA DE ATENDIMENTO SÃO FRANCISCO DO ITABAPOANA,São Francisco de Itabapoana,Interior,Noroeste Fluminense,B1,Loja,0.0,Não,,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.4531793,-41.0992305
+ETA SÃO SEBASTIÃO DO ALTO,São Sebastião do Alto,Interior,Agrupado/Municipal,B1,Estação de Tratamento de Água,0.0,Não,,Agrupado,AG-15,AGR · São Sebastião do Alto (Interior/B1),-21.8765871,-42.1115232
+ETA VALÃO DO BARRO,São Sebastião do Alto,Interior,Agrupado/Municipal,B1,Estação de Tratamento de Água,14.9,Sim,CTR SERVIÇOS AMBIENTAIS LTDA,Agrupado,AG-15,AGR · São Sebastião do Alto (Interior/B1),-21.822461,-42.091499
+LOJA DE ATENDIMENTO SÃO SEBASTIÃO DO ALTO,São Sebastião do Alto,Interior,Agrupado/Municipal,B1,Loja,0.0,Não,,Agrupado,AG-15,AGR · São Sebastião do Alto (Interior/B1),-21.954,-42.133
+UT CHÁCARA DO PARAÍSO,São Sebastião do Alto,Interior,Agrupado/Municipal,B1,Unidade de Tratamento de Água,0.0,Não,,Agrupado,AG-15,AGR · São Sebastião do Alto (Interior/B1),-21.957925,-42.1358139
+UT HOSPITAL,São Sebastião do Alto,Interior,Agrupado/Municipal,B1,Unidade de Tratamento de Água,0.0,Não,,Agrupado,AG-15,AGR · São Sebastião do Alto (Interior/B1),-21.8765871,-42.1115232
+EEAB PARAOQUENA,Aperibé,Interior,Noroeste Fluminense,B1,N/D,0.0,Não,,Agrupado,AG-17,AGR · Noroeste Fluminense (Interior/B1),-21.6256,-42.1011
+BASE OPERACIONAL ITABORAÍ,Itaboraí,Leste,Leste Metropolitano,B1,Base Operacional,0.0,Não,,Agrupado,AG-06,AGR · Leste Metropolitano (Leste/B1),-22.7502701,-42.8957278
+BASE OPERACIONAL SÃO GONÇALO,São Gonçalo,Leste,Leste Metropolitano,B1,Base Operacional,1364.2,Sim,Central de Tratamento de Residuos Alcantara S/A,Individualizado,IND-15,IND · BASE OPERACIONAL SÃO GONÇALO,-22.805495,-43.0625474
+EEE APOLO 1,São Gonçalo,Leste,Leste Metropolitano,B1,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AG-06,AGR · Leste Metropolitano (Leste/B1),-22.7774134,-42.9490692
+EEE MÁRIO QUINTÃO,São Gonçalo,Leste,Leste Metropolitano,B1,Estação Elevatória de Esgoto,11.7,Sim,Regenera Rio S.A.,Agrupado,AG-06,AGR · Leste Metropolitano (Leste/B1),-22.8214443,-43.0790279
+EEE Paquetá,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Estação Elevatória de Esgoto,7.0,Sim,Regenera Rio S.A.,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.7616,-43.1078
+EEE PAUL LEROUX,São Gonçalo,Leste,Leste Metropolitano,B1,Estação Elevatória de Esgoto,3.8,Sim,Regenera Rio S.A.,Agrupado,AG-06,AGR · Leste Metropolitano (Leste/B1),-22.830706,-43.0784762
+ETA JACONÉ,Saquarema,Leste,Lagos e Litoral,B1,Estação de Tratamento de Água,2.9,Sim,Regenera Rio S.A.,Agrupado,AG-05,AGR · Lagos e Litoral (Leste/B1),-22.90237,-42.59933
+ETA MANILHA,Itaboraí,Leste,Leste Metropolitano,B1,Estação de Tratamento de Água,9.7,Sim,Ciclus Ambiental Rio S.A.,Agrupado,AG-06,AGR · Leste Metropolitano (Leste/B1),-22.7604871,-42.948996
+ETA MARAMBAIA,Itaboraí,Leste,Leste Metropolitano,B1,Estação de Tratamento de Água,0.7,Sim,Regenera Rio S.A.,Agrupado,AG-06,AGR · Leste Metropolitano (Leste/B1),-22.7733847,-42.9391906
+ETA MARICA,Maricá,Leste,Agrupado/Municipal,B1,Estação de Tratamento de Água,1.5,Sim,Ciclus Ambiental Rio S.A.,Agrupado,AG-04,AGR · Maricá (Leste/B1),-22.90736,-42.800262
+ETA PONTA NEGRA,Maricá,Leste,Agrupado/Municipal,B1,Estação de Tratamento de Água,0.0,Não,Cop Service Soluções Ambientais,Agrupado,AG-04,AGR · Maricá (Leste/B1),-22.9370826,-42.6750137
+ETA PORTO DAS CAIXAS,Itaboraí,Leste,Leste Metropolitano,B1,Estação de Tratamento de Água,115.5,Sim,ECO ITA GESTÃO DE RESÍDUOS LTDA,Agrupado,AG-06,AGR · Leste Metropolitano (Leste/B1),-22.7024565,-42.8782179
+ETA RIO CACERIBU,Tanguá,Leste,Leste Metropolitano,B1,Estação de Tratamento de Água,27.3,Sim,,Agrupado,AG-06,AGR · Leste Metropolitano (Leste/B1),-22.7272978,-42.7259454
+ETA SAMPAIO CORREA,Saquarema,Leste,Lagos e Litoral,B1,Estação de Tratamento de Água,0.0,Não,Cop Service Soluções Ambientais,Agrupado,AG-05,AGR · Lagos e Litoral (Leste/B1),-22.8627,-42.5999
+ETE APOLO,São Gonçalo,Leste,Leste Metropolitano,B1,Estação de Tratamento de Esgoto,18.5,Sim,Regenera Rio S.A.,Agrupado,AG-06,AGR · Leste Metropolitano (Leste/B1),-22.7810491,-42.942791
+ETE GRANDE RIO 1,Itaboraí,Leste,Leste Metropolitano,B1,Estação de Tratamento de Esgoto,40.1,Sim,Ciclus Ambiental Rio S.A.,Agrupado,AG-06,AGR · Leste Metropolitano (Leste/B1),-22.7306441,-42.941919
+ETE JARDIM CATARINA,São Gonçalo,Leste,Leste Metropolitano,B1,Estação de Tratamento de Esgoto,25.2,Sim,ETE ALEGRIA - AGUAS DO RIO 4 SPE S.A.,Agrupado,AG-06,AGR · Leste Metropolitano (Leste/B1),-22.8126055,-42.9994556
+ETE PINHÃO,Tanguá,Leste,Leste Metropolitano,B1,Estação de Tratamento de Esgoto,36.0,Sim,ETE ALEGRIA - AGUAS DO RIO 4 SPE S.A.,Agrupado,AG-06,AGR · Leste Metropolitano (Leste/B1),-22.7375755,-42.7391858
+ETE SÃO GONÇALO II,São Gonçalo,Leste,Leste Metropolitano,B1,Estação de Tratamento de Esgoto,6782.4,Sim,Ciclus Ambiental Rio S.A.,Individualizado,IND-02,IND · ETE SÃO GONÇALO II,-22.805495,-43.0625474
+BASE VCG SÃO GONÇALO,São Gonçalo,Leste,Leste Metropolitano,B1,Base Operacional,0.0,Não,,Agrupado,AG-06,AGR · Leste Metropolitano (Leste/B1),-22.8155893,-43.0175567
+EEAB BARRAGEM UBATIBA,Maricá,Leste,Agrupado/Municipal,B1,Estação Elevatória de Água Bruta,0.0,Não,,Agrupado,AG-04,AGR · Maricá (Leste/B1),-22.9088758,-42.8171914
+EEAB CAPTAÇÃO JACONÉ,Saquarema,Leste,Lagos e Litoral,B1,Estação Elevatória de Água Bruta,0.0,Não,,Agrupado,AG-05,AGR · Lagos e Litoral (Leste/B1),-22.8910332,-42.6413296
+EEAB CAPTAÇÃO PONTA NEGRA,Maricá,Leste,Agrupado/Municipal,B1,Estação Elevatória de Água Bruta,0.0,Não,,Agrupado,AG-04,AGR · Maricá (Leste/B1),-22.9535,-42.6953
+EEAT INOÃ,São Gonçalo,Leste,Leste Metropolitano,B1,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AG-06,AGR · Leste Metropolitano (Leste/B1),-22.8738652,-42.9800956
+ESTAÇÃO ELEVATÓRIA DE ESGOTO PAQUETÁ 5,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Estação Elevatória de Esgoto,5.8,Sim,Regenera Rio S.A.,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.7632,-43.1093
+LOJA COMERCIAL SÃO GONÇALO,São Gonçalo,Leste,Leste Metropolitano,B1,Loja,0.0,Não,,Agrupado,AG-06,AGR · Leste Metropolitano (Leste/B1),-22.8218453,-42.9998863
+LOJA COMERCIAL SAQUAREMA,Saquarema,Leste,Lagos e Litoral,B1,Loja,0.0,Não,,Agrupado,AG-05,AGR · Lagos e Litoral (Leste/B1),-22.9157633,-42.6338568
+LOJA COMERCIAL TANGUÁ,Tanguá,Leste,Leste Metropolitano,B1,Loja,0.0,Não,,Agrupado,AG-06,AGR · Leste Metropolitano (Leste/B1),-22.7354434,-42.7206234
+SEDE ADMINISTRATIVA MARICÁ,Maricá,Leste,Agrupado/Municipal,B1,Sede Administrativa,0.0,Não,,Agrupado,AG-04,AGR · Maricá (Leste/B1),-22.9087976,-42.8044784
+SEDE ADMNISTRATIVA CENTRO I,São Gonçalo,Leste,Leste Metropolitano,B1,Sede Administrativa,0.0,Não,,Agrupado,AG-06,AGR · Leste Metropolitano (Leste/B1),-22.8280755,-43.0541707
+RESERVATÓRIO GUAICURUS,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Reservatório de Água,40.0,Sim,Bravo Administração de Imovés Ltda,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.9098238,-43.2022455
+SEDE ARMAZÉM 2,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B1,Sede Administrativa,20.0,Sim,CICLUS AMBIENTAL RIO S/A,Agrupado,AG-01,AGR · RJ Rio Centro Sul / Comunidades (B1),-22.8955966,-43.1817378
+EEE ANDRÉ AZEVEDO,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B1,Estação Elevatória de Esgoto,695.1,Sim,Regenera Rio S.A.,Individualizado,IND-18,IND · EEE ANDRÉ AZEVEDO,-22.9832412,-43.1928154
+EEE SATURNINO BRITO,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B1,Estação Elevatória de Esgoto,103.5,Sim,Regenera Rio S.A.,Agrupado,AG-01,AGR · RJ Rio Centro Sul / Comunidades (B1),-22.9761977,-43.2254557
+EEE CAIÇARAS,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B1,Estação Elevatória de Esgoto,5.0,Sim,VALCIR TADEU PRIMO DA SILVA,Agrupado,AG-01,AGR · RJ Rio Centro Sul / Comunidades (B1),-22.9808365,-43.2062829
+EEE SÃO CONRADO,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B1,Estação Elevatória de Esgoto,32.3,Sim,Regenera Rio S.A.,Agrupado,AG-01,AGR · RJ Rio Centro Sul / Comunidades (B1),-22.9959119,-43.2557555
+BASE OPERACIONAL BOTAFOGO,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B1,Base Operacional,3087.4,Sim,Associação carioca de catadores e ex catadores,Individualizado,IND-06,IND · BASE OPERACIONAL BOTAFOGO,-22.9494654,-43.1788759
+BASE OPERACIONAL GÁVEA,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B1,Base Operacional,2498.1,Sim,VALCIR TADEU PRIMO DA SILVA,Individualizado,IND-10,IND · BASE OPERACIONAL GÁVEA,-22.9755427,-43.2261457
+LOJA DE ATENDIMENTO CENTRO RJ,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B1,Loja,0.0,Não,SOLVÍ ESSENCIS AMBIENTAL S.A.,Agrupado,AG-01,AGR · RJ Rio Centro Sul / Comunidades (B1),-22.9098352,-43.2012186
+EEE LEBLON,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B1,Estação Elevatória de Esgoto,125.8,Sim,Regenera Rio S.A.,Agrupado,AG-01,AGR · RJ Rio Centro Sul / Comunidades (B1),-22.9889204,-43.2277363
+BASE OPERACIONAL AMOROSO LIMA,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B1,Base Operacional,84.3,Sim,VALCIR TADEU PRIMO DA SILVA,Agrupado,AG-01,AGR · RJ Rio Centro Sul / Comunidades (B1),-22.9098238,-43.2022455
+LOJA DE ATENDIMENTO COPACABANA,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B1,Loja,0.0,Não,,Agrupado,AG-01,AGR · RJ Rio Centro Sul / Comunidades (B1),-22.9835234,-43.1930589
+EEAT MARACANÃ,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Estação Elevatória de Água Tratada,0.0,Não,,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.9143087,-43.2382526
+BASE OPERACIONAL TIJUCA,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Base Operacional,3910.2,Sim,Associação carioca de catadores e ex catadores,Individualizado,IND-05,IND · BASE OPERACIONAL TIJUCA,-22.9054106,-43.2518743
+LOJA DE ATENDIMENTO TIJUCA,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Loja,0.0,Não,,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.9326856,-43.2422096
+RESERVATÓRIO DO FRANÇA,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Reservatório de Água,40.0,Sim,Bravo Administração de Imovés Ltda,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.9294843,-43.1935754
+UT AFONSO VISEU,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Unidade de Tratamento de Água,21.6,Sim,ETR JARDIM GRAMACHO,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.9588857,-43.2778518
+RESERVATÓRIO FRANCISCO SÁ,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Reservatório de Água,40.0,Sim,ENDOMAQ SERVIÇOS E EMPREENDIMENTOS LTDA,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.9299091,-43.2482875
+ETE ALEGRIA,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Estação de Tratamento de Água,9422.6,Sim,Regenera Rio S.A.,Individualizado,IND-01,IND · ETE ALEGRIA,-22.87321,-43.22726
+RESERVATÓRIO PEDREGULHO,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Reservatório de Água,80.3,Sim,VALCIR TADEU PRIMO DA SILVA,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.8955679,-43.2326827
+ETE ILHA DO GOVERNADOR,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Estação de Tratamento de Esgoto,2029.0,Sim,ETE ALEGRIA - AGUAS DO RIO 4 SPE S.A.,Individualizado,IND-12,IND · ETE ILHA DO GOVERNADOR,-22.7951971,-43.1865692
+LABORATÓRIO ETE PAVUNA,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Laboratório,2821.3,Sim,Regenera Rio S.A.,Individualizado,IND-09,IND · LABORATÓRIO ETE PAVUNA,-22.8055273,-43.3055317
+BASE EEAT JURAMENTO,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Base Operacional,130.2,Sim,VALCIR TADEU PRIMO DA SILVA,Agrupado,AG-03,AGR · RJ Rio Norte (B4),-22.858292,-43.3068173
+ETE PENHA,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Estação de Tratamento de Esgoto,939.5,Sim,Ciclus Ambiental Rio S.A.,Individualizado,IND-17,IND · ETE PENHA,-22.8335042,-43.2694305
+ETE PAVUNA,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Estação de Tratamento de Esgoto,2829.3,Sim,Regenera Rio S.A.,Individualizado,IND-07,IND · ETE PAVUNA,-22.8081825,-43.3036695
+BASE OPERACIONAL PENHA II,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Base Operacional,5609.8,Sim,VALCIR TADEU PRIMO DA SILVA,Individualizado,IND-03,IND · BASE OPERACIONAL PENHA II,-22.8316553,-43.2722961
+BASE OPERACIONAL ILHA DO GOVERNADOR,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Base Operacional,283.3,Sim,Regenera Rio S.A.,Agrupado,AG-03,AGR · RJ Rio Norte (B4),-22.8059404,-43.2000505
+BASE OPERACIONAL MÉIER,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Base Operacional,1920.0,Sim,VALCIR TADEU PRIMO DA SILVA,Individualizado,IND-13,IND · BASE OPERACIONAL MÉIER,-22.89264,-43.2826211
+BASE OPERACIONAL CAMPINHO,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Base Operacional,1685.5,Sim,TORRES E SILVA TERRAPLANAGEM EIRELI,Individualizado,IND-14,IND · BASE OPERACIONAL CAMPINHO,-22.8824803,-43.3556969
+ETE PAVUNA VALO OXIDAÇÃO,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Estação de Tratamento de Esgoto,2829.3,Sim,Regenera Rio S.A.,Individualizado,IND-08,IND · ETE PAVUNA VALO OXIDAÇÃO,-22.8133638,-43.3773124
+BASE VCG BONSUCESSO,Rio de Janeiro,Rio Norte,RJ – Capital,B4,Base Operacional,37.8,Sim,Regenera Rio S.A.,Agrupado,AG-03,AGR · RJ Rio Norte (B4),-22.8686024,-43.2627471
+EEE BICA,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.8183392,-43.1880432
+EEE FARIA TIMBÓ,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.8820918,-43.2877723
+EEE FUNDÃO,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.8579044,-43.2340271
+EEE PARANAPUÃ,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.802330146260587,-43.18193031896954
+EEE SÃO BENTO,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.8174213,-43.217533
+EEE ZUMBI I,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Estação Elevatória de Esgoto,0.0,Não,,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.8196759,-43.1770802
+LOJA DE ATENDIMENTO MÉIER,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Loja,0.0,Não,,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.8909102,-43.2830415
+LOJA DE ATENDIMENTO CAMPINHO,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Loja,0.0,Não,,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.8827168,-43.3474801
+LOJA DE ATENDIMENTO ILHA DO GOVERNADOR,Rio de Janeiro,Rio Centro Sul / Comunidades,RJ – Capital,B4,Loja,0.0,Não,,Agrupado,AG-02,AGR · RJ Rio Centro Sul / Comunidades (B4),-22.8099118,-43.1954027

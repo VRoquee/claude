@@ -1,40 +1,38 @@
-﻿plano_pgrs,modalidade,sup,bloco,n_unidades,municipios,geracao_total_t,destino_dominante
-AGR · Noroeste Fluminense (Interior/B1),Agrupado,Interior,B1,25,Itaocara(6); Miracema(6); São Francisco de Itabapoana(5); Aperibé(4); Cambuci(4),580.5,PRO-AMBIENTAL TECNOLOGIA LTDA
-AGR · Baixada – Nova Iguaçu (Baixada 2/B4),Agrupado,Baixada 2,B4,19,Nova Iguaçu(18); N/D(1),342.9,Regenera Rio S.A.
-AGR · Leste Metropolitano (Leste/B1),Agrupado,Leste,B1,17,São Gonçalo(9); Itaboraí(5); Tanguá(3),288.5,Regenera Rio S.A.
-AGR · RJ Rio Centro Sul (Rio Centro Sul/B4),Agrupado,Rio Centro Sul,B4,16,Rio de Janeiro(16),221.9,Bravo Administração de Imovés Ltda
-AGR · RJ Rio Centro Sul (Rio Centro Sul/B1),Agrupado,Rio Centro Sul,B1,12,Rio de Janeiro(12),370.9,Regenera Rio S.A.
-AGR · Serrana / Centro-Norte (Interior/B1),Agrupado,Interior,B1,10,Cantagalo(4); Cordeiro(3); Duas Barras(3),312.8,[INTERIOR] - ETE APERIBE - AGUAS DO RIO 1 SPE S.A.
-AGR · Baixada – demais (Baixada 1/B4),Agrupado,Baixada 1,B4,9,Duque de Caxias(9),627.2,MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP
-AGR · Baixada – demais (Baixada 2/B4),Agrupado,Baixada 2,B4,9,Mesquita(4); Nilópolis(3); Japeri(2),11.8,INDUSTRIA EXTRATIVA E COMERICAL POP LTDA-EPP
-AGR · Lagos e Litoral (Interior/B1),Agrupado,Interior,B1,7,Rio Bonito(5); Casimiro de Abreu(2),243.0,PRO-AMBIENTAL TECNOLOGIA LTDA
-AGR · São Sebastião do Alto (Interior/B1),Agrupado,Interior,B1,5,São Sebastião do Alto(5),14.9,CTR SERVIÇOS AMBIENTAIS LTDA
-AGR · Maricá (Leste/B1),Agrupado,Leste,B1,5,Maricá(5),1.5,Ciclus Ambiental Rio S.A.
-AGR · Lagos e Litoral (Leste/B1),Agrupado,Leste,B1,4,Saquarema(4),2.9,Regenera Rio S.A.
-AGR · Magé (Baixada 1/B1),Agrupado,Baixada 1,B1,3,Magé(3),78.7,[BAIXADA 1] - ETE SARAPUI - AGUAS DO RIO 4 SPE S.A.
-AGR · Queimados (Baixada 2/B4),Agrupado,Baixada 2,B4,3,Queimados(3),305.0,TORRES E SILVA TERRAPLANAGEM EIRELI
-AGR · Cachoeira de Macacu (Interior/B1),Agrupado,Interior,B1,3,Cachoeira de Macacu(3),0.0,PRO-AMBIENTAL TECNOLOGIA LTDA
-AGR · RJ Rio Norte (Rio Norte/B4),Agrupado,Rio Norte,B4,3,Rio de Janeiro(3),451.3,Regenera Rio S.A.
-AGR · Belford Roxo (Baixada 1/B4),Agrupado,Baixada 1,B4,2,Belford Roxo(2),540.9,Ciclus Ambiental Rio S.A.
-AGR · São João de Meriti (Baixada 1/B4),Agrupado,Baixada 1,B4,2,São João de Meriti(2),81.0,MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP
-AGR · RJ Comunidades (Comunidades/B4),Agrupado,Comunidades,B4,2,Rio de Janeiro(2),163.5,Regenera Rio S.A.
-AGR · RJ Comunidades (Comunidades/B1),Agrupado,Comunidades,B1,2,Rio de Janeiro(2),76.9,VALCIR TADEU PRIMO DA SILVA
-AGR · RJ Leste (Leste/B4),Agrupado,Leste,B4,2,Rio de Janeiro(2),12.8,Regenera Rio S.A.
-IND · BASE OPERACIONAL PENHA,Individualizado,Rio Norte,B4,2,Rio de Janeiro(2),11219.6,VALCIR TADEU PRIMO DA SILVA
-IND · RESERVATORIO VILAR DOS TELES,Individualizado,Baixada 1,B4,1,São João de Meriti(1),1080.0,ENDOMAQ SERVIÇOS E EMPREENDIMENTOS LTDA
-IND · SEDE NILOPOLIS,Individualizado,Baixada 2,B4,1,Nilópolis(1),2104.4,Empresa Gerencial de Projetos Navais - EMGEPRON
-IND · BASE OPERACIONAL ENGENHO DE DENTRO,Individualizado,Comunidades,B4,1,Rio de Janeiro(1),575.1,VALCIR TADEU PRIMO DA SILVA
-IND · BASE OPERACIONAL SÃO GONÇALO,Individualizado,Leste,B1,1,São Gonçalo(1),1364.2,Central de Tratamento de Residuos Alcantara S/A
-IND · ETE SÃO GONÇALO II,Individualizado,Leste,B1,1,São Gonçalo(1),6782.4,Ciclus Ambiental Rio S.A.
-IND · EEE ANDRÉ AZEVEDO,Individualizado,Rio Centro Sul,B1,1,Rio de Janeiro(1),695.1,Regenera Rio S.A.
-IND · BASE OPERACIONAL BOTAFOGO,Individualizado,Rio Centro Sul,B1,1,Rio de Janeiro(1),3087.4,Associação carioca de catadores e ex catadores
-IND · BASE OPERACIONAL GÁVEA,Individualizado,Rio Centro Sul,B1,1,Rio de Janeiro(1),2498.1,VALCIR TADEU PRIMO DA SILVA
-IND · BASE OPERACIONAL TIJUCA,Individualizado,Rio Centro Sul,B4,1,Rio de Janeiro(1),3910.2,Associação carioca de catadores e ex catadores
-IND · ETE ALEGRIA,Individualizado,Rio Centro Sul,B4,1,Rio de Janeiro(1),9422.6,Regenera Rio S.A.
-IND · ETE ILHA DO GOVERNADOR,Individualizado,Rio Norte,B4,1,Rio de Janeiro(1),2029.0,ETE ALEGRIA - AGUAS DO RIO 4 SPE S.A.
-IND · LABORATÓRIO ETE PAVUNA,Individualizado,Rio Norte,B4,1,Rio de Janeiro(1),2821.3,Regenera Rio S.A.
-IND · ETE PENHA,Individualizado,Rio Norte,B4,1,Rio de Janeiro(1),939.5,Ciclus Ambiental Rio S.A.
-IND · ETE PAVUNA,Individualizado,Rio Norte,B4,1,Rio de Janeiro(1),2829.3,Regenera Rio S.A.
-IND · BASE OPERACIONAL MÉIER,Individualizado,Rio Norte,B4,1,Rio de Janeiro(1),1920.0,VALCIR TADEU PRIMO DA SILVA
-IND · BASE OPERACIONAL CAMPINHO,Individualizado,Rio Norte,B4,1,Rio de Janeiro(1),1685.5,TORRES E SILVA TERRAPLANAGEM EIRELI
-IND · ETE PAVUNA VALO OXIDAÇÃO,Individualizado,Rio Norte,B4,1,Rio de Janeiro(1),2829.3,Regenera Rio S.A.
+﻿cod_pgrs,modalidade,sup,bloco,n_unidades,municipios,geracao_total_t,destino_dominante
+IND-01,Individualizado,Rio Centro Sul / Comunidades,B4,1,Rio de Janeiro(1),9422.6,Regenera Rio S.A.
+IND-02,Individualizado,Leste,B1,1,São Gonçalo(1),6782.4,Ciclus Ambiental Rio S.A.
+IND-03,Individualizado,Rio Norte,B4,1,Rio de Janeiro(1),5609.8,VALCIR TADEU PRIMO DA SILVA
+IND-04,Individualizado,Rio Norte,B4,1,Rio de Janeiro(1),5609.8,VALCIR TADEU PRIMO DA SILVA
+IND-05,Individualizado,Rio Centro Sul / Comunidades,B4,1,Rio de Janeiro(1),3910.2,Associação carioca de catadores e ex catadores
+IND-06,Individualizado,Rio Centro Sul / Comunidades,B1,1,Rio de Janeiro(1),3087.4,Associação carioca de catadores e ex catadores
+IND-07,Individualizado,Rio Norte,B4,1,Rio de Janeiro(1),2829.3,Regenera Rio S.A.
+IND-08,Individualizado,Rio Norte,B4,1,Rio de Janeiro(1),2829.3,Regenera Rio S.A.
+IND-09,Individualizado,Rio Norte,B4,1,Rio de Janeiro(1),2821.3,Regenera Rio S.A.
+IND-10,Individualizado,Rio Centro Sul / Comunidades,B1,1,Rio de Janeiro(1),2498.1,VALCIR TADEU PRIMO DA SILVA
+IND-11,Individualizado,Baixada 2,B4,1,Nilópolis(1),2104.4,Empresa Gerencial de Projetos Navais - EMGEPRON
+IND-12,Individualizado,Rio Norte,B4,1,Rio de Janeiro(1),2029.0,ETE ALEGRIA - AGUAS DO RIO 4 SPE S.A.
+IND-13,Individualizado,Rio Norte,B4,1,Rio de Janeiro(1),1920.0,VALCIR TADEU PRIMO DA SILVA
+IND-14,Individualizado,Rio Norte,B4,1,Rio de Janeiro(1),1685.5,TORRES E SILVA TERRAPLANAGEM EIRELI
+IND-15,Individualizado,Leste,B1,1,São Gonçalo(1),1364.2,Central de Tratamento de Residuos Alcantara S/A
+IND-16,Individualizado,Baixada 1,B4,1,São João de Meriti(1),1080.0,ENDOMAQ SERVIÇOS E EMPREENDIMENTOS LTDA
+IND-17,Individualizado,Rio Norte,B4,1,Rio de Janeiro(1),939.5,Ciclus Ambiental Rio S.A.
+IND-18,Individualizado,Rio Centro Sul / Comunidades,B1,1,Rio de Janeiro(1),695.1,Regenera Rio S.A.
+IND-19,Individualizado,Rio Centro Sul / Comunidades,B4,1,Rio de Janeiro(1),575.1,VALCIR TADEU PRIMO DA SILVA
+AG-01,Agrupado,Rio Centro Sul / Comunidades,B1,14,Rio de Janeiro(14),447.8,VALCIR TADEU PRIMO DA SILVA
+AG-02,Agrupado,Rio Centro Sul / Comunidades,B4,20,Rio de Janeiro(20),398.2,Regenera Rio S.A.
+AG-03,Agrupado,Rio Norte,B4,3,Rio de Janeiro(3),451.3,Regenera Rio S.A.
+AG-04,Agrupado,Leste,B1,5,Maricá(5),1.5,Ciclus Ambiental Rio S.A.
+AG-05,Agrupado,Leste,B1,4,Saquarema(4),2.9,Regenera Rio S.A.
+AG-06,Agrupado,Leste,B1,17,São Gonçalo(9); Itaboraí(5); Tanguá(3),288.5,Regenera Rio S.A.
+AG-07,Agrupado,Baixada 1,B1,3,Magé(3),78.7,[BAIXADA 1] - ETE SARAPUI - AGUAS DO RIO 4 SPE S.A.
+AG-08,Agrupado,Baixada 1,B4,2,Belford Roxo(2),540.9,Ciclus Ambiental Rio S.A.
+AG-09,Agrupado,Baixada 1,B4,2,São João de Meriti(2),81.0,MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP
+AG-10,Agrupado,Baixada 1,B4,9,Duque de Caxias(9),627.2,MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP
+AG-11,Agrupado,Baixada 2,B4,3,Queimados(3),305.0,TORRES E SILVA TERRAPLANAGEM EIRELI
+AG-12,Agrupado,Baixada 2,B4,19,Nova Iguaçu(18); N/D(1),342.9,Regenera Rio S.A.
+AG-13,Agrupado,Baixada 2,B4,9,Mesquita(4); Nilópolis(3); Japeri(2),11.8,INDUSTRIA EXTRATIVA E COMERICAL POP LTDA-EPP
+AG-14,Agrupado,Interior,B1,3,Cachoeira de Macacu(3),0.0,PRO-AMBIENTAL TECNOLOGIA LTDA
+AG-15,Agrupado,Interior,B1,5,São Sebastião do Alto(5),14.9,CTR SERVIÇOS AMBIENTAIS LTDA
+AG-16,Agrupado,Interior,B1,7,Rio Bonito(5); Casimiro de Abreu(2),243.0,PRO-AMBIENTAL TECNOLOGIA LTDA
+AG-17,Agrupado,Interior,B1,25,Itaocara(6); Miracema(6); São Francisco de Itabapoana(5); Aperibé(4); Cambuci(4),580.5,PRO-AMBIENTAL TECNOLOGIA LTDA
+AG-18,Agrupado,Interior,B1,10,Cantagalo(4); Cordeiro(3); Duas Barras(3),312.8,[INTERIOR] - ETE APERIBE - AGUAS DO RIO 1 SPE S.A.

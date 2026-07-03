@@ -11,6 +11,6 @@ PONTOS (unidades) — mostram O PGRS de cada unidade (objetivo principal):
 MUNICÍPIOS — contexto regional:
   • COR = Superintendência (SUP). Rio capital = "multi-SUP" (abrange 4).
 
-ESTRUTURA: 39 PGRS = 18 individualizados (>=500 t/ano) + 21 agrupados
+ESTRUTURA: 37 PGRS = 19 individualizados (>=500 t/ano) + 18 agrupados
 (por SUP x Bloco x Área; nunca cruza SUP nem Bloco). Detalhe em PGRS_Reorganizado.csv
 e Planos_PGRS_Resumo.csv. Termo de Referência atualizado: TR_PGRS_AguasDoRio_Rev04.docx.
