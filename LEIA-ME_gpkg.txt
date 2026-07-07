@@ -14,3 +14,5 @@ MUNICÍPIOS — contexto regional:
 ESTRUTURA: 37 PGRS = 19 individualizados (>=500 t/ano) + 18 agrupados
 (por SUP x Bloco x Área; nunca cruza SUP nem Bloco). Detalhe em PGRS_Reorganizado.csv
 e Planos_PGRS_Resumo.csv. Termo de Referência atualizado: TR_PGRS_AguasDoRio_Rev04.docx.
+
+ATUALIZAÇÃO: ETA Queimados incluída como PGRS individualizado (IND-19); posição aproximada em Queimados, a confirmar. Total: 180 unidades / 37 PGRS.

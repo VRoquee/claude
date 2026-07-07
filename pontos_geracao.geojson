@@ -154,7 +154,7 @@
         "destino": "Regenera Rio S.A.",
         "modalidade": "Individualizado",
         "plano_pgrs": "IND · ETE PAVUNA",
-        "cod_pgrs": "IND-06"
+        "cod_pgrs": "IND-07"
       }
     },
     {
@@ -179,7 +179,7 @@
         "destino": "Regenera Rio S.A.",
         "modalidade": "Individualizado",
         "plano_pgrs": "IND · ETE PAVUNA VALO OXIDAÇÃO",
-        "cod_pgrs": "IND-07"
+        "cod_pgrs": "IND-06"
       }
     },
     {
@@ -529,7 +529,7 @@
         "destino": "Ciclus Ambiental Rio S.A.",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Belford Roxo (Baixada 1/B4)",
-        "cod_pgrs": "AG-08"
+        "cod_pgrs": "AG-09"
       }
     },
     {
@@ -654,7 +654,7 @@
         "destino": "MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · Belford Roxo (Baixada 1/B4)",
-        "cod_pgrs": "AG-08"
+        "cod_pgrs": "AG-09"
       }
     },
     {
@@ -979,7 +979,7 @@
         "destino": "MARIOTINI TRANSPORTES GESTAO DE RESIDUOS E APOIO A CONSTRUÇAO CIVIL LTDA-EPP",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · São João de Meriti (Baixada 1/B4)",
-        "cod_pgrs": "AG-09"
+        "cod_pgrs": "AG-08"
       }
     },
     {
@@ -1079,7 +1079,7 @@
         "destino": "",
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · São João de Meriti (Baixada 1/B4)",
-        "cod_pgrs": "AG-09"
+        "cod_pgrs": "AG-08"
       }
     },
     {
@@ -4480,6 +4480,31 @@
         "modalidade": "Agrupado",
         "plano_pgrs": "AGR · RJ Rio Norte (B4)",
         "cod_pgrs": "AG-03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.5548,
+          -22.7135
+        ]
+      },
+      "properties": {
+        "unidade": "ETA QUEIMADOS",
+        "municipio": "Queimados",
+        "bloco": "B4",
+        "geracao_t": "",
+        "cat_pgrs": "Individualizado",
+        "tipo": "Estação de Tratamento de Água",
+        "precisao": "aproximada (cidade)",
+        "sup": "Baixada 2",
+        "area": "Agrupado/Municipal",
+        "destino": "",
+        "modalidade": "Individualizado",
+        "plano_pgrs": "IND · ETA QUEIMADOS",
+        "cod_pgrs": "IND-19"
       }
     }
   ]
